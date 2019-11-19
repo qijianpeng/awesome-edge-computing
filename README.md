@@ -13,6 +13,25 @@ play off iFogSim; A simulator made to handle large-scale FOG networks with the
 HAFA Puddle Strategy to help evaluate the potential advantages/disadvantages 
 within user-customizable scenarios.
 
+- [Veins LTE](http://veins-lte.car2x.org/): Veins LTE is a simulator for 
+heterogeneous vehicular networks. It provides fine-grained simulation of vehicular
+networks based on IEEE 802.11p and TE.
+
+- [CloudSim](https://github.com/Cloudslab/cloudsim): CloudSim goal is to provide 
+a generalized and extensible simulation framework that enables modeling, simulation,
+and experimentation of emerging Cloud computing infrastructures and application 
+services, allowing its users to focus on specific system design issues that they 
+want to investigate, without getting concerned about the low level details related 
+to Cloud-based infrastructures and services.
+
+- [CloudSimSDN](https://github.com/Cloudslab/cloudsimsdn): An SDN extension of
+CloudSim project to simulate SDN features in the context of a cloud data center.
+CloudSimSDN supports calculating power consumption by both hosts and switches.
+For instance, network-aware VM placement policies can be evaluated using CloudSimSDN.
+
+- [lightMANO](https://github.com/lightmano/lightmano-core): A lightweight distributed
+service orchestrator designed for resource constrained multi-access edge computing
+environments.
 
 # Frameworks
 - [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source, 
