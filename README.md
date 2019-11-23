@@ -41,6 +41,10 @@ the simulation of communication networks, but it has been successfully used in
 other areas like the simulation of IT systems, queueing networks, hardware 
 architectures and business processes as well.
 
+- [EdgeNet](https://github.com/EdgeNet-Project): edgeNet is a distributed edge
+cloud, in the family of PlanetLab, GENI, Canada’s SAVI infrastructure, Japan’s 
+JGN-X, Germany’s G-Lab, and PlanetLab Europe. It is a modern distributed edge 
+cloud, incorporating advances in Cloud technologies over the past few years.
 
 # Test (data, benchmark)
 - [DeFog](https://github.com/qub-blesson/DeFog): DeFog, a first Fog benchmarking 
