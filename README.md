@@ -50,4 +50,11 @@ cloud, incorporating advances in Cloud technologies over the past few years.
 - [DeFog](https://github.com/qub-blesson/DeFog): DeFog, a first Fog benchmarking 
 suite to: (i) alleviate the burden of Fog benchmarking by using a standard 
 methodology, and (ii) facilitate the understanding of the target platform by 
-collecting a catalogue of relevant metrics for a set of benchmarks. 
+collecting a catalogue of relevant metrics for a set of benchmarks.
+
+# Tools
+- [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides 
+Network Emulation functionality for testing protocols by emulating the properties
+of wide area networks. The current version emulates variable delay, loss, 
+duplication and re-ordering.
+
