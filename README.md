@@ -51,6 +51,12 @@ cloud, incorporating advances in Cloud technologies over the past few years.
 suite to: (i) alleviate the burden of Fog benchmarking by using a standard 
 methodology, and (ii) facilitate the understanding of the target platform by 
 collecting a catalogue of relevant metrics for a set of benchmarks.
+- [CloudSuite](https://www.cloudsuite.ch/): CloudSuite is a benchmark suite for 
+cloud services. The third release consists of eight applications that have been 
+selected based on their popularity in today’s datacenters. The benchmarks are 
+based on real-world software stacks and represent real-world setups.
+
+
 
 # Tools
 - [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides 
