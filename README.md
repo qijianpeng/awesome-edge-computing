@@ -46,6 +46,18 @@ cloud, in the family of PlanetLab, GENI, Canada’s SAVI infrastructure, Japan�
 JGN-X, Germany’s G-Lab, and PlanetLab Europe. It is a modern distributed edge 
 cloud, incorporating advances in Cloud technologies over the past few years.
 
+- [MinNet](http://mininet.org/): Mininet creates a realistic virtual network, 
+running real kernel, switch and application code, on a single machine (VM, cloud
+or native), in seconds, with a single command:`sudo mn`. Mininet is also a great
+way to develop, share, and experiment with OpenFlow and Software-Defined Networking 
+systems.
+
+- [POX](https://github.com/noxrepo/pox): POX is a networking software platform
+written in Python. POX started life as an OpenFlow controller, but can now also 
+function as an OpenFlow switch, and can be useful for writing networking software
+in general. An useful link of how to simulate a SDN can check the link:
+http://www.brianlinkletter.com/using-the-pox-sdn-controller/
+
 # Test (data, benchmark)
 - [DeFog](https://github.com/qub-blesson/DeFog): DeFog, a first Fog benchmarking 
 suite to: (i) alleviate the burden of Fog benchmarking by using a standard 
