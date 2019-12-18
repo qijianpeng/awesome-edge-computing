@@ -33,6 +33,19 @@ For instance, network-aware VM placement policies can be evaluated using CloudSi
 service orchestrator designed for resource constrained multi-access edge computing
 environments.
 
+- [FogTorchPI](https://github.com/di-unipi-socc/FogTorchPI): FogTorchΠ is an open
+source prototype, developed in Java, based on a model for Fog computing infrastructures
+and applications. 1), It takes into account non-functional parameters within the model
+(i.e., hardware, software, latency and bandwidth) to determine, compare and contrast
+different eligible deployments of a given application over a Fog infrastructure.
+2), In the case of hardware capabilities, it considers CPU cores, RAM and storage 
+available at a given node or required by a given software component. 3), Software 
+capabilities are represented by a list of software names (operating system, 
+programming languages, frameworks etc). 4), It considers latency, and both download
+and upload bandwidths as QoS attributes. Latency is measured in milliseconds (ms),
+while bandwidth is given in Megabits per second (Mbps).
+**Note**: Outputs of __FogTorchPI__ can be the input of __iFogSim__.
+
 # Frameworks
 - [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source, 
 component-based, modular and open-architecture simulation environment with strong
