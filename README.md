@@ -47,13 +47,8 @@ while bandwidth is given in Megabits per second (Mbps).
 **Note**: Outputs of __FogTorchPI__ can be the input of __iFogSim__.
 
 # Frameworks
-- [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source, 
-component-based, modular and open-architecture simulation environment with strong
-GUI support and an embeddable simulation kernel. Its primary application area is
-the simulation of communication networks, but it has been successfully used in 
-other areas like the simulation of IT systems, queueing networks, hardware 
-architectures and business processes as well.
 
+## Networks
 - [EdgeNet](https://github.com/EdgeNet-Project): edgeNet is a distributed edge
 cloud, in the family of PlanetLab, GENI, Canada’s SAVI infrastructure, Japan’s 
 JGN-X, Germany’s G-Lab, and PlanetLab Europe. It is a modern distributed edge 
@@ -65,22 +60,47 @@ or native), in seconds, with a single command:`sudo mn`. Mininet is also a great
 way to develop, share, and experiment with OpenFlow and Software-Defined Networking 
 systems.
 
+- [Mosquitto](http://mosquitto.org/): Eclipse Mosquitto is an open source (EPL/EDL
+licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and
+3.1. Mosquitto is lightweight and is suitable for use on all devices from low power
+single board computers to full servers. 
+The MQTT protocol provides a lightweight method of carrying out messaging using
+a publish/subscribe model. This makes it suitable for Internet of Things messaging 
+such as with low power sensors or mobile devices such as phones, embedded computers 
+or microcontrollers.
+The Mosquitto project also provides a C library for implementing MQTT clients, 
+and the very popular `mosquitto_pub` and `mosquitto_sub` command line MQTT clients.
+
+- [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source, 
+component-based, modular and open-architecture simulation environment with strong
+GUI support and an embeddable simulation kernel. Its primary application area is
+the simulation of communication networks, but it has been successfully used in 
+other areas like the simulation of IT systems, queueing networks, hardware 
+architectures and business processes as well.
+
 - [POX](https://github.com/noxrepo/pox): POX is a networking software platform
 written in Python. POX started life as an OpenFlow controller, but can now also 
 function as an OpenFlow switch, and can be useful for writing networking software
 in general. An useful link of how to simulate a SDN can check the link:
 http://www.brianlinkletter.com/using-the-pox-sdn-controller/
 
+- [VerneMQ](https://vernemq.com/): VerneMQ is a high-performance, distributed 
+MQTT message broker. It scales horizontally and vertically on commodity hardware
+to support a high number of concurrent publishers and consumers while maintaining 
+low latency and fault tolerance. VerneMQ is the reliable message hub for your IoT 
+platform or smart products.
+
+
 # Test (data, benchmark)
-- [DeFog](https://github.com/qub-blesson/DeFog): DeFog, a first Fog benchmarking 
-suite to: (i) alleviate the burden of Fog benchmarking by using a standard 
-methodology, and (ii) facilitate the understanding of the target platform by 
-collecting a catalogue of relevant metrics for a set of benchmarks.
 - [CloudSuite](https://www.cloudsuite.ch/): CloudSuite is a benchmark suite for 
 cloud services. The third release consists of eight applications that have been 
 selected based on their popularity in today’s datacenters. The benchmarks are 
 based on real-world software stacks and represent real-world setups.
 
+- [DeFog](https://github.com/qub-blesson/DeFog): DeFog, a first Fog benchmarking 
+suite to: (i) alleviate the burden of Fog benchmarking by using a standard 
+methodology, and (ii) facilitate the understanding of the target platform by 
+collecting a catalogue of relevant metrics for a set of benchmarks.
 
 
 # Tools
