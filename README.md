@@ -48,6 +48,16 @@ while bandwidth is given in Megabits per second (Mbps).
 
 # Frameworks
 
+## Engine
+- [Apache Edgent(incubating)](https://edgent.incubator.apache.org/): Apache Edgent
+is a programming model and micro-kernel style runtime that can be embedded in 
+gateways and small footprint edge devices enabling local, real-time, analytics 
+on the continuous streams of data coming from equipment, vehicles, systems,
+appliances, devices and sensors of all kinds (for example, Raspberry Pis or smart 
+phones). Working in conjunction with centralized analytic systems, Apache Edgent 
+provides efficient and timely analytics across the whole IoT ecosystem: from the
+center to the edge.
+
 ## Networks
 - [EdgeNet](https://github.com/EdgeNet-Project): edgeNet is a distributed edge
 cloud, in the family of PlanetLab, GENI, Canada’s SAVI infrastructure, Japan’s 
