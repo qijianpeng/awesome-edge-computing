@@ -58,6 +58,21 @@ phones). Working in conjunction with centralized analytic systems, Apache Edgent
 provides efficient and timely analytics across the whole IoT ecosystem: from the
 center to the edge.
 
+- [OpenStack++](http://elijah.cs.cmu.edu/development.html): is a framework developed 
+by Carnegie Mellon University Pittsburgh for providing VM-based cloudlet platform
+on regular x86 computers for mobile application offloading. A set of new mobile 
+computing applications that build upon OpenStack++ and leverage its support for 
+cloudlets is also supported.
+
+- [WSO2-IoT Server](https://wso2.com/iot): An extension of the popular open-source
+enterprise service-oriented integration platform WSO2 server that consists of 
+certain IoT-related mechanisms, such as connecting a broad range of common IoT
+devices with the cloud using standard protocols such as MQTT and XMPP. Further,
+WSO2–IoT server includes the embedded Siddhi 3.0 component that allows the system 
+to deploy real-time streaming processes in embedded devices. In other words,
+WSO2–IoT server provides the FEC computing capability to outer-edge devices.
+
+
 ## Networks
 - [EdgeNet](https://github.com/EdgeNet-Project): edgeNet is a distributed edge
 cloud, in the family of PlanetLab, GENI, Canada’s SAVI infrastructure, Japan’s 
