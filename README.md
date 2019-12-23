@@ -103,6 +103,14 @@ the simulation of communication networks, but it has been successfully used in
 other areas like the simulation of IT systems, queueing networks, hardware 
 architectures and business processes as well.
 
+- [Open vSwitch](https://www.openvswitch.org/):  is a production quality, multilayer 
+virtual switch licensed under the open source Apache 2.0 license.  It is designed
+to enable massive network automation through programmatic extension, while still 
+supporting standard management interfaces and protocols (e.g. NetFlow, sFlow,
+IPFIX, RSPAN, CLI, LACP, 802.1ag).  In addition, it is designed to support distribution
+across multiple physical servers similar to VMware's vNetwork distributed vswitch 
+or Cisco's Nexus 1000V. 
+
 - [POX](https://github.com/noxrepo/pox): POX is a networking software platform
 written in Python. POX started life as an OpenFlow controller, but can now also 
 function as an OpenFlow switch, and can be useful for writing networking software
