@@ -58,6 +58,14 @@ phones). Working in conjunction with centralized analytic systems, Apache Edgent
 provides efficient and timely analytics across the whole IoT ecosystem: from the
 center to the edge.
 
+- [ENORM](https://github.com/qub-blesson/ENORM): The ENORM framework primarily
+addresses the deployment and load balancing challenges on individual edge nodes. 
+ENORM operates in a three-tier environment, but a master controller does not
+control the edge nodes. Instead, it is assumed that they are visible to cloud 
+servers that may want to make use of the edge. The framework allows for partitioning
+a cloud server and offloading it to edge nodes for improving the overall QoS of 
+the application.
+
 - [OpenStack++](http://elijah.cs.cmu.edu/development.html): is a framework developed 
 by Carnegie Mellon University Pittsburgh for providing VM-based cloudlet platform
 on regular x86 computers for mobile application offloading. A set of new mobile 
