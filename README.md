@@ -16,6 +16,13 @@ For instance, network-aware VM placement policies can be evaluated using CloudSi
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
 Environment for Performance Evaluation of Edge Computing Systems.
 
+- [FogNetSim\+\+](https://github.com/rtqayyum/fognetsimpp): FogNetSim\+\+ extends 
+OMNeT\+\+, which is a well known framework for building network simulators, to model
+all these aspects. Moreover, it includes popular communication protocols for 
+simulation, such as TCP, UDP, MQTT, and CoAP. Furthermore, FogNetSim\+\+ models 
+several other aspects, such as energy consumption, pricing, mobility, and handoff 
+mechanisms.
+
 - [FogTorchPI](https://github.com/di-unipi-socc/FogTorchPI): FogTorchΠ is an open
 source prototype, developed in Java, based on a model for Fog computing infrastructures
 and applications. 1), It takes into account non-functional parameters within the model
@@ -52,6 +59,28 @@ within user-customizable scenarios.
 - [Veins LTE](http://veins-lte.car2x.org/): Veins LTE is a simulator for 
 heterogeneous vehicular networks. It provides fine-grained simulation of vehicular
 networks based on IEEE 802.11p and TE.
+
+- [VirtFogSim](https://github.com/mscarpiniti/VirtFogSim): VirtFogSim is a 
+MATLAB-supported software toolbox that allows the dynamic joint optimization and 
+tracking of the energy and delay performance of Mobile-Fog-Cloud systems for the
+execution of applications described by general Directed Application Graphs (DAGs).
+Check the paper [link](https://doi.org/10.3390/app9061160) for more details.
+
+- [YAFS(Yet Another Fog Simulator)](https://github.com/acsicuib/YAFS): YAFS is a
+simulator tool based on Python of architectures such as: Fog Computing ecosystems
+for several analysis regarding with the placement of resources, cost deployment,
+network design, ... IoT environments are the most evident fact of this type of 
+architecture. The highlights points of YAFS are:
+  - Dinamyc topology: entities and network links can be created or removed along
+  the simulation.
+  - Dinamyc creation of messages sources: sensors can generate messages from 
+  different point access along the simulation.
+  - And for hence, the placement allocation algorithm and the orchestration algorithm,
+  that are extended by the user, can run along the simulation.
+  - The topology of the network is based on Complex Network theory. Thus, the 
+  algorithms can obtain more valuable indicators from topological features.
+  - The results are stored in a raw format in a nosql database. The simpler the 
+  format, the easier it is to perform any type of statistics.
 
 # Frameworks
 
