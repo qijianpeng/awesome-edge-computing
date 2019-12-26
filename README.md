@@ -94,6 +94,15 @@ phones). Working in conjunction with centralized analytic systems, Apache Edgent
 provides efficient and timely analytics across the whole IoT ecosystem: from the
 center to the edge.
 
+- [Distributed Strom](http://matnar.github.io/uniroma2-storm/): Distributed Storm
+is an extension of Apache Storm that supports the execution of distributed, 
+adaptive, and QoS-aware scheduling algorithms. It introduces some key components
+on each worker node that enhance the system with adaptation capabilities, relying 
+on a MAPE (Monitor, Analyze, Plan, and Execute) feedback loop periodically executed.
+Specifically, the newly introduced components are: the AdaptiveSchedulers, the 
+QoSMonitors, and the WorkerMonitors. Logics of a `Bolt` can be regarded as an edge
+server processes the data.
+
 - [ENORM](https://github.com/qub-blesson/ENORM): The ENORM framework primarily
 addresses the deployment and load balancing challenges on individual edge nodes. 
 ENORM operates in a three-tier environment, but a master controller does not
