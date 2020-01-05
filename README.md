@@ -200,3 +200,6 @@ Network Emulation functionality for testing protocols by emulating the propertie
 of wide area networks. The current version emulates variable delay, loss, 
 duplication and re-ordering.
 
+# Applications
+- [Edge Courier](https://github.com/bumoslab/EdgeCourier): An application for 
+solving the whole-file-sync problem which needs high bandwidth in the cloud.
