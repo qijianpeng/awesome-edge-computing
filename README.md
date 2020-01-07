@@ -56,6 +56,17 @@ play off iFogSim; A simulator made to handle large-scale FOG networks with the
 HAFA Puddle Strategy to help evaluate the potential advantages/disadvantages 
 within user-customizable scenarios.
 
+-[RECAP Simulator Framework](https://recap-project.eu/simulators/): The RECAP 
+Simulation Framework is an open source simulation framework designed to support 
+experimentation of infrastructure with different description models for workload,
+user distribution, network topology, and (physical and virtual) resource placement.
+It is able to simulate different use cases including Virtual Network Functions
+(VNFs), Elasticsearch, smart cities, and virtual Content Delivery Networks (vCDN).
+The output of the RECAP Simulation Framework depends on the use case, but in 
+general, it is a set of metrics predefined by the user such as bandwidth, resource
+consumption (CPU, memory, storage), network delay, energy consumption, active number
+of VMs, cache hits and cache misses.
+
 - [Veins LTE](http://veins-lte.car2x.org/): Veins LTE is a simulator for 
 heterogeneous vehicular networks. It provides fine-grained simulation of vehicular
 networks based on IEEE 802.11p and TE.
