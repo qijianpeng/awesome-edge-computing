@@ -56,7 +56,7 @@ play off iFogSim; A simulator made to handle large-scale FOG networks with the
 HAFA Puddle Strategy to help evaluate the potential advantages/disadvantages 
 within user-customizable scenarios.
 
--[RECAP Simulator Framework](https://recap-project.eu/simulators/): The RECAP 
+- [RECAP Simulator Framework](https://recap-project.eu/simulators/): The RECAP 
 Simulation Framework is an open source simulation framework designed to support 
 experimentation of infrastructure with different description models for workload,
 user distribution, network topology, and (physical and virtual) resource placement.
