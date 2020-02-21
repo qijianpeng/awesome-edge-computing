@@ -122,6 +122,14 @@ servers that may want to make use of the edge. The framework allows for partitio
 a cloud server and offloading it to edge nodes for improving the overall QoS of 
 the application.
 
+- [KubeEdge](https://github.com/kubeedge/kubeedge):KubeEdge is an open source 
+system extending native containerized application orchestration and device 
+management to hosts at the Edge. It is built upon Kubernetes and provides core 
+infrastructure support for networking, application deployment and metadata 
+synchronization between cloud and edge. It also supports MQTT and allows developers
+to author custom logic and enable resource constrained device communication at
+the Edge. KubeEdge consists of a cloud part and an edge part.
+
 - [OpenStack++](http://elijah.cs.cmu.edu/development.html): is a framework developed 
 by Carnegie Mellon University Pittsburgh for providing VM-based cloudlet platform
 on regular x86 computers for mobile application offloading. A set of new mobile 
