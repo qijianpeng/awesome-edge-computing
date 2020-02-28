@@ -43,6 +43,12 @@ speed, connection handoff, migration policies and strategies, to name a few. Mor
 details can be found in [MobFogSim: Simulation of Mobility and Migration for Fog
 Computing](https://doi.org/10.1016/j.simpat.2019.102062).
 
+- [Mini-NDN](http://minindn.memphis.edu/):Mini-NDN is a lightweight networking 
+emulation tool that enables testing, experimentation, and research on the NDN 
+platform. It was initially based on [Mini-CCNx](https://github.com/chesteve/mn-ccnx)
+which was a fork of Mininet. Mini-NDN uses the NDN libraries, NFD, NLSR, and tools
+released by the NDN project to emulate an NDN network on a single system.
+
 - [iFogSim](https://github.com/Cloudslab/iFogSim): The iFogSim Toolkit for Modeling 
 and Simulation of Resource Management Techniques in Internet of Things, Edge and 
 Fog Computing Environments.
