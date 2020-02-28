@@ -201,6 +201,12 @@ It provides a browser-based editor that makes it easy to wire together flows usi
 the wide range of nodes in the palette that can be deployed to its runtime in a 
 single-click.
 
+- [Naming Data Network Platform](https://named-data.net/codebase/platform/): NDN
+is an entirely new architecture, but one whose design principles are derived from 
+the successes of today’s Internet, reflecting our understanding of the strengths
+and limitations of the current Internet architecture, and one that can be rolled
+out through incremental deployment over the current operational Internet.
+
 # Test (data, benchmark)
 - [CloudSuite](https://www.cloudsuite.ch/): CloudSuite is a benchmark suite for 
 cloud services. The third release consists of eight applications that have been 
