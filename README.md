@@ -37,6 +37,16 @@ networks EmuFog places fog nodes efficiently based on user defined constrains
 such as network latency thresholds or resource constraints. Applications for clients
 and fog nodes can be anything shipped in a Docker container.
 
+-[Fogbed](https://github.com/fogbed/fogbed): Fogbed is a framework that extends 
+the Mininet emulator to create fog testbeds in virtualized environments. Using a 
+desktop approach, Fogbed enables the deployment of virtual fog nodes as Docker
+containers under different network conﬁgurations. The Fogbed API provides functionality 
+to add, connect and remove containers dynamically from the network topology. These
+features allow for the emulation of real world cloud and fog infrastructures in
+which it is possible to start and stop compute instances at any point in time. 
+Also, it is possible to change at runtime resource limitations for a container, 
+such as CPU time and memory available.
+
 - [FogNetSim\+\+](https://github.com/rtqayyum/fognetsimpp): FogNetSim\+\+ extends 
 OMNeT\+\+, which is a well known framework for building network simulators, to model
 all these aspects. Moreover, it includes popular communication protocols for 
