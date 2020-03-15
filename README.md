@@ -25,7 +25,7 @@ For instance, network-aware VM placement policies can be evaluated using CloudSi
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
 Environment for Performance Evaluation of Edge Computing Systems.
 
--[EmuFog](https://github.com/emufog/emufog): EmuFog helps to test fog computing 
+- [EmuFog](https://github.com/emufog/emufog): EmuFog helps to test fog computing 
 applications more efficiently. Instead of actual deploying large network topologies
 with your application to test, EmuFog helps to generate networks that can be 
 emulated easily with [MaxiNet](https://maxinet.github.io/), a distributed version
@@ -37,7 +37,7 @@ networks EmuFog places fog nodes efficiently based on user defined constrains
 such as network latency thresholds or resource constraints. Applications for clients
 and fog nodes can be anything shipped in a Docker container.
 
--[Fogbed](https://github.com/fogbed/fogbed): Fogbed is a framework that extends 
+- [Fogbed](https://github.com/fogbed/fogbed): Fogbed is a framework that extends 
 the Mininet emulator to create fog testbeds in virtualized environments. Using a 
 desktop approach, Fogbed enables the deployment of virtual fog nodes as Docker
 containers under different network conﬁgurations. The Fogbed API provides functionality 
@@ -166,6 +166,18 @@ infrastructure support for networking, application deployment and metadata
 synchronization between cloud and edge. It also supports MQTT and allows developers
 to author custom logic and enable resource constrained device communication at
 the Edge. KubeEdge consists of a cloud part and an edge part.
+
+- [OCI](https://github.com/marckoerner/oci):  a framework that enables network 
+operators with the ability to open up their edge facilities to Application Service
+Providers, by offering edge computing. As an example, consider a third-party
+Application Service Provider selling an IoT device (say, a home thermostat or
+security camera). Whenever that device shows up at the edge of the network, the 
+Open Carrier Interface framework starts the Application Service Provider implemented
+edge software at the network operator’s Central Offices, which sup- ports the IoT
+device with edge processing. Thus, even an early-stage Application Service Provider, 
+who has few financial or physical  resources, can offer the same level of edge 
+support as giant companies, and therefore can compete with them on an even footing.
+[read more](https://doi.org/10.1145/3229574.3229579).
 
 - [OpenStack++](http://elijah.cs.cmu.edu/development.html): is a framework developed 
 by Carnegie Mellon University Pittsburgh for providing VM-based cloudlet platform
