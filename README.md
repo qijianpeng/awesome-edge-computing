@@ -25,6 +25,18 @@ For instance, network-aware VM placement policies can be evaluated using CloudSi
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
 Environment for Performance Evaluation of Edge Computing Systems.
 
+-[EmuFog](https://github.com/emufog/emufog): EmuFog helps to test fog computing 
+applications more efficiently. Instead of actual deploying large network topologies
+with your application to test, EmuFog helps to generate networks that can be 
+emulated easily with [MaxiNet](https://maxinet.github.io/), a distributed version
+of the popular [Mininet](https://mininet.org/). This provides more realistic 
+results than simulations and is cheaper and faster than real deployments. As an
+input EmuFog supports generated topologies from [BRITE](https://www.cs.bu.edu/brite/)
+or measured real world topologies from [Caida](https://www.caida.org). In those 
+networks EmuFog places fog nodes efficiently based on user defined constrains
+such as network latency thresholds or resource constraints. Applications for clients
+and fog nodes can be anything shipped in a Docker container.
+
 - [FogNetSim\+\+](https://github.com/rtqayyum/fognetsimpp): FogNetSim\+\+ extends 
 OMNeT\+\+, which is a well known framework for building network simulators, to model
 all these aspects. Moreover, it includes popular communication protocols for 
