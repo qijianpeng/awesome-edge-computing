@@ -25,6 +25,10 @@ For instance, network-aware VM placement policies can be evaluated using CloudSi
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
 Environment for Performance Evaluation of Edge Computing Systems.
 
+- [EdgeSim](https://github.com/XiaofeiTJU/EdgeSim):An open-source simulator of 
+edge computing and caching. This simulator system contains three models: Content,
+Base Station and User.
+
 - [EmuFog](https://github.com/emufog/emufog): EmuFog helps to test fog computing 
 applications more efficiently. Instead of actual deploying large network topologies
 with your application to test, EmuFog helps to generate networks that can be 
