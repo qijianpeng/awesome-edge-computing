@@ -97,6 +97,15 @@ play off iFogSim; A simulator made to handle large-scale FOG networks with the
 HAFA Puddle Strategy to help evaluate the potential advantages/disadvantages 
 within user-customizable scenarios.
 
+- [PureEdgeSim](https://github.com/CharafeddineMechalikh/PureEdgeSim): a new 
+simulator based on [CloudSim Plus](http://Cloudsimplus.org) that is designed to
+simulate Cloud, Edge, and Mist computing environments. It allows to evaluate the 
+performance of resources management strategies in terms of network usage, latency,
+resources utilization, energy consumption, etc. and enables the simulation of 
+several scenarios such as the Internet of Things (IoT), connected vehicles/VANETs/MANET,
+Mist computing environments (peer-to peer networks such as mobile devices Cloud),
+and mobile Edge computing.
+
 - [RECAP Simulator Framework](https://recap-project.eu/simulators/): The RECAP 
 Simulation Framework is an open source simulation framework designed to support 
 experimentation of infrastructure with different description models for workload,
