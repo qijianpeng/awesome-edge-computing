@@ -280,6 +280,10 @@ suite to: (i) alleviate the burden of Fog benchmarking by using a standard
 methodology, and (ii) facilitate the understanding of the target platform by 
 collecting a catalogue of relevant metrics for a set of benchmarks.
 
+- [EUA Datasets](https://github.com/swinedge/eua-datase): This repository maintains
+a set of EUA datasets which we collected from real-world data sources. The datasets
+are publicly released to facilitate research in Edge Computing. All the data is
+in Australia region which contains edge server locations and user location.
 
 # Tools
 - [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides 
