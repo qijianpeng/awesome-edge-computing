@@ -219,6 +219,10 @@ or native), in seconds, with a single command:`sudo mn`. Mininet is also a great
 way to develop, share, and experiment with OpenFlow and Software-Defined Networking 
 systems.
 
+- [MobEmu](https://github.com/raduciobanu/mobemu): An opportunistic network emulator
+that can run a user-created routing or dissemination algorithm on a desired mobility
+trace or synthetic model.
+
 - [Mosquitto](http://mosquitto.org/): Eclipse Mosquitto is an open source (EPL/EDL
 licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and
 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power
@@ -229,6 +233,18 @@ such as with low power sensors or mobile devices such as phones, embedded comput
 or microcontrollers.
 The Mosquitto project also provides a C library for implementing MQTT clients, 
 and the very popular `mosquitto_pub` and `mosquitto_sub` command line MQTT clients.
+
+- [Naming Data Network Platform](https://named-data.net/codebase/platform/): NDN
+is an entirely new architecture, but one whose design principles are derived from 
+the successes of today’s Internet, reflecting our understanding of the strengths
+and limitations of the current Internet architecture, and one that can be rolled
+out through incremental deployment over the current operational Internet.
+
+- [Node-RED](https://nodered.org/): Node-RED is a programming tool for wiring 
+together hardware devices, APIs and online services in new and interesting ways.
+It provides a browser-based editor that makes it easy to wire together flows using
+the wide range of nodes in the palette that can be deployed to its runtime in a 
+single-click.
 
 - [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source, 
 component-based, modular and open-architecture simulation environment with strong
@@ -257,19 +273,14 @@ to support a high number of concurrent publishers and consumers while maintainin
 low latency and fault tolerance. VerneMQ is the reliable message hub for your IoT 
 platform or smart products.
 
-- [Node-RED](https://nodered.org/): Node-RED is a programming tool for wiring 
-together hardware devices, APIs and online services in new and interesting ways.
-It provides a browser-based editor that makes it easy to wire together flows using
-the wide range of nodes in the palette that can be deployed to its runtime in a 
-single-click.
-
-- [Naming Data Network Platform](https://named-data.net/codebase/platform/): NDN
-is an entirely new architecture, but one whose design principles are derived from 
-the successes of today’s Internet, reflecting our understanding of the strengths
-and limitations of the current Internet architecture, and one that can be rolled
-out through incremental deployment over the current operational Internet.
-
 # Test (data, benchmark)
+- [The CAIDA Anonymized Internet Traces 2015 Dataset](https://www.caida.org/data/passive/passive_2015_dataset.xml):
+CAIDA's passive traces dataset contains traces collected from high-speed monitors
+on a commercial backbone link. The data collection started in April 2008 and ended 
+in January 2019. These data are useful for research on the characteristics of 
+Internet traffic, including application breakdown, security events, geographic
+and topological distribution, flow volume and duration.
+
 - [CloudSuite](https://www.cloudsuite.ch/): CloudSuite is a benchmark suite for 
 cloud services. The third release consists of eight applications that have been 
 selected based on their popularity in today’s datacenters. The benchmarks are 
@@ -290,6 +301,9 @@ in Australia region which contains edge server locations and user location.
 Network Emulation functionality for testing protocols by emulating the properties
 of wide area networks. The current version emulates variable delay, loss, 
 duplication and re-ordering.
+
+-[GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/): Mapping source IPv4 
+addresses to geo-graphical locations.
 
 # Applications
 - [Edge Courier](https://github.com/bumoslab/EdgeCourier): An application for 
