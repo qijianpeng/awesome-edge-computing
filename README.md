@@ -22,6 +22,11 @@ CloudSim project to simulate SDN features in the context of a cloud data center.
 CloudSimSDN supports calculating power consumption by both hosts and switches.
 For instance, network-aware VM placement policies can be evaluated using CloudSimSDN.
 
+- [CORE](https://github.com/coreemu/core):The Common Open Research Emulator (CORE) 
+is a tool for emulating networks on one or more machines. You can connect these
+emulated networks to live networks. CORE consists of a GUI for drawing topologies
+of lightweight virtual machines, and Python modules for scripting network emulation.
+
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
 Environment for Performance Evaluation of Edge Computing Systems.
 
@@ -189,7 +194,7 @@ Providers, by offering edge computing. As an example, consider a third-party
 Application Service Provider selling an IoT device (say, a home thermostat or
 security camera). Whenever that device shows up at the edge of the network, the 
 Open Carrier Interface framework starts the Application Service Provider implemented
-edge software at the network operator’s Central Offices, which sup- ports the IoT
+edge software at the network operator’s Central Offices, which supports the IoT
 device with edge processing. Thus, even an early-stage Application Service Provider, 
 who has few financial or physical  resources, can offer the same level of edge 
 support as giant companies, and therefore can compete with them on an even footing.
