@@ -89,6 +89,9 @@ platform. It was initially based on [Mini-CCNx](https://github.com/chesteve/mn-c
 which was a fork of Mininet. Mini-NDN uses the NDN libraries, NFD, NLSR, and tools
 released by the NDN project to emulate an NDN network on a single system.
 
+- [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi): Emulator for 
+Software-Defined Wireless Networks.
+
 - [iFogSim](https://github.com/Cloudslab/iFogSim): The iFogSim Toolkit for Modeling 
 and Simulation of Resource Management Techniques in Internet of Things, Edge and 
 Fog Computing Environments.
