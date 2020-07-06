@@ -183,6 +183,15 @@ servers that may want to make use of the edge. The framework allows for partitio
 a cloud server and offloading it to edge nodes for improving the overall QoS of 
 the application.
 
+- [FogFlow](https://github.com/smartfog/fogflow): FogFlow is an IoT edge computing
+framework to automatically orchestrate dynamic data processing flows over cloud
+and edges driven by context, including system context on the available system
+resources from all layers, data context on the registered metadata of all available
+data entities, and also usage context on the expected QoS defined by users.
+
+- [k3OS](https://k3os.io/): k3OS is purpose-built to simplify Kubernetes operations in low-resource
+computing environments. Installs fast. Boots faster. Managed through Kubernetes.
+
 - [KubeEdge](https://github.com/kubeedge/kubeedge):KubeEdge is an open source 
 system extending native containerized application orchestration and device 
 management to hosts at the Edge. It is built upon Kubernetes and provides core 
