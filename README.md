@@ -328,3 +328,12 @@ addresses to geo-graphical locations.
 # Applications
 - [Edge Courier](https://github.com/bumoslab/EdgeCourier): An application for 
 solving the whole-file-sync problem which needs high bandwidth in the cloud.
+
+- [Eman's Edge Computing System For AI Applications](https://github.com/emmanuelacastillo/python-edge-computing-system):
+Highly accurate AI applications, particularly for Computer Vision requires 
+extensive memory and computational power. Eman's Edge Computing System orchestrates 
+resource limited devices that requires using resource heavy AI algorithms so 
+that a system can still achieve ideal system performances. This is done through 
+Edge's monitoring modules that determines how to adjust the system so the system 
+can operate efficiently based on its environments conditions.
+
