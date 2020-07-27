@@ -100,6 +100,14 @@ Fog Computing Environments.
 service orchestrator designed for resource constrained multi-access edge computing
 environments.
 
+- [Packet Tracer](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer):
+Packet Tracer is a cross-platform visual simulation tool designed by Cisco Systems 
+that allows users to create network topologies and imitate modern computer networks. 
+The software allows users to simulate the configuration of Cisco routers and switches 
+using a simulated command line interface. Packet Tracer makes use of a drag and 
+drop user interface, allowing users to add and remove simulated network devices 
+as they see fit.
+
 - [pFogSim](https://github.com/jihall77/pFogSim): pFogSim (/p/-fôg-/sɪm/) is a 
 play off iFogSim; A simulator made to handle large-scale FOG networks with the 
 HAFA Puddle Strategy to help evaluate the potential advantages/disadvantages 
