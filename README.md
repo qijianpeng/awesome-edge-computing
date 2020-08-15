@@ -22,6 +22,9 @@ CloudSim project to simulate SDN features in the context of a cloud data center.
 CloudSimSDN supports calculating power consumption by both hosts and switches.
 For instance, network-aware VM placement policies can be evaluated using CloudSimSDN.
 
+- [CFN](https://github.com/spirosmastorakis/CFN/): Computing First Networking that
+based on Named Data Networking ([NDN](https://github.com/named-data-ndnSIM/ndnSIM)).
+
 - [CORE](https://github.com/coreemu/core):The Common Open Research Emulator (CORE) 
 is a tool for emulating networks on one or more machines. You can connect these
 emulated networks to live networks. CORE consists of a GUI for drawing topologies
@@ -91,6 +94,9 @@ released by the NDN project to emulate an NDN network on a single system.
 
 - [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi): Emulator for 
 Software-Defined Wireless Networks.
+
+- [ndnSIM](https://ndnsim.net/): The ndnSIM 2.0 is NS-3 module that implements 
+Named Data Networking (NDN) communication model, the clean slate Internet design.
 
 - [iFogSim](https://github.com/Cloudslab/iFogSim): The iFogSim Toolkit for Modeling 
 and Simulation of Resource Management Techniques in Internet of Things, Edge and 
