@@ -6,7 +6,7 @@
    * [Test (data, benchmark)](#test-data-benchmark)
    * [Tools](#tools)
    * [Applications](#applications)
-
+   * [Prototype proposed in researches](#prototype-proposed-in-researches)
 # Awesome edge computing
 
 # Simulators
@@ -78,6 +78,12 @@ programming languages, frameworks etc). 4), It considers latency, and both downl
 and upload bandwidths as QoS attributes. Latency is measured in milliseconds (ms),
 while bandwidth is given in Megabits per second (Mbps).
 **Note**: Outputs of __FogTorchPI__ can be the input of __iFogSim__.
+
+- [IoTSim-Edge](https://github.com/DNJha/IoTSim-Edge): IoTSim captures the behavior
+of heterogeneous IoT and edge computing infrastructure and allows users to test
+their infrastructure and framework in an easy and configurable manner. IoTSim-Edge
+extends the capability of CloudSim to incorporate the different features of edge
+and IoT devices.
 
 - [MobFogSim](https://github.com/diogomg/MobFogSim): An extension which can support
 for Mobility of __iFogSim__. MobFogSim can model more generalised aspects related
@@ -350,4 +356,6 @@ resource limited devices that requires using resource heavy AI algorithms so
 that a system can still achieve ideal system performances. This is done through 
 Edge's monitoring modules that determines how to adjust the system so the system 
 can operate efficiently based on its environments conditions.
+
+# Prototype proposed in researches
 
