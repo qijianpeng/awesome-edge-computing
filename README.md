@@ -336,6 +336,14 @@ a set of EUA datasets which we collected from real-world data sources. The datas
 are publicly released to facilitate research in Edge Computing. All the data is
 in Australia region which contains edge server locations and user location.
 
+- [networkX](https://networkx.github.io/): NetworkX is a Python language package for explo- ration and analysis 
+of networks and network algo- rithms. The core package provides data structures 
+for representing many types of networks, or graphs, including simple graphs,
+directed graphs, and graphs with parallel edges and self-loops. The nodes in 
+NetworkX graphs can be any (hashable) Python object and edges can contain arbitrary
+data; this flexibility makes NetworkX ideal for representing networks found in many 
+different scientific fields.
+
 # Tools
 - [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides 
 Network Emulation functionality for testing protocols by emulating the properties
