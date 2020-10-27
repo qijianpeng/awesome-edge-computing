@@ -186,6 +186,13 @@ phones). Working in conjunction with centralized analytic systems, Apache Edgent
 provides efficient and timely analytics across the whole IoT ecosystem: from the
 center to the edge.
 
+- [Baetyl](https://github.com/baetyl/baetyl): Baetyl is an open edge computing 
+framework of Linux Foundation Edge that extends cloud computing, data and service 
+seamlessly to edge devices. It can provide temporary offline, low-latency computing 
+services include device connection, message routing, remote synchronization, 
+function computing, video capture, AI inference, status reporting, configuration 
+ota etc.
+
 - [Distributed Strom](http://matnar.github.io/uniroma2-storm/): Distributed Storm
 is an extension of Apache Storm that supports the execution of distributed, 
 adaptive, and QoS-aware scheduling algorithms. It introduces some key components
@@ -336,8 +343,8 @@ a set of EUA datasets which we collected from real-world data sources. The datas
 are publicly released to facilitate research in Edge Computing. All the data is
 in Australia region which contains edge server locations and user location.
 
-- [networkX](https://networkx.github.io/): NetworkX is a Python language package for explo- ration and analysis 
-of networks and network algo- rithms. The core package provides data structures 
+- [networkX](https://networkx.github.io/): NetworkX is a Python language package for exploration and analysis 
+of networks and network algorithms. The core package provides data structures 
 for representing many types of networks, or graphs, including simple graphs,
 directed graphs, and graphs with parallel edges and self-loops. The nodes in 
 NetworkX graphs can be any (hashable) Python object and edges can contain arbitrary
