@@ -354,6 +354,13 @@ NetworkX graphs can be any (hashable) Python object and edges can contain arbitr
 data; this flexibility makes NetworkX ideal for representing networks found in many 
 different scientific fields.
 
+- [Rocketfuel](https://research.cs.washington.edu/networking/rocketfuel/): 
+Traceroutes were sourced from 800 vantage points hosted by nearly 300 traceroute
+web servers. They started by mapping 10 ISPs, in Europe, Australia and the United
+States. In that process, they constructed a database of over 50 thousand IP
+addresses representing 45 thousand routers in 537 POPs connected by 80 thousand
+links.
+
 # Tools
 - [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides 
 Network Emulation functionality for testing protocols by emulating the properties
