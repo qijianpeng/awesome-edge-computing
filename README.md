@@ -85,6 +85,12 @@ their infrastructure and framework in an easy and configurable manner. IoTSim-Ed
 extends the capability of CloudSim to incorporate the different features of edge
 and IoT devices.
 
+- [IoTSim-Osmosis](https://github.com/kalwasel/IoTSim-Osmosis): IoTSim-Osmosis 
+is a simulation framework that supports the testing and validation of osmotic
+computing applications. In particular, it enables a unified modelling and 
+simulation of complex IoT applications over heterogeneous edge-cloud SDN-aware 
+environments.[DOI:10.1016/j.sysarc.2020.101956](https://doi.org/10.1016/j.sysarc.2020.101956)
+
 - [MobFogSim](https://github.com/diogomg/MobFogSim): An extension which can support
 for Mobility of __iFogSim__. MobFogSim can model more generalised aspects related
 to device mobility and VM/container migration in the fog, e.g., user position and
