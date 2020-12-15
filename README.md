@@ -348,6 +348,13 @@ suite to: (i) alleviate the burden of Fog benchmarking by using a standard
 methodology, and (ii) facilitate the understanding of the target platform by 
 collecting a catalogue of relevant metrics for a set of benchmarks.
 
+- [Edge AIBench](https://www.benchcouncil.org/EdgeAIBench/index.html): Edge AIBench 
+is a benchmark suite for end-to-end edge computing including four typical application
+scenarios: ICU Patient Monitor, Surveillance Camera, Smart Home, and Autonomous
+Vehicle, which consider the complexity of all edge computing AI scenarios. In
+addition, Edge AIBench provides an end-to-end application benchmarking framework, 
+including train, validate and inference stages. 
+
 - [EUA Datasets](https://github.com/swinedge/eua-datase): This repository maintains
 a set of EUA datasets which we collected from real-world data sources. The datasets
 are publicly released to facilitate research in Edge Computing. All the data is
