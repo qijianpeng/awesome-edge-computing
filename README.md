@@ -107,6 +107,7 @@ released by the NDN project to emulate an NDN network on a single system.
 - [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi): Emulator for 
 Software-Defined Wireless Networks.
 
+- [myifogsim](https://github.com/marciocomp/myif
 - [ndnSIM](https://ndnsim.net/): The ndnSIM 2.0 is NS-3 module that implements 
 Named Data Networking (NDN) communication model, the clean slate Internet design.
 
@@ -389,4 +390,10 @@ Edge's monitoring modules that determines how to adjust the system so the system
 can operate efficiently based on its environments conditions.
 
 # Prototype proposed in researches
-
+## Machine Learning
+- [KitNET](https://github.com/ymirsky/KitNET-py): KitNET is an online, unsupervised,
+and efficient anomaly detector. A Kitsune, in Japanese folklore, is a mythical
+fox-like creature that has a number of tails, can mimic different forms, and whose
+strength increases with experience. Similarly, Kit-NET has an ensemble of small
+neural networks (autoencoders), which are trained to mimic (reconstruct) network
+traffic patterns, and whose performance incrementally improves overtime.
