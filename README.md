@@ -398,6 +398,15 @@ can operate efficiently based on its environments conditions.
 
 # Prototype proposed in researches
 ## Machine Learning
+- [DeepThings](https://github.com/SLAM-Lab/DeepThings): A framework for locally
+distributed and adaptive CNN inference in resource-constrained IoT edge clusters.
+DeepThings mainly consists of: 1). A Fused Tile Partitioning (FTP) method for
+dividing convolutional layers into independently distributable tasks. FTP fuses
+layers and partitions them vertically in a grid fashion, which largely reduces 
+communication and task migration overhead. 2). A distributed work stealing runtime
+system for IoT clusters to adaptively distribute FTP partitions in dynamic
+application scenarios.
+
 - [KitNET](https://github.com/ymirsky/KitNET-py): KitNET is an online, unsupervised,
 and efficient anomaly detector. A Kitsune, in Japanese folklore, is a mythical
 fox-like creature that has a number of tails, can mimic different forms, and whose
