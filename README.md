@@ -407,6 +407,12 @@ communication and task migration overhead. 2). A distributed work stealing runti
 system for IoT clusters to adaptively distribute FTP partitions in dynamic
 application scenarios.
 
+- [FedProx](https://github.com/litian96/FedProx): FedProx aims to solve two key 
+challenges that differentiate it from traditional distributed optimization: 
+(1) significant variability in terms of the systems characteristics on each device
+in the network (systems heterogeneity), and (2) non-identically distributed data
+across the network (statistical heterogeneity).
+
 - [KitNET](https://github.com/ymirsky/KitNET-py): KitNET is an online, unsupervised,
 and efficient anomaly detector. A Kitsune, in Japanese folklore, is a mythical
 fox-like creature that has a number of tails, can mimic different forms, and whose
