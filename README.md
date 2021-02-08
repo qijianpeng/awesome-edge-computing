@@ -33,7 +33,7 @@ of lightweight virtual machines, and Python modules for scripting network emulat
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
 Environment for Performance Evaluation of Edge Computing Systems.
 
-- [EdgeSim](https://github.com/XiaofeiTJU/EdgeSim):An open-source simulator of 
+- [EdgeSim]https://github.com/XiaofeiTJU/SimEdgeIntel):An open-source simulator of 
 edge computing and caching. This simulator system contains three models: Content,
 Base Station and User.
 
@@ -107,7 +107,6 @@ released by the NDN project to emulate an NDN network on a single system.
 - [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi): Emulator for 
 Software-Defined Wireless Networks.
 
-- [myifogsim](https://github.com/marciocomp/myif
 - [ndnSIM](https://ndnsim.net/): The ndnSIM 2.0 is NS-3 module that implements 
 Named Data Networking (NDN) communication model, the clean slate Internet design.
 
@@ -398,6 +397,7 @@ can operate efficiently based on its environments conditions.
 
 # Prototype proposed in researches
 ## Machine Learning
+- [](https://github.com/FailureNeuralNetworksExperimental/neurocrash1.git)
 - [DeepThings](https://github.com/SLAM-Lab/DeepThings): A framework for locally
 distributed and adaptive CNN inference in resource-constrained IoT edge clusters.
 DeepThings mainly consists of: 1). A Fused Tile Partitioning (FTP) method for
