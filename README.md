@@ -25,6 +25,9 @@ For instance, network-aware VM placement policies can be evaluated using CloudSi
 - [CFN](https://github.com/spirosmastorakis/CFN/): Computing First Networking that
 based on Named Data Networking ([NDN](https://github.com/named-data-ndnSIM/ndnSIM)).
 
+- [Cooja](https://anrg.usc.edu/contiki/index.php/Cooja_Simulator): Cooja Simulator
+is a network simulator specifically designed for Wireless Sensor Networks.
+
 - [CORE](https://github.com/coreemu/core):The Common Open Research Emulator (CORE) 
 is a tool for emulating networks on one or more machines. You can connect these
 emulated networks to live networks. CORE consists of a GUI for drawing topologies
@@ -151,7 +154,7 @@ general, it is a set of metrics predefined by the user such as bandwidth, resour
 consumption (CPU, memory, storage), network delay, energy consumption, active number
 of VMs, cache hits and cache misses.
 
-[SimpleIoTSimulator](https://www.simplesoft.com/SimpleIoTSimulator.html):
+- [SimpleIoTSimulator](https://www.simplesoft.com/SimpleIoTSimulator.html):
 SimpleIoTSimulator® is an easy to use, IoT Sensor/device simulator that quickly 
 creates test environments made up of thousands of sensors and gateways, all on 
 just one computer. SimpleIoTSimulator supports many of the common IoT protocols. 
