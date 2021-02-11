@@ -33,7 +33,7 @@ of lightweight virtual machines, and Python modules for scripting network emulat
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
 Environment for Performance Evaluation of Edge Computing Systems.
 
-- [EdgeSim]https://github.com/XiaofeiTJU/SimEdgeIntel):An open-source simulator of 
+- [EdgeSim](https://github.com/XiaofeiTJU/SimEdgeIntel):An open-source simulator of 
 edge computing and caching. This simulator system contains three models: Content,
 Base Station and User.
 
@@ -150,6 +150,14 @@ The output of the RECAP Simulation Framework depends on the use case, but in
 general, it is a set of metrics predefined by the user such as bandwidth, resource
 consumption (CPU, memory, storage), network delay, energy consumption, active number
 of VMs, cache hits and cache misses.
+
+[SimpleIoTSimulator](https://www.simplesoft.com/SimpleIoTSimulator.html):
+SimpleIoTSimulator® is an easy to use, IoT Sensor/device simulator that quickly 
+creates test environments made up of thousands of sensors and gateways, all on 
+just one computer. SimpleIoTSimulator supports many of the common IoT protocols. 
+They include: MQTT, MQTT-SN, MQTT-Broker, CoAP, HTTP/s client, HTTP/s server, 
+Modbus over TCP, BACnet/IP server, LoRa Gateway, LoRa Device.
+
 
 - [Step-ONE](https://github.com/jaks6/step-one): Simulated Testbed for Edge-Fog 
 Processes based on the Opportunistic Network Environment simulator.
