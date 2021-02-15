@@ -275,6 +275,10 @@ WSO2–IoT server provides the FEC computing capability to outer-edge devices.
 
 
 ## Networks
+- [Awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools):A collection
+of tools developed by other researchers in the Computer Science area to process 
+network traces.
+
 - [EdgeNet](https://github.com/EdgeNet-Project): edgeNet is a distributed edge
 cloud, in the family of PlanetLab, GENI, Canada’s SAVI infrastructure, Japan’s 
 JGN-X, Germany’s G-Lab, and PlanetLab Europe. It is a modern distributed edge 
@@ -339,6 +343,11 @@ MQTT message broker. It scales horizontally and vertically on commodity hardware
 to support a high number of concurrent publishers and consumers while maintaining 
 low latency and fault tolerance. VerneMQ is the reliable message hub for your IoT 
 platform or smart products.
+
+- [Wonder Shaper](https://github.com/magnific0/wondershaper): Wonder Shaper 
+is a script that allows the user to limit the bandwidth of one or more network 
+adapters. It does so by using iproute's tc command, but greatly simplifies its 
+operation.
 
 # Test (data, benchmark)
 - [The CAIDA Anonymized Internet Traces 2015 Dataset](https://www.caida.org/data/passive/passive_2015_dataset.xml):
