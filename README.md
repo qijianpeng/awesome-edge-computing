@@ -417,7 +417,6 @@ can operate efficiently based on its environments conditions.
 
 # Prototype proposed in researches
 ## Machine Learning
-- [](https://github.com/FailureNeuralNetworksExperimental/neurocrash1.git)
 - [DeepThings](https://github.com/SLAM-Lab/DeepThings): A framework for locally
 distributed and adaptive CNN inference in resource-constrained IoT edge clusters.
 DeepThings mainly consists of: 1). A Fused Tile Partitioning (FTP) method for
@@ -439,3 +438,14 @@ fox-like creature that has a number of tails, can mimic different forms, and who
 strength increases with experience. Similarly, Kit-NET has an ensemble of small
 neural networks (autoencoders), which are trained to mimic (reconstruct) network
 traffic patterns, and whose performance incrementally improves overtime.
+
+- [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite): Paddle Lite is an 
+updated version of Paddle-Mobile, an open-open source deep learning framework
+designed to make it easy to perform inference on mobile, embeded, and IoT devices. 
+It is compatible with PaddlePaddle and pre-trained models from other sources.
+
+- [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an 
+open-source deep learning framework to run TensorFlow models on-device. If you 
+are new to TensorFlow Lite, we recommend that you first explore the pre-trained 
+models and run the example apps below on a real device to see what TensorFlow Lite
+can do.
