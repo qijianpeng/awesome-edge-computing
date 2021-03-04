@@ -6,6 +6,7 @@
    * [Test (data, benchmark)](#test-data-benchmark)
    * [Tools](#tools)
    * [Applications](#applications)
+   * [Edge-AI frameworks](#edge-ai-frameworks)
    * [Prototype proposed in researches](#prototype-proposed-in-researches)
 # Awesome edge computing
 
@@ -415,6 +416,18 @@ that a system can still achieve ideal system performances. This is done through
 Edge's monitoring modules that determines how to adjust the system so the system 
 can operate efficiently based on its environments conditions.
 
+# Edge-AI frameworks
+- [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite): Paddle Lite is an 
+updated version of Paddle-Mobile, an open-open source deep learning framework
+designed to make it easy to perform inference on mobile, embeded, and IoT devices. 
+It is compatible with PaddlePaddle and pre-trained models from other sources.
+
+- [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an 
+open-source deep learning framework to run TensorFlow models on-device. If you 
+are new to TensorFlow Lite, we recommend that you first explore the pre-trained 
+models and run the example apps below on a real device to see what TensorFlow Lite
+can do.
+
 # Prototype proposed in researches
 ## Machine Learning
 - [DeepThings](https://github.com/SLAM-Lab/DeepThings): A framework for locally
@@ -439,13 +452,4 @@ strength increases with experience. Similarly, Kit-NET has an ensemble of small
 neural networks (autoencoders), which are trained to mimic (reconstruct) network
 traffic patterns, and whose performance incrementally improves overtime.
 
-- [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite): Paddle Lite is an 
-updated version of Paddle-Mobile, an open-open source deep learning framework
-designed to make it easy to perform inference on mobile, embeded, and IoT devices. 
-It is compatible with PaddlePaddle and pre-trained models from other sources.
 
-- [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an 
-open-source deep learning framework to run TensorFlow models on-device. If you 
-are new to TensorFlow Lite, we recommend that you first explore the pre-trained 
-models and run the example apps below on a real device to see what TensorFlow Lite
-can do.
