@@ -425,6 +425,9 @@ It supports federated learning architectures and secure computation of various
 machine learning algorithms, including logistic regression, tree-based algorithms,
 deep learning and transfer learning.
 
+- [Once for All](https://github.com/mit-han-lab/once-for-all): Train One Network 
+and Specialize it for Efficient Deployment.
+
 - [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite): Paddle Lite is an 
 updated version of Paddle-Mobile, an open-open source deep learning framework
 designed to make it easy to perform inference on mobile, embeded, and IoT devices. 
