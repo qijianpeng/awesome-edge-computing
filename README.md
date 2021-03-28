@@ -391,13 +391,17 @@ a set of EUA datasets which we collected from real-world data sources. The datas
 are publicly released to facilitate research in Edge Computing. All the data is
 in Australia region which contains edge server locations and user location.
 
-- [networkX](https://networkx.github.io/): NetworkX is a Python language package for exploration and analysis 
-of networks and network algorithms. The core package provides data structures 
-for representing many types of networks, or graphs, including simple graphs,
-directed graphs, and graphs with parallel edges and self-loops. The nodes in 
-NetworkX graphs can be any (hashable) Python object and edges can contain arbitrary
-data; this flexibility makes NetworkX ideal for representing networks found in many 
-different scientific fields.
+- [MLPerf Inference Benchmark Suite](https://github.com/mlcommons/inference): 
+MLPerf Inference is a benchmark suite for measuring how fast systems can run 
+models in a variety of deployment scenarios.
+
+- [networkX](https://networkx.github.io/): NetworkX is a Python language package 
+for exploration and analysis of networks and network algorithms. The core package
+provides data structures for representing many types of networks, or graphs,
+including simple graphs, directed graphs, and graphs with parallel edges and 
+self-loops. The nodes in NetworkX graphs can be any (hashable) Python object and
+edges can contain arbitrary data; this flexibility makes NetworkX ideal for
+representing networks found in many different scientific fields.
 
 - [Rocketfuel](https://research.cs.washington.edu/networking/rocketfuel/): 
 Traceroutes were sourced from 800 vantage points hosted by nearly 300 traceroute
@@ -405,6 +409,13 @@ web servers. They started by mapping 10 ISPs, in Europe, Australia and the Unite
 States. In that process, they constructed a database of over 50 thousand IP
 addresses representing 45 thousand routers in 537 POPs connected by 80 thousand
 links.
+
+- [tinyMLPerf Deep Learning Benchmarks for Embedded Devices](https://github.com/mlcommons/tiny):
+The goal of TinyMLPerf is to provide a representative set of deep neural nets and
+benchmarking code to compare performance between embedded devices. Embedded devices
+include microcontrollers, DSPs, and tiny NN accelerators. These devices typically 
+run at between 10MHz and 250MHz, and can perform inference using less then 50mW 
+of power.
 
 # Tools
 - [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides 
