@@ -439,6 +439,11 @@ Edge's monitoring modules that determines how to adjust the system so the system
 can operate efficiently based on its environments conditions.
 
 # Edge-AI frameworks
+- [BerryNet](https://github.com/DT42/BerryNet): This project turns edge devices
+such as Raspberry Pi into an intelligent gateway with deep learning running on it.
+No internet connection is required, everything is done locally on the edge device
+itself. Further, multiple edge devices can create a distributed AIoT network.
+
 - [FATE](https://github.com/FederatedAI/FATE):FATE (Federated AI Technology Enabler)
 is an open-source project initiated by Webank's AI Department to provide a secure 
 computing framework to support the federated AI ecosystem. It implements secure
