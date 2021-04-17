@@ -173,6 +173,8 @@ just one computer. SimpleIoTSimulator supports many of the common IoT protocols.
 They include: MQTT, MQTT-SN, MQTT-Broker, CoAP, HTTP/s client, HTTP/s server, 
 Modbus over TCP, BACnet/IP server, LoRa Gateway, LoRa Device.
 
+- [SLEIPNIR](https://github.com/vindem/sleipnir): SLEIPNIR is a DAG scheduling
+simulator focused on mobile cloud/edge/iot infrastructures.
 
 - [Step-ONE](https://github.com/jaks6/step-one): Simulated Testbed for Edge-Fog 
 Processes based on the Opportunistic Network Environment simulator.
