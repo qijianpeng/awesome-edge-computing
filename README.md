@@ -23,6 +23,15 @@ CloudSim project to simulate SDN features in the context of a cloud data center.
 CloudSimSDN supports calculating power consumption by both hosts and switches.
 For instance, network-aware VM placement policies can be evaluated using CloudSimSDN.
 
+- [CloudSimPy](https://github.com/FengcunLi/CloudSimPy): CloudSimPy is a data centric
+task schedule framework. It is bases on [SimPy](https://simpy.readthedocs.io/),
+a process-based discrete-event simulation framework based on standard Python.
+The scientific computing, deep learning, and machine learning ecology of the 
+Python language is more complete than other programming languages. CloudSimPy 
+works well with deep learning frameworks with Python support (such as TensorFlow,
+PyTorch) The combination helps to study resource management methods based on
+machine learning or deep learning.
+
 - [CFN](https://github.com/spirosmastorakis/CFN/): Computing First Networking that
 based on Named Data Networking ([NDN](https://github.com/named-data-ndnSIM/ndnSIM)).
 
