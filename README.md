@@ -123,6 +123,9 @@ Software-Defined Wireless Networks.
 - [ndnSIM](https://ndnsim.net/): The ndnSIM 2.0 is NS-3 module that implements 
 Named Data Networking (NDN) communication model, the clean slate Internet design.
 
+- [NFaaS](https://gitlab.com/mharnen/NFaaS): Enabling to migrate functions closer
+to the user in ICN environment without a global view of the network.
+
 - [iFogSim](https://github.com/Cloudslab/iFogSim): The iFogSim Toolkit for Modeling 
 and Simulation of Resource Management Techniques in Internet of Things, Edge and 
 Fog Computing Environments.
