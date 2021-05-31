@@ -458,6 +458,15 @@ such as Raspberry Pi into an intelligent gateway with deep learning running on i
 No internet connection is required, everything is done locally on the edge device
 itself. Further, multiple edge devices can create a distributed AIoT network.
 
+- [DDNN](https://github.com/kunglab/ddnn):  distributed deep neural networks
+(DDNNs) over distributed computing hierarchies, consisting of the cloud, the edge
+(fog) and end devices. While being able to accommodate inference of a deep neural
+network (DNN) in the cloud, a DDNN also allows fast and localized inference using
+shallow portions of the neural network at the edge and end devices. Due to its
+distributed nature, DDNNs enhance data privacy and system fault tolerance for
+DNN applications. When supported by a scalable distributed computing hierarchy,
+a DDNN can scale up in neural network size and scale out in geographical span.
+
 - [FATE](https://github.com/FederatedAI/FATE):FATE (Federated AI Technology Enabler)
 is an open-source project initiated by Webank's AI Department to provide a secure 
 computing framework to support the federated AI ecosystem. It implements secure
