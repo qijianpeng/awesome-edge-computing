@@ -417,7 +417,7 @@ self-loops. The nodes in NetworkX graphs can be any (hashable) Python object and
 edges can contain arbitrary data; this flexibility makes NetworkX ideal for
 representing networks found in many different scientific fields.
 
-- [Rocketfuel](https://research.cs.washington.edu/networking/rocketfuel/): 
+- [Rocketfuel](https://research.cs.washington.edu/networking/rocketfuel/):
 Traceroutes were sourced from 800 vantage points hosted by nearly 300 traceroute
 web servers. They started by mapping 10 ISPs, in Europe, Australia and the United
 States. In that process, they constructed a database of over 50 thousand IP
@@ -427,28 +427,28 @@ links.
 - [tinyMLPerf Deep Learning Benchmarks for Embedded Devices](https://github.com/mlcommons/tiny):
 The goal of TinyMLPerf is to provide a representative set of deep neural nets and
 benchmarking code to compare performance between embedded devices. Embedded devices
-include microcontrollers, DSPs, and tiny NN accelerators. These devices typically 
-run at between 10MHz and 250MHz, and can perform inference using less then 50mW 
+include microcontrollers, DSPs, and tiny NN accelerators. These devices typically
+run at between 10MHz and 250MHz, and can perform inference using less then 50mW
 of power.
 
 # Tools
-- [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides 
+- [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides
 Network Emulation functionality for testing protocols by emulating the properties
-of wide area networks. The current version emulates variable delay, loss, 
+of wide area networks. The current version emulates variable delay, loss,
 duplication and re-ordering.
 
-- [GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/): Mapping source IPv4 
+- [GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/): Mapping source IPv4
 addresses to geo-graphical locations.
 
 # Applications
-- [Edge Courier](https://github.com/bumoslab/EdgeCourier): An application for 
+- [Edge Courier](https://github.com/bumoslab/EdgeCourier): An application for
 solving the whole-file-sync problem which needs high bandwidth in the cloud.
 
 - [Eman's Edge Computing System For AI Applications](https://github.com/emmanuelacastillo/python-edge-computing-system):
-Highly accurate AI applications, particularly for Computer Vision requires 
-extensive memory and computational power. Eman's Edge Computing System orchestrates 
-resource limited devices that requires using resource heavy AI algorithms so 
-that a system can still achieve ideal system performances. This is done through 
+Highly accurate AI applications, particularly for Computer Vision requires
+extensive memory and computational power. Eman's Edge Computing System orchestrates
+resource limited devices that requires using resource heavy AI algorithms so
+that a system can still achieve ideal system performances. This is done through
 Edge's monitoring modules that determines how to adjust the system so the system 
 can operate efficiently based on its environments conditions.
 
@@ -468,24 +468,24 @@ DNN applications. When supported by a scalable distributed computing hierarchy,
 a DDNN can scale up in neural network size and scale out in geographical span.
 
 - [FATE](https://github.com/FederatedAI/FATE):FATE (Federated AI Technology Enabler)
-is an open-source project initiated by Webank's AI Department to provide a secure 
+is an open-source project initiated by Webank's AI Department to provide a secure
 computing framework to support the federated AI ecosystem. It implements secure
 computation protocols based on homomorphic encryption and multi-party computation (MPC).
-It supports federated learning architectures and secure computation of various 
+It supports federated learning architectures and secure computation of various
 machine learning algorithms, including logistic regression, tree-based algorithms,
 deep learning and transfer learning.
 
-- [Once for All](https://github.com/mit-han-lab/once-for-all): Train One Network 
+- [Once for All](https://github.com/mit-han-lab/once-for-all): Train One Network
 and Specialize it for Efficient Deployment.
 
-- [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite): Paddle Lite is an 
+- [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite): Paddle Lite is an
 updated version of Paddle-Mobile, an open-open source deep learning framework
-designed to make it easy to perform inference on mobile, embeded, and IoT devices. 
+designed to make it easy to perform inference on mobile, embeded, and IoT devices.
 It is compatible with PaddlePaddle and pre-trained models from other sources.
 
-- [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an 
-open-source deep learning framework to run TensorFlow models on-device. If you 
-are new to TensorFlow Lite, we recommend that you first explore the pre-trained 
+- [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an
+open-source deep learning framework to run TensorFlow models on-device. If you
+are new to TensorFlow Lite, we recommend that you first explore the pre-trained
 models and run the example apps below on a real device to see what TensorFlow Lite
 can do.
 
@@ -500,8 +500,8 @@ communication and task migration overhead. 2). A distributed work stealing runti
 system for IoT clusters to adaptively distribute FTP partitions in dynamic
 application scenarios.
 
-- [FedProx](https://github.com/litian96/FedProx): FedProx aims to solve two key 
-challenges that differentiate it from traditional distributed optimization: 
+- [FedProx](https://github.com/litian96/FedProx): FedProx aims to solve two key
+challenges that differentiate it from traditional distributed optimization:
 (1) significant variability in terms of the systems characteristics on each device
 in the network (systems heterogeneity), and (2) non-identically distributed data
 across the network (statistical heterogeneity).
@@ -513,4 +513,10 @@ strength increases with experience. Similarly, Kit-NET has an ensemble of small
 neural networks (autoencoders), which are trained to mimic (reconstruct) network
 traffic patterns, and whose performance incrementally improves overtime.
 
+- [ns3-gym](https://github.com/tkn-tub/ns3-gym): OpenAI Gym is a toolkit for
+reinforcement learning (RL) widely used in research. The network simulator ns–3
+is the de-facto standard for academic and industry studies in the areas of
+networking protocols and communication technologies. ns3-gym is a framework that
+integrates both OpenAI Gym and ns-3 in order to encourage usage of RL in
+networking research.
 
