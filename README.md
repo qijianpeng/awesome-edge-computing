@@ -456,6 +456,11 @@ Edge's monitoring modules that determines how to adjust the system so the system
 can operate efficiently based on its environments conditions.
 
 # Edge-AI frameworks
+- [Apache TVM](https://tvm.apache.org/): Apache TVM is an open source machine
+learning compiler framework for CPUs, GPUs, and machine learning accelerators. 
+It aims to enable machine learning engineers to optimize and run computations
+efficiently on any hardware backend.
+
 - [BerryNet](https://github.com/DT42/BerryNet): This project turns edge devices
 such as Raspberry Pi into an intelligent gateway with deep learning running on it.
 No internet connection is required, everything is done locally on the edge device
@@ -477,6 +482,11 @@ computation protocols based on homomorphic encryption and multi-party computatio
 It supports federated learning architectures and secure computation of various
 machine learning algorithms, including logistic regression, tree-based algorithms,
 deep learning and transfer learning.
+
+- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt): NVIDIA® TensorRT™ is
+an SDK for high-performance deep learning inference. It includes a deep learning
+inference optimizer and runtime that delivers low latency and high throughput for
+deep learning inference applications.
 
 - [Once for All](https://github.com/mit-han-lab/once-for-all): Train One Network
 and Specialize it for Efficient Deployment.
