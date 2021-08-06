@@ -493,6 +493,12 @@ It supports federated learning architectures and secure computation of various
 machine learning algorithms, including logistic regression, tree-based algorithms,
 deep learning and transfer learning.
 
+- [nn-Meter](https://github.com/microsoft/nn-Meter):nn-Meter is a novel and 
+efficient system to accurately predict the inference latency of DNN models on 
+diverse edge devices. The key idea is dividing a whole model inference into
+kernels, i.e., the execution units of fused operators on a device, and conduct
+kernel-level prediction.
+
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt): NVIDIA® TensorRT™ is
 an SDK for high-performance deep learning inference. It includes a deep learning
 inference optimizer and runtime that delivers low latency and high throughput for
