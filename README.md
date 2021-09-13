@@ -542,6 +542,10 @@ strength increases with experience. Similarly, Kit-NET has an ensemble of small
 neural networks (autoencoders), which are trained to mimic (reconstruct) network
 traffic patterns, and whose performance incrementally improves overtime.
 
+- [Neurosurgeon](https://github.com/njcpe/neurosurgeon):A lightweight scheduler 
+to automatically partition DNN computation between mobile devices and datacenters
+at the granularity of neural network layers.
+
 - [ns3-gym](https://github.com/tkn-tub/ns3-gym): OpenAI Gym is a toolkit for
 reinforcement learning (RL) widely used in research. The network simulator ns–3
 is the de-facto standard for academic and industry studies in the areas of
