@@ -256,6 +256,10 @@ servers that may want to make use of the edge. The framework allows for partitio
 a cloud server and offloading it to edge nodes for improving the overall QoS of 
 the application.
 
+- [EdgeMesh](https://github.com/kubeedge/edgemesh):EdgeMesh is a part of KubeEdge,
+and provides a simple network solution for the inter-communications between 
+services at edge scenarios.
+
 - [FogFlow](https://github.com/smartfog/fogflow): FogFlow is an IoT edge computing
 framework to automatically orchestrate dynamic data processing flows over cloud
 and edges driven by context, including system context on the available system
