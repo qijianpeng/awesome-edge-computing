@@ -466,6 +466,12 @@ Edge's monitoring modules that determines how to adjust the system so the system
 can operate efficiently based on its environments conditions.
 
 # Edge-AI frameworks
+- [AI Model Efficiency Toolkit (AIMET)](https://github.com/quic/aimet):AIMET is
+a library that provides advanced model quantization and compression techniques
+for trained neural network models. It provides features that have been proven to
+improve run-time performance of deep learning neural network models with lower
+compute and memory requirements and minimal impact to task accuracy.
+
 - [Apache TVM](https://tvm.apache.org/): Apache TVM is an open source machine
 learning compiler framework for CPUs, GPUs, and machine learning accelerators. 
 It aims to enable machine learning engineers to optimize and run computations
