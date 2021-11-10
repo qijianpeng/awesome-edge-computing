@@ -360,13 +360,19 @@ to enable massive network automation through programmatic extension, while still
 supporting standard management interfaces and protocols (e.g. NetFlow, sFlow,
 IPFIX, RSPAN, CLI, LACP, 802.1ag).  In addition, it is designed to support distribution
 across multiple physical servers similar to VMware's vNetwork distributed vswitch 
-or Cisco's Nexus 1000V. 
+or Cisco's Nexus 1000V.
 
 - [POX](https://github.com/noxrepo/pox): POX is a networking software platform
 written in Python. POX started life as an OpenFlow controller, but can now also 
 function as an OpenFlow switch, and can be useful for writing networking software
 in general. An useful link of how to simulate a SDN can check the link:
 http://www.brianlinkletter.com/using-the-pox-sdn-controller/
+
+- [RICE](https://github.com/harnen/timers): A unified approach to remote function
+invocation in ICN([Naming Data Network Platform](https://named-data.net/codebase/platform/)) 
+that exploits the attractive ICN properties of name-based routing, receiver-driven
+low and congestion control, low balance, and object-oriented security while
+presenting a natural programming model to the application developer.
 
 - [VerneMQ](https://vernemq.com/): VerneMQ is a high-performance, distributed 
 MQTT message broker. It scales horizontally and vertically on commodity hardware
