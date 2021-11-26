@@ -232,6 +232,14 @@ phones). Working in conjunction with centralized analytic systems, Apache Edgent
 provides efficient and timely analytics across the whole IoT ecosystem: from the
 center to the edge.
 
+- [Akraino Edge Stack](https://www.lfedge.org/projects/akraino/): Akraino is a set of open
+infrastructures and application blueprints for the Edge, spanning a broad variety of use
+cases, including 5G, AI, Edge IaaS/PaaS, IoT, for both provider and enterprise edge
+domains.  These Blueprints have been created by the Akraino community and focus
+exclusively on the edge in all of its different forms.  What unites all of these
+blueprints is that they have been tested by the community and are ready for adoption as-is,
+or used as a starting point for customizing a new edge blueprint.
+
 - [Baetyl](https://github.com/baetyl/baetyl): Baetyl is an open edge computing 
 framework of Linux Foundation Edge that extends cloud computing, data and service 
 seamlessly to edge devices. It can provide temporary offline, low-latency computing 
@@ -259,6 +267,10 @@ the application.
 - [EdgeMesh](https://github.com/kubeedge/edgemesh):EdgeMesh is a part of KubeEdge,
 and provides a simple network solution for the inter-communications between 
 services at edge scenarios.
+
+- [EdgeX Foundry](https://www.edgexfoundry.org/): EdgeX Foundry is a highly flexible and 
+scalable open source software framework that facilitates interoperability between 
+devices and applications at the IoT Edge.
 
 - [FogFlow](https://github.com/smartfog/fogflow): FogFlow is an IoT edge computing
 framework to automatically orchestrate dynamic data processing flows over cloud
