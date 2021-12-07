@@ -499,6 +499,11 @@ exiting from deep neural networks. The architecture allows prediction results fo
 a large portion of test samples to exit the network early via these branches when
 samples can already be inferred with high confidence.
 
+- [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2):Caffe2 is a
+lightweight, modular, and scalable deep learning framework. Building on the 
+original Caffe, Caffe2 is designed with expression, speed, and modularity in
+mind.
+
 - [DDNN](https://github.com/kunglab/ddnn):  distributed deep neural networks
 (DDNNs) over distributed computing hierarchies, consisting of the cloud, the edge
 (fog) and end devices. While being able to accommodate inference of a deep neural
@@ -520,6 +525,20 @@ computation protocols based on homomorphic encryption and multi-party computatio
 It supports federated learning architectures and secure computation of various
 machine learning algorithms, including logistic regression, tree-based algorithms,
 deep learning and transfer learning.
+
+- [MACE](https://github.com/XiaoMi/mace): MACE (Mobile AI Compute Engine) is a
+deep learning inference framework optimized for mobile heterogeneous computing
+platforms. MACE provides tools and documents to help users to deploy deep learning
+models to mobile phones, tablets, personal computers and IoT devices.
+
+- [MNN](https://github.com/alibaba/MNN): MNN is a highly efficient and lightweight
+deep learning framework. It supports inference and training of deep learning
+models, and has industry leading performance for inference and training on-device.
+At present, MNN has been integrated in more than 20 apps of Alibaba Inc, such as
+Taobao, Tmall, Youku, Dingtalk, Xianyu and etc., covering more than 70 usage 
+scenarios such as live broadcast, short video capture, search recommendation,
+product searching by image, interactive marketing, equity distribution, security
+risk control. In addition, MNN is also used on embedded devices, such as IoT.
 
 - [nn-Meter](https://github.com/microsoft/nn-Meter):nn-Meter is a novel and 
 efficient system to accurately predict the inference latency of DNN models on 
