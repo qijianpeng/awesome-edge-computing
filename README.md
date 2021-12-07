@@ -535,6 +535,15 @@ deep learning inference applications.
 - [Once for All](https://github.com/mit-han-lab/once-for-all): Train One Network
 and Specialize it for Efficient Deployment.
 
+- [ONNX Runtime](https://github.com/microsoft/onnxruntime): ONNX Runtime is a
+cross-platform inference and training machine-learning accelerator. It can enable
+faster customer experiences and lower costs, supporting models from deep learning
+frameworks such as PyTorch and TensorFlow/Keras as well as classical machine
+learning libraries such as scikit-learn, LightGBM, XGBoost, etc. ONNX Runtime
+is compatible with different hardware, drivers, and operating systems, and provides
+optimal performance by leveraging hardware accelerators where applicable alongside
+graph optimizations and transforms.
+
 - [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite): Paddle Lite is an
 updated version of Paddle-Mobile, an open-open source deep learning framework
 designed to make it easy to perform inference on mobile, embeded, and IoT devices.
