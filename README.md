@@ -247,6 +247,13 @@ services include device connection, message routing, remote synchronization,
 function computing, video capture, AI inference, status reporting, configuration 
 ota etc.
 
+- [Bochs](https://bochs.sourceforge.io/): Bochs is a highly portable open source 
+IA-32 (x86) PC emulator written in C++, that runs on most popular platforms. It 
+includes emulation of the Intel x86 CPU, common I/O devices, and a custom BIOS.
+Bochs can be compiled to emulate many different x86 CPUs, from early 386 to the
+most recent x86-64 Intel and AMD processors which may even not reached the market
+yet.
+
 - [Distributed Strom](http://matnar.github.io/uniroma2-storm/): Distributed Storm
 is an extension of Apache Storm that supports the execution of distributed, 
 adaptive, and QoS-aware scheduling algorithms. It introduces some key components
@@ -282,27 +289,9 @@ data entities, and also usage context on the expected QoS defined by users.
 computer-system architecture research, encompassing system-level architecture as
 well as processor microarchitecture.
 
-- [Bochs](https://bochs.sourceforge.io/): Bochs is a highly portable open source 
-IA-32 (x86) PC emulator written in C++, that runs on most popular platforms. It 
-includes emulation of the Intel x86 CPU, common I/O devices, and a custom BIOS.
-Bochs can be compiled to emulate many different x86 CPUs, from early 386 to the
-most recent x86-64 Intel and AMD processors which may even not reached the market
-yet.
-
-- [SimFlex](https://parsa.epfl.ch/simflex/): SimFlex is proceeding along two
-synergistic fronts: (1) Flexus is a powerful and flexible simulator framework 
-that allows full-system simulation that relies heavily on well-defined component
-interface models to facilitate both model integration and compile-time simulator
-optimization. (2) SMARTS applies rigorous statistical sampling the­ory to reduce
-simulation turnaround by several orders of magnitude, while achieving high
-accuracy and confidence in estimates.
-
-- [MARSSx86](http://www.marss86.org/~marss86/index.php/Home): MARSSx86 (MARSS 
-for short) is a tool for cycle accurate full system simulation of the x86-64
-architecture, specifically multicore implementations.
-
-- [k3OS](https://k3os.io/): k3OS is purpose-built to simplify Kubernetes operations in low-resource
-computing environments. Installs fast. Boots faster. Managed through Kubernetes.
+- [k3OS](https://k3os.io/): k3OS is purpose-built to simplify Kubernetes operations
+in low-resource computing environments. Installs fast. Boots faster. Managed
+through Kubernetes.
 
 - [KubeEdge](https://github.com/kubeedge/kubeedge):KubeEdge is an open source 
 system extending native containerized application orchestration and device 
@@ -311,6 +300,10 @@ infrastructure support for networking, application deployment and metadata
 synchronization between cloud and edge. It also supports MQTT and allows developers
 to author custom logic and enable resource constrained device communication at
 the Edge. KubeEdge consists of a cloud part and an edge part.
+
+- [MARSSx86](http://www.marss86.org/~marss86/index.php/Home): MARSSx86 (MARSS 
+for short) is a tool for cycle accurate full system simulation of the x86-64
+architecture, specifically multicore implementations.
 
 - [OCI](https://github.com/marckoerner/oci):  a framework that enables network 
 operators with the ability to open up their edge facilities to Application Service
@@ -329,6 +322,14 @@ by Carnegie Mellon University Pittsburgh for providing VM-based cloudlet platfor
 on regular x86 computers for mobile application offloading. A set of new mobile 
 computing applications that build upon OpenStack++ and leverage its support for 
 cloudlets is also supported.
+
+- [SimFlex](https://parsa.epfl.ch/simflex/): SimFlex is proceeding along two
+synergistic fronts: (1) Flexus is a powerful and flexible simulator framework 
+that allows full-system simulation that relies heavily on well-defined component
+interface models to facilitate both model integration and compile-time simulator
+optimization. (2) SMARTS applies rigorous statistical sampling the­ory to reduce
+simulation turnaround by several orders of magnitude, while achieving high
+accuracy and confidence in estimates.
 
 - [WSO2-IoT Server](https://wso2.com/iot): An extension of the popular open-source
 enterprise service-oriented integration platform WSO2 server that consists of 
