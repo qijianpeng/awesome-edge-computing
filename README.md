@@ -278,6 +278,29 @@ and edges driven by context, including system context on the available system
 resources from all layers, data context on the registered metadata of all available
 data entities, and also usage context on the expected QoS defined by users.
 
+- [gem5](https://www.gem5.org/): The gem5 simulator is a modular platform for
+computer-system architecture research, encompassing system-level architecture as
+well as processor microarchitecture.
+
+- [Bochs](https://bochs.sourceforge.io/): Bochs is a highly portable open source 
+IA-32 (x86) PC emulator written in C++, that runs on most popular platforms. It 
+includes emulation of the Intel x86 CPU, common I/O devices, and a custom BIOS.
+Bochs can be compiled to emulate many different x86 CPUs, from early 386 to the
+most recent x86-64 Intel and AMD processors which may even not reached the market
+yet.
+
+- [SimFlex](https://parsa.epfl.ch/simflex/): SimFlex is proceeding along two
+synergistic fronts: (1) Flexus is a powerful and flexible simulator framework 
+that allows full-system simulation that relies heavily on well-defined component
+interface models to facilitate both model integration and compile-time simulator
+optimization. (2) SMARTS applies rigorous statistical sampling the­ory to reduce
+simulation turnaround by several orders of magnitude, while achieving high
+accuracy and confidence in estimates.
+
+- [MARSSx86](http://www.marss86.org/~marss86/index.php/Home): MARSSx86 (MARSS 
+for short) is a tool for cycle accurate full system simulation of the x86-64
+architecture, specifically multicore implementations.
+
 - [k3OS](https://k3os.io/): k3OS is purpose-built to simplify Kubernetes operations in low-resource
 computing environments. Installs fast. Boots faster. Managed through Kubernetes.
 
