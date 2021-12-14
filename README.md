@@ -329,6 +329,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   IoT, CI, Development, ARM, Embedding k8s, and Situations where a PhD in k8s
   clusterology is infeasible
 
+- [Krustlet](https://krustlet.dev/): Krustlet: Kubernetes Kubelet in Rust for
+  running WASM Krustlet acts as a Kubelet by listening on the event stream for
+  new pods that the scheduler assigns to it based on specific Kubernetes
+  tolerations. The default implementation of Krustlet listens for the
+  architecture wasm32-wasi and schedules those workloads to run in a
+  wasmtime-based runtime instead of a container runtime.
+
 - [KubeEdge](https://github.com/kubeedge/kubeedge):KubeEdge is an open source
   system extending native containerized application orchestration and device
   management to hosts at the Edge. It is built upon Kubernetes and provides core
@@ -384,6 +391,19 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   and applications, in the current approach, are managed as one single
   Kubernetes cluster. A native Kubernetes cluster can be easily converted to a
   SuperEdge cluster.
+
+- [wasmCloud](https://wasmcloud.dev/): wasmCloud is a distributed platform for
+  writing portable business logic that can run anywhere from the edge to the
+  cloud. Secure by default, wasmCloud aims to strip wasteful boilerplate from
+  the developer experience and return joy to the act of building distributed
+  applications.
+
+- [WasmEdge Runtime](https://wasmedge.org/): WasmEdge (previously known as SSVM)
+  is a lightweight, high-performance, and extensible WebAssembly runtime for
+  cloud native, edge, and decentralized applications. It is the fastest Wasm VM
+  today. WasmEdge is an official sandbox project hosted by the CNCF. Its use
+  cases include serverless apps, embedded functions, microservices, smart
+  contracts, and IoT devices.
 
 - [WSO2-IoT Server](https://wso2.com/iot): An extension of the popular
   open-source enterprise service-oriented integration platform WSO2 server that
