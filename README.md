@@ -392,6 +392,15 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   Kubernetes cluster. A native Kubernetes cluster can be easily converted to a
   SuperEdge cluster.
 
+- [WebAssembly Micro
+  Runtime](https://github.com/bytecodealliance/wasm-micro-runtime): WebAssembly
+  Micro Runtime (WAMR) is a standalone WebAssembly (WASM) runtime with a small
+  footprint. It includes a few parts as below: 1, The "iwasm" VM core,
+  supporting WebAssembly interpreter, ahead of time compilation (AoT) and
+  Just-in-Time compilation (JIT). 2, The application framework and the
+  supporting API's for the WASM applications. 3, The dynamic management of the
+  WASM applications
+
 - [wasmCloud](https://wasmcloud.dev/): wasmCloud is a distributed platform for
   writing portable business logic that can run anywhere from the edge to the
   cloud. Secure by default, wasmCloud aims to strip wasteful boilerplate from
@@ -404,6 +413,15 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   today. WasmEdge is an official sandbox project hosted by the CNCF. Its use
   cases include serverless apps, embedded functions, microservices, smart
   contracts, and IoT devices.
+
+- [Wasmer](https://wasmer.io/): Wasmer is a fast and secure WebAssembly runtime
+  that enables super lightweight containers to run anywhere: from Desktop to the
+  Cloud, Edge and IoT devices.
+
+- [Wasmtime](https://wasmtime.dev/): Wasmtime is a Bytecode Alliance project
+  that is a standalone wasm-only optimizing runtime for WebAssembly and WASI. It
+  runs WebAssembly code outside of the Web, and can be used both as a
+  command-line utility or as a library embedded in a larger application.
 
 - [WSO2-IoT Server](https://wso2.com/iot): An extension of the popular
   open-source enterprise service-oriented integration platform WSO2 server that
@@ -576,8 +594,7 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 - [Edge Courier](https://github.com/bumoslab/EdgeCourier): An application for
   solving the whole-file-sync problem which needs high bandwidth in the cloud.
 
-- [Eman's Edge Computing System For AI
-  Applications](https://github.com/emmanuelacastillo/python-edge-computing-system):
+- [Eman's Edge Computing System For AI Applications](https://github.com/emmanuelacastillo/python-edge-computing-system):
   Highly accurate AI applications, particularly for Computer Vision requires
   extensive memory and computational power. Eman's Edge Computing System
   orchestrates resource limited devices that requires using resource heavy AI
