@@ -392,6 +392,9 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   Kubernetes cluster. A native Kubernetes cluster can be easily converted to a
   SuperEdge cluster.
 
+- [WebAssembly: Curated list of awesome things regarding WebAssembly (wasm)
+  ecosystem.](https://github.com/mbasso/awesome-wasm)
+
 - [WebAssembly Micro
   Runtime](https://github.com/bytecodealliance/wasm-micro-runtime): WebAssembly
   Micro Runtime (WAMR) is a standalone WebAssembly (WASM) runtime with a small
