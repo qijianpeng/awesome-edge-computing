@@ -324,6 +324,11 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   operations in low-resource computing environments. Installs fast. Boots
   faster. Managed through Kubernetes.
 
+- [K3s](https://k3s.io/): Lightweight Kubernetes. Production ready, easy to
+  install, half the memory, all in a binary less than 100 MB. Great for Edge,
+  IoT, CI, Development, ARM, Embedding k8s, and Situations where a PhD in k8s
+  clusterology is infeasible
+
 - [KubeEdge](https://github.com/kubeedge/kubeedge):KubeEdge is an open source
   system extending native containerized application orchestration and device
   management to hosts at the Edge. It is built upon Kubernetes and provides core
@@ -355,6 +360,16 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   A set of new mobile computing applications that build upon OpenStack++ and
   leverage its support for cloudlets is also supported.
 
+- [OpenYurt](https://github.com/openyurtio/openyurt): OpenYurt has been designed
+  to meet various DevOps requirements against typical edge infrastructures. It
+  provides the same user experience for managing the edge applications as if
+  they were running in the cloud infrastructure. It addresses specific
+  challenges for cloud-edge orchestration in Kubernetes such as unreliable or
+  disconnected cloud-edge networking, edge node autonomy, edge device
+  management, region-aware deployment and so on. OpenYurt preserves intact
+  Kubernetes API compatibility, is vendor agnostic, and more importantly, is
+  SIMPLE to use.
+
 - [SimFlex](https://parsa.epfl.ch/simflex/): SimFlex is proceeding along two
   synergistic fronts: (1) Flexus is a powerful and flexible simulator framework
   that allows full-system simulation that relies heavily on well-defined
@@ -362,6 +377,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   compile-time simulator optimization. (2) SMARTS applies rigorous statistical
   sampling the­ory to reduce simulation turnaround by several orders of
   magnitude, while achieving high accuracy and confidence in estimates.
+
+- [SuperEdge](https://github.com/superedge/superedge): SuperEdge is an open
+  source container management system for edge computing to manage compute
+  resources and container applications in multiple edge regions. These resources
+  and applications, in the current approach, are managed as one single
+  Kubernetes cluster. A native Kubernetes cluster can be easily converted to a
+  SuperEdge cluster.
 
 - [WSO2-IoT Server](https://wso2.com/iot): An extension of the popular
   open-source enterprise service-oriented integration platform WSO2 server that
