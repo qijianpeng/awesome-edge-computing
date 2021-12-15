@@ -292,6 +292,16 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   for partitioning a cloud server and offloading it to edge nodes for improving
   the overall QoS of the application.
 
+- [EdgeGallery (Documents maintained in
+  Chinese)](https://gitee.com/edgegallery): EdgeGallery is a 5G edge computing
+  open source project supported by device vendors, operators, vertical industry
+  partners, etc. Its goal is to create a public platform for edge computing that
+  meets the characteristics of 5G MEC "connectivity and computation",
+  standardize open network capabilities (especially for 5G networks), and
+  generalize the lifecycle-management process of MEC application development
+  (testing, migration, and operation).
+
+
 - [EdgeMesh](https://github.com/kubeedge/edgemesh):EdgeMesh is a part of
   KubeEdge, and provides a simple network solution for the inter-communications
   between services at edge scenarios.
