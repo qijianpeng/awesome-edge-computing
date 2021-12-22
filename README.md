@@ -100,6 +100,10 @@
   while bandwidth is given in Megabits per second (Mbps). **Note**: Outputs of
   __FogTorchPI__ can be the input of __iFogSim__.
 
+- [gem5](https://www.gem5.org/): The gem5 simulator is a modular platform for
+  computer-system architecture research, encompassing system-level architecture
+  as well as processor microarchitecture.
+
 - [IoTSim-Edge](https://github.com/DNJha/IoTSim-Edge): IoTSim captures the
   behavior of heterogeneous IoT and edge computing infrastructure and allows
   users to test their infrastructure and framework in an easy and configurable
@@ -111,6 +115,10 @@
   computing applications. In particular, it enables a unified modelling and
   simulation of complex IoT applications over heterogeneous edge-cloud SDN-aware
   environments.[DOI:10.1016/j.sysarc.2020.101956](https://doi.org/10.1016/j.sysarc.2020.101956)
+
+- [MARSSx86](http://www.marss86.org/~marss86/index.php/Home): MARSSx86 (MARSS
+  for short) is a tool for cycle accurate full system simulation of the x86-64
+  architecture, specifically multicore implementations.
 
 - [MobFogSim](https://github.com/diogomg/MobFogSim): An extension which can
   support for Mobility of __iFogSim__. MobFogSim can model more generalised
@@ -127,8 +135,18 @@
   Mini-NDN uses the NDN libraries, NFD, NLSR, and tools released by the NDN
   project to emulate an NDN network on a single system.
 
+- [MinNet](http://mininet.org/): Mininet creates a realistic virtual network,
+  running real kernel, switch and application code, on a single machine (VM,
+  cloud or native), in seconds, with a single command:`sudo mn`. Mininet is also
+  a great way to develop, share, and experiment with OpenFlow and
+  Software-Defined Networking systems.
+
 - [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi): Emulator for 
 Software-Defined Wireless Networks.
+
+- [MobEmu](https://github.com/raduciobanu/mobemu): An opportunistic network
+  emulator that can run a user-created routing or dissemination algorithm on a
+  desired mobility trace or synthetic model.
 
 - [ndnSIM](https://ndnsim.net/): The ndnSIM 2.0 is NS-3 module that implements
   Named Data Networking (NDN) communication model, the clean slate Internet
@@ -144,6 +162,13 @@ Software-Defined Wireless Networks.
 - [lightMANO](https://github.com/lightmano/lightmano-core): A lightweight
   distributed service orchestrator designed for resource constrained
   multi-access edge computing environments.
+
+- [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source,
+  component-based, modular and open-architecture simulation environment with
+  strong GUI support and an embeddable simulation kernel. Its primary
+  application area is the simulation of communication networks, but it has been
+  successfully used in other areas like the simulation of IT systems, queueing
+  networks, hardware architectures and business processes as well.
 
 - [Packet
   Tracer](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer):
@@ -180,6 +205,14 @@ Software-Defined Wireless Networks.
   network delay, energy consumption, active number of VMs, cache hits and cache
   misses.
 
+- [SimFlex](https://parsa.epfl.ch/simflex/): SimFlex is proceeding along two
+  synergistic fronts: (1) Flexus is a powerful and flexible simulator framework
+  that allows full-system simulation that relies heavily on well-defined
+  component interface models to facilitate both model integration and
+  compile-time simulator optimization. (2) SMARTS applies rigorous statistical
+  sampling the­ory to reduce simulation turnaround by several orders of
+  magnitude, while achieving high accuracy and confidence in estimates.
+  
 - [SimMobility](https://github.com/smart-fm/simmobility-prod): SimMobility is an
   integrated mobility simulation platform that comprehensively simulates Future
   Mobility scenarios by integrating long, medium, and short-term travel
@@ -239,6 +272,15 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 # Frameworks
 
 ## Engine
+- [Akraino Edge Stack](https://www.lfedge.org/projects/akraino/): Akraino is a
+  set of open infrastructures and application blueprints for the Edge, spanning
+  a broad variety of use cases, including 5G, AI, Edge IaaS/PaaS, IoT, for both
+  provider and enterprise edge domains.  These Blueprints have been created by
+  the Akraino community and focus exclusively on the edge in all of its
+  different forms.  What unites all of these blueprints is that they have been
+  tested by the community and are ready for adoption as-is, or used as a
+  starting point for customizing a new edge blueprint.
+
 - [Apache Edgent(incubating)](https://edgent.incubator.apache.org/): Apache
   Edgent is a programming model and micro-kernel style runtime that can be
   embedded in gateways and small footprint edge devices enabling local,
@@ -248,14 +290,11 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   analytic systems, Apache Edgent provides efficient and timely analytics across
   the whole IoT ecosystem: from the center to the edge.
 
-- [Akraino Edge Stack](https://www.lfedge.org/projects/akraino/): Akraino is a
-  set of open infrastructures and application blueprints for the Edge, spanning
-  a broad variety of use cases, including 5G, AI, Edge IaaS/PaaS, IoT, for both
-  provider and enterprise edge domains.  These Blueprints have been created by
-  the Akraino community and focus exclusively on the edge in all of its
-  different forms.  What unites all of these blueprints is that they have been
-  tested by the community and are ready for adoption as-is, or used as a
-  starting point for customizing a new edge blueprint.
+- [Apache OpenWhisk](https://openwhisk.apache.org/): Apache OpenWhisk is an open
+  source, distributed Serverless platform that executes functions (fx) in
+  response to events at any scale. OpenWhisk manages the infrastructure, servers
+  and scaling using Docker containers so you can focus on building amazing and
+  efficient applications.
 
 - [Baetyl](https://github.com/baetyl/baetyl): Baetyl is an open edge computing
   framework of Linux Foundation Edge that extends cloud computing, data and
@@ -326,10 +365,6 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   metadata of all available data entities, and also usage context on the
   expected QoS defined by users.
 
-- [gem5](https://www.gem5.org/): The gem5 simulator is a modular platform for
-  computer-system architecture research, encompassing system-level architecture
-  as well as processor microarchitecture.
-
 - [k3OS](https://k3os.io/): k3OS is purpose-built to simplify Kubernetes
   operations in low-resource computing environments. Installs fast. Boots
   faster. Managed through Kubernetes.
@@ -353,10 +388,6 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   synchronization between cloud and edge. It also supports MQTT and allows
   developers to author custom logic and enable resource constrained device
   communication at the Edge. KubeEdge consists of a cloud part and an edge part.
-
-- [MARSSx86](http://www.marss86.org/~marss86/index.php/Home): MARSSx86 (MARSS
-  for short) is a tool for cycle accurate full system simulation of the x86-64
-  architecture, specifically multicore implementations.
 
 - [OCI](https://github.com/marckoerner/oci):  a framework that enables network
   operators with the ability to open up their edge facilities to Application
@@ -386,14 +417,6 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   management, region-aware deployment and so on. OpenYurt preserves intact
   Kubernetes API compatibility, is vendor agnostic, and more importantly, is
   SIMPLE to use.
-
-- [SimFlex](https://parsa.epfl.ch/simflex/): SimFlex is proceeding along two
-  synergistic fronts: (1) Flexus is a powerful and flexible simulator framework
-  that allows full-system simulation that relies heavily on well-defined
-  component interface models to facilitate both model integration and
-  compile-time simulator optimization. (2) SMARTS applies rigorous statistical
-  sampling the­ory to reduce simulation turnaround by several orders of
-  magnitude, while achieving high accuracy and confidence in estimates.
 
 - [SuperEdge](https://github.com/superedge/superedge): SuperEdge is an open
   source container management system for edge computing to manage compute
@@ -456,16 +479,6 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   JGN-X, Germany’s G-Lab, and PlanetLab Europe. It is a modern distributed edge
   cloud, incorporating advances in Cloud technologies over the past few years.
 
-- [MinNet](http://mininet.org/): Mininet creates a realistic virtual network,
-  running real kernel, switch and application code, on a single machine (VM,
-  cloud or native), in seconds, with a single command:`sudo mn`. Mininet is also
-  a great way to develop, share, and experiment with OpenFlow and
-  Software-Defined Networking systems.
-
-- [MobEmu](https://github.com/raduciobanu/mobemu): An opportunistic network
-  emulator that can run a user-created routing or dissemination algorithm on a
-  desired mobility trace or synthetic model.
-
 - [Mosquitto](http://mosquitto.org/): Eclipse Mosquitto is an open source
   (EPL/EDL licensed) message broker that implements the MQTT protocol versions
   5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all
@@ -489,13 +502,6 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   ways. It provides a browser-based editor that makes it easy to wire together
   flows using the wide range of nodes in the palette that can be deployed to its
   runtime in a single-click.
-
-- [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source,
-  component-based, modular and open-architecture simulation environment with
-  strong GUI support and an embeddable simulation kernel. Its primary
-  application area is the simulation of communication networks, but it has been
-  successfully used in other areas like the simulation of IT systems, queueing
-  networks, hardware architectures and business processes as well.
 
 - [Open vSwitch](https://www.openvswitch.org/):  is a production quality,
   multilayer virtual switch licensed under the open source Apache 2.0 license.
