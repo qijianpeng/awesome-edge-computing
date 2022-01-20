@@ -650,6 +650,20 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   original Caffe, Caffe2 is designed with expression, speed, and modularity in
   mind.
 
+- [CMSIS-NN](https://www.keil.com/pack/doc/CMSIS/NN/html/index.html): Collection
+  of efficient neural network kernels developed to maximize the performance and
+  minimize the memory footprint on Cortex-M processor cores.
+
+- [Compute Library](https://github.com/ARM-software/ComputeLibrary): The Compute
+  Library is a collection of low-level machine learning functions optimized for
+  Arm® Cortex®-A and Arm® Mali™ GPUs architectures.
+
+- [Core ML](https://developer.apple.com/documentation/coreml): Core ML optimizes
+  on-device performance by leveraging the CPU, GPU, and Neural Engine while
+  minimizing its memory footprint and power consumption. Running a model
+  strictly on the user’s device removes any need for a network connection, which
+  helps keep the user’s data private and your app responsive.
+
 - [DDNN](https://github.com/kunglab/ddnn):  distributed deep neural networks
   (DDNNs) over distributed computing hierarchies, consisting of the cloud, the
   edge (fog) and end devices. While being able to accommodate inference of a
@@ -679,6 +693,14 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   platforms. MACE provides tools and documents to help users to deploy deep
   learning models to mobile phones, tablets, personal computers and IoT devices.
 
+- [MegEngine](https://github.com/MegEngine/MegEngine): MegEngine is a fast,
+  scalable and easy-to-use deep learning framework, with auto-differentiation.
+
+- [MindSpore Lite](https://www.mindspore.cn/lite/en): MindSpore Lite is an
+  ultra-fast, intelligent, and simplified AI engine that enables intelligent
+  applications in all scenarios, provides E2E solutions for users, and helps
+  users enable AI capabilities.
+
 - [MNN](https://github.com/alibaba/MNN): MNN is a highly efficient and
   lightweight deep learning framework. It supports inference and training of
   deep learning models, and has industry leading performance for inference and
@@ -688,6 +710,17 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   capture, search recommendation, product searching by image, interactive
   marketing, equity distribution, security risk control. In addition, MNN is
   also used on embedded devices, such as IoT.
+
+- [ncnn](https://github.com/Tencent/ncnn): ncnn is a high-performance neural
+  network inference computing framework optimized for mobile platforms. ncnn is
+  deeply considerate about deployment and uses on mobile phones from the
+  beginning of design. ncnn does not have third party dependencies. it is
+  cross-platform, and runs faster than all known open source frameworks on
+  mobile phone cpu. Developers can easily deploy deep learning algorithm models
+  to the mobile platform by using efficient ncnn implementation, create
+  intelligent APPs, and bring the artificial intelligence to your fingertips.
+  ncnn is currently being used in many Tencent applications, such as QQ, Qzone,
+  WeChat, Pitu and so on.
 
 - [nn-Meter](https://github.com/microsoft/nn-Meter):nn-Meter is a novel and
   efficient system to accurately predict the inference latency of DNN models on
@@ -717,6 +750,37 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   designed to make it easy to perform inference on mobile, embeded, and IoT
   devices. It is compatible with PaddlePaddle and pre-trained models from other
   sources.
+
+- [PyTorch Mobile](https://pytorch.org/mobile/home/): The PyTorch Mobile runtime
+  beta release allows you to seamlessly go from training a model to deploying
+  it, while staying entirely within the PyTorch ecosystem. It provides an
+  end-to-end workflow that simplifies the research to production environment for
+  mobile devices. In addition, it paves the way for privacy-preserving features
+  via federated learning techniques.
+
+- [SNPE](https://developer.qualcomm.com/sites/default/files/docs/snpe/index.html):
+  The Snapdragon Neural Processing Engine (SNPE) is a Qualcomm Snapdragon
+  software accelerated runtime for the execution of deep neural networks. With
+  SNPE, users can:
+    - Execute an arbitrarily deep neural network
+    - Execute the network on the SnapdragonTM CPU, the AdrenoTM GPU or the
+      HexagonTM DSP.
+    - Debug the network execution on x86 Ubuntu Linux
+    - Convert Caffe, Caffe2, ONNXTM and TensorFlowTM models to a SNPE Deep
+      Learning Container (DLC) file
+    - Quantize DLC files to 8 bit fixed point for running on the Hexagon DSP
+    - Debug and analyze the performance of the network with SNPE tools
+    - Integrate a network into applications and other code via C++ or Java
+
+- [Tengine](https://github.com/OAID/Tengine): Tengine is developed by OPEN AI
+  LAB. This project meet the demand of fast and efficient deployment of deep
+  learning neural network models on embedded devices. In order to achieve
+  cross-platform deployment in many AIoT applications, this project is based on
+  the original Tengine project using C language for reconstruction, and deep
+  frame tailoring for the characteristics of limited embedded device resources.
+  Also, it adopts a completely separated front-end/back-end design, which makes
+  it possible to be transplanted and deployed onto CPU, GPU, NPU and other
+  heterogeneous computing units rapidly, conveniently.
 
 - [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an
   open-source deep learning framework to run TensorFlow models on-device. If you
