@@ -536,13 +536,9 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   operation.
 
 # Test (data, benchmark)
-- [The CAIDA Anonymized Internet Traces 2015
-  Dataset](https://www.caida.org/data/passive/passive_2015_dataset.xml): CAIDA's
-  passive traces dataset contains traces collected from high-speed monitors on a
-  commercial backbone link. The data collection started in April 2008 and ended
-  in January 2019. These data are useful for research on the characteristics of
-  Internet traffic, including application breakdown, security events, geographic
-  and topological distribution, flow volume and duration.
+- [AI Benchmark](https://ai-benchmark.com/): The performance and comparison of
+  all chipsets from Qualcomm, HiSilicon, Samsung, MediaTek and Unisoc that are
+  providing hardware acceleration for AI inference. 
 
 - [CloudSuite](https://www.cloudsuite.ch/): CloudSuite is a benchmark suite for
   cloud services. The third release consists of eight applications that have
@@ -591,6 +587,14 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   and the United States. In that process, they constructed a database of over 50
   thousand IP addresses representing 45 thousand routers in 537 POPs connected
   by 80 thousand links.
+
+- [The CAIDA Anonymized Internet Traces 2015
+  Dataset](https://www.caida.org/data/passive/passive_2015_dataset.xml): CAIDA's
+  passive traces dataset contains traces collected from high-speed monitors on a
+  commercial backbone link. The data collection started in April 2008 and ended
+  in January 2019. These data are useful for research on the characteristics of
+  Internet traffic, including application breakdown, security events, geographic
+  and topological distribution, flow volume and duration.
 
 - [tinyMLPerf Deep Learning Benchmarks for Embedded
   Devices](https://github.com/mlcommons/tiny): The goal of TinyMLPerf is to
