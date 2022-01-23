@@ -79,6 +79,16 @@
   runtime resource limitations for a container, such as CPU time and memory
   available.
 
+- [Fogify](https://ucy-linc-lab.github.io/fogify/): Fogify is an emulation
+  Framework easing the modeling, deployment and experimentation of fog testbeds.
+  Fogify provides a toolset to: model complex fog topologies comprised of
+  heterogeneous resources, network capabilities and QoS criteria; deploy the
+  modelled configuration and services using popular containerized
+  infrastructure-as-code descriptions to a cloud or local environment;
+  experiment, measure and evaluate the deployment by injecting faults and
+  adapting the configuration at runtime to test different "what-if" scenarios
+  that reveal the limitations of a service before introduced to the public.
+
 - [FogNetSim\+\+](https://github.com/rtqayyum/fognetsimpp): FogNetSim\+\+
   extends OMNeT\+\+, which is a well known framework for building network
   simulators, to model all these aspects. Moreover, it includes popular
