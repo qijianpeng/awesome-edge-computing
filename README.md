@@ -666,6 +666,23 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   device itself. Further, multiple edge devices can create a distributed AIoT
   network.
 
+- [Bi-Real Net](https://github.com/liuzechun/Bi-Real-net): Compared with the
+  standard 1-bit CNNs, Bi-Real net utilizes a simple short-cut to significantly
+  enhance the representational capability. Further, an advanced training
+  algorithm is specifically designed for training 1-bit CNNs (including Bi-Real
+  net), including a tighter approximation of the derivative of the sign function
+  with respect the activation, the magnitude-aware gradient with respect to the
+  weight, as well as a novel initialization.
+
+- [BMXNet](https://github.com/hpi-xnor/BMXNet): Apache MXNet is a deep learning
+  framework designed for both efficiency and flexibility. It allows you to mix
+  symbolic and imperative programming to maximize efficiency and productivity.
+  At its core, MXNet contains a dynamic dependency scheduler that automatically
+  parallelizes both symbolic and imperative operations on the fly. A graph
+  optimization layer on top of that makes symbolic execution fast and memory
+  efficient. MXNet is portable and lightweight, scalable to many GPUs and
+  machines.
+
 - [BranchyNet](https://github.com/kunglab/branchynet): Fast inference via early
   exiting from deep neural networks. The architecture allows prediction results
   for a large portion of test samples to exit the network early via these
@@ -684,11 +701,28 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   Library is a collection of low-level machine learning functions optimized for
   Arm® Cortex®-A and Arm® Mali™ GPUs architectures.
 
+- [Condensa](https://github.com/NVlabs/condensa): CONDENSA allows developers to
+  design strategies for compressing DL models, resulting significant reduction
+  in both the memory footprint and execution time. It uses a Bayesian
+  optimization-based method to find compression hyperparameters automatically by
+  exploiting an L-C optimizer to recover the accuracy loss during compression.
+  They reported a 2.22 times runtime improvement over an uncompressed VGG-19 on
+  the CIFAR-10 dataset with up to 65 times memory reduction. [src from: 10.1145/3469029](https://doi.org/10.1145/3469029)
+
 - [Core ML](https://developer.apple.com/documentation/coreml): Core ML optimizes
   on-device performance by leveraging the CPU, GPU, and Neural Engine while
   minimizing its memory footprint and power consumption. Running a model
   strictly on the user’s device removes any need for a network connection, which
   helps keep the user’s data private and your app responsive.
+
+- [daBNN](https://github.com/JDAI-CV/dabnn): daBNN is an open-source fast
+  inference framework developed by Zhang et al., which can implement Binary
+  Neural Networks on ARM devices [161]. An upgraded bit-packing scheme and
+  binary direct convolution have been used in this framework to shrink the cost
+  of convolution and speed up inference. This framework is written in C++ and
+  ARM assembly and has Java support for the Android package. This fast framework
+  can be 6 times faster than [BMXNet](https://github.com/hpi-xnor/BMXNet) on
+  [Bi-Real Net](https://github.com/liuzechun/Bi-Real-net). [src from: 10.1145/3469029](https://doi.org/10.1145/3469029)
 
 - [DDNN](https://github.com/kunglab/ddnn):  distributed deep neural networks
   (DDNNs) over distributed computing hierarchies, consisting of the cloud, the
@@ -699,6 +733,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   fault tolerance for DNN applications. When supported by a scalable distributed
   computing hierarchy, a DDNN can scale up in neural network size and scale out
   in geographical span.
+
+- [DeepIoT](https://github.com/yscacaca/DeepIoT): DeepIoT is a framework that
+  shrinks a neural network into smaller dense matrices but keeps the performance
+  of the algorithm almost the same. This framework finds the minimum
+  number of filters and dimensions required by each layer and reduces the
+  redundancy of that layer. [src from: 10.1145/3469029](https://doi.org/10.1145/3469029)
 
 - [Distiller](https://github.com/IntelLabs/distiller): Distiller is an
   open-source Python package for neural network compression research. It
@@ -726,6 +766,15 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   ultra-fast, intelligent, and simplified AI engine that enables intelligent
   applications in all scenarios, provides E2E solutions for users, and helps
   users enable AI capabilities.
+
+- [ML Kit](https://developers.google.com/ml-kit): ML Kit 19 is a mobile SDK
+  framework introduced by Google. It uses Google's cloud vision APIs, mobile
+  vision APIs, and TensorFlow Lite to perform tasks like text recognition, image
+  labeling, and smart reply. Curukogluall et al. tested ML Kit APIs for image
+  recognition, bar-code scanning, and text recognition on an Android device and
+  reported that these APIs recognize different types of test objects such as tea
+  cup, water glass, remote controller, and computer mouse successfully. [src
+  from: 10.1145/3469029](https://doi.org/10.1145/3469029)
 
 - [MNN](https://github.com/alibaba/MNN): MNN is a highly efficient and
   lightweight deep learning framework. It supports inference and training of
