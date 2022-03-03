@@ -7,7 +7,6 @@
    * [Tools](#tools)
    * [Applications](#applications)
    * [Edge-AI frameworks](#edge-ai-frameworks)
-   * [Prototype proposed in researches](#prototype-proposed-in-researches)
 # Awesome edge computing
 
 # Simulators
@@ -740,6 +739,15 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   number of filters and dimensions required by each layer and reduces the
   redundancy of that layer. [src from: 10.1145/3469029](https://doi.org/10.1145/3469029)
 
+- [DeepThings](https://github.com/SLAM-Lab/DeepThings): A framework for locally
+  distributed and adaptive CNN inference in resource-constrained IoT edge
+  clusters. DeepThings mainly consists of: 1). A Fused Tile Partitioning (FTP)
+  method for dividing convolutional layers into independently distributable
+  tasks. FTP fuses layers and partitions them vertically in a grid fashion,
+  which largely reduces communication and task migration overhead. 2). A
+  distributed work stealing runtime system for IoT clusters to adaptively
+  distribute FTP partitions in dynamic application scenarios.
+
 - [Distiller](https://github.com/IntelLabs/distiller): Distiller is an
   open-source Python package for neural network compression research. It
   provides a PyTorch environment for prototyping and analyzing compression
@@ -753,6 +761,20 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   and secure computation of various machine learning algorithms, including
   logistic regression, tree-based algorithms, deep learning and transfer
   learning.
+
+- [FedProx](https://github.com/litian96/FedProx): FedProx aims to solve two key
+  challenges that differentiate it from traditional distributed optimization:
+  (1) significant variability in terms of the systems characteristics on each
+  device in the network (systems heterogeneity), and (2) non-identically
+  distributed data across the network (statistical heterogeneity).
+
+- [KitNET](https://github.com/ymirsky/KitNET-py): KitNET is an online,
+  unsupervised, and efficient anomaly detector. A Kitsune, in Japanese folklore,
+  is a mythical fox-like creature that has a number of tails, can mimic
+  different forms, and whose strength increases with experience. Similarly,
+  Kit-NET has an ensemble of small neural networks (autoencoders), which are
+  trained to mimic (reconstruct) network traffic patterns, and whose performance
+  incrementally improves overtime.
 
 - [MACE](https://github.com/XiaoMi/mace): MACE (Mobile AI Compute Engine) is a
   deep learning inference framework optimized for mobile heterogeneous computing
@@ -797,12 +819,23 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   ncnn is currently being used in many Tencent applications, such as QQ, Qzone,
   WeChat, Pitu and so on.
 
+- [Neurosurgeon](https://github.com/njcpe/neurosurgeon):A lightweight scheduler
+  to automatically partition DNN computation between mobile devices and
+  datacenters at the granularity of neural network layers.
+
 - [nn-Meter](https://github.com/microsoft/nn-Meter):nn-Meter is a novel and
   efficient system to accurately predict the inference latency of DNN models on
   diverse edge devices. The key idea is dividing a whole model inference into
   kernels, i.e., the execution units of fused operators on a device, and conduct
   kernel-level prediction.
 
+- [ns3-gym](https://github.com/tkn-tub/ns3-gym): OpenAI Gym is a toolkit for
+  reinforcement learning (RL) widely used in research. The network simulator
+  ns–3 is the de-facto standard for academic and industry studies in the areas
+  of networking protocols and communication technologies. ns3-gym is a framework
+  that integrates both OpenAI Gym and ns-3 in order to encourage usage of RL in
+  networking research.
+  
 - [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt): NVIDIA® TensorRT™ is
   an SDK for high-performance deep learning inference. It includes a deep
   learning inference optimizer and runtime that delivers low latency and high
@@ -862,40 +895,4 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   are new to TensorFlow Lite, we recommend that you first explore the
   pre-trained models and run the example apps below on a real device to see what
   TensorFlow Lite can do.
-
-# Prototype proposed in researches
-## Machine Learning
-- [DeepThings](https://github.com/SLAM-Lab/DeepThings): A framework for locally
-  distributed and adaptive CNN inference in resource-constrained IoT edge
-  clusters. DeepThings mainly consists of: 1). A Fused Tile Partitioning (FTP)
-  method for dividing convolutional layers into independently distributable
-  tasks. FTP fuses layers and partitions them vertically in a grid fashion,
-  which largely reduces communication and task migration overhead. 2). A
-  distributed work stealing runtime system for IoT clusters to adaptively
-  distribute FTP partitions in dynamic application scenarios.
-
-- [FedProx](https://github.com/litian96/FedProx): FedProx aims to solve two key
-  challenges that differentiate it from traditional distributed optimization:
-  (1) significant variability in terms of the systems characteristics on each
-  device in the network (systems heterogeneity), and (2) non-identically
-  distributed data across the network (statistical heterogeneity).
-
-- [KitNET](https://github.com/ymirsky/KitNET-py): KitNET is an online,
-  unsupervised, and efficient anomaly detector. A Kitsune, in Japanese folklore,
-  is a mythical fox-like creature that has a number of tails, can mimic
-  different forms, and whose strength increases with experience. Similarly,
-  Kit-NET has an ensemble of small neural networks (autoencoders), which are
-  trained to mimic (reconstruct) network traffic patterns, and whose performance
-  incrementally improves overtime.
-
-- [Neurosurgeon](https://github.com/njcpe/neurosurgeon):A lightweight scheduler
-  to automatically partition DNN computation between mobile devices and
-  datacenters at the granularity of neural network layers.
-
-- [ns3-gym](https://github.com/tkn-tub/ns3-gym): OpenAI Gym is a toolkit for
-  reinforcement learning (RL) widely used in research. The network simulator
-  ns–3 is the de-facto standard for academic and industry studies in the areas
-  of networking protocols and communication technologies. ns3-gym is a framework
-  that integrates both OpenAI Gym and ns-3 in order to encourage usage of RL in
-  networking research.
 
