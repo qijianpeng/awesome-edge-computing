@@ -215,6 +215,15 @@ Software-Defined Wireless Networks.
   network delay, energy consumption, active number of VMs, cache hits and cache
   misses.
 
+- [SUMO - ITS](https://sumo.dlr.de/docs/SUMO_at_a_Glance.html): "Simulation of
+  Urban MObility", or "SUMO" for short, is an open source, microscopic,
+  multi-modal traffic simulation. It allows to simulate how a given traffic
+  demand which consists of single vehicles moves through a given road network.
+  The simulation allows to address a large set of traffic management topics. It
+  is purely microscopic: each vehicle is modelled explicitly, has an own route,
+  and moves individually through the network. Simulations are deterministic by
+  default but there are various options for introducing randomness.
+
 - [SimFlex](https://parsa.epfl.ch/simflex/): SimFlex is proceeding along two
   synergistic fronts: (1) Flexus is a powerful and flexible simulator framework
   that allows full-system simulation that relies heavily on well-defined
@@ -249,10 +258,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 - [Step-ONE](https://github.com/jaks6/step-one): Simulated Testbed for Edge-Fog
   Processes based on the Opportunistic Network Environment simulator.
 
-- [Veins](https://github.com/sommer/veins): The open source vehicular network
-  simulation framework.
+- [Veins - ITS](https://github.com/sommer/veins): Veins is an open source
+  framework for running vehicular network simulations. It is based on two
+  well-established simulators: OMNeT++, an event-based network simulator, and
+  SUMO, a road traffic simulator. It extends these to offer a comprehensive
+  suite of models for IVC simulation.
 
-- [Veins LTE](http://veins-lte.car2x.org/): Veins LTE is a simulator for
+- [Veins LTE - ITS](http://veins-lte.car2x.org/): Veins LTE is a simulator for
   heterogeneous vehicular networks. It provides fine-grained simulation of
   vehicular networks based on IEEE 802.11p and TE.
 
