@@ -27,6 +27,9 @@ Automation reads these simulation scenarios, creates and runs them on CloudSim
 Plus.
 
 
+- [CloudSim+ - Py4j gateway](https://github.com/pkoperek/cloudsimplus-gateway):
+  py4j gateway for Cloud Sim Plus framework.
+
 - [CloudSimSDN](https://github.com/Cloudslab/cloudsimsdn): An SDN extension of
   CloudSim project to simulate SDN features in the context of a cloud data
   center. CloudSimSDN supports calculating power consumption by both hosts and
@@ -222,6 +225,9 @@ Software-Defined Wireless Networks.
   enables the simulation of several scenarios such as the Internet of Things
   (IoT), connected vehicles/VANETs/MANET, Mist computing environments (peer-to
   peer networks such as mobile devices Cloud), and mobile Edge computing.
+
+- [RECAP-DES](https://bitbucket.org/RECAP-DES/recap-des/src/master/): RECAP
+  Discrete Event Simulation Framework an extension for CloudSimPlus
 
 - [RECAP Simulator Framework](https://recap-project.eu/simulators/): The RECAP
   Simulation Framework is an open source simulation framework designed to
