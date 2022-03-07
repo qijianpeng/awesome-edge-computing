@@ -17,6 +17,16 @@
   design issues that they want to investigate, without getting concerned about
   the low level details related to Cloud-based infrastructures and services.
 
+- [CloudSim Plus
+Automation](https://github.com/manoelcampos/cloudsimplus-automation): CloudSim
+Plus Automation is a Java 17+ command line tool based on CloudSim Plus (and some
+CloudReports classes) which is able to read specifications of CloudSim Plus
+simulation scenarios from a YAML file, a very human-readable data format.
+Simulation scenarios can be written inside a YAML file and CloudSim Plus
+Automation reads these simulation scenarios, creates and runs them on CloudSim
+Plus.
+
+
 - [CloudSimSDN](https://github.com/Cloudslab/cloudsimsdn): An SDN extension of
   CloudSim project to simulate SDN features in the context of a cloud data
   center. CloudSimSDN supports calculating power consumption by both hosts and
@@ -66,6 +76,12 @@
   efficiently based on user defined constrains such as network latency
   thresholds or resource constraints. Applications for clients and fog nodes can
   be anything shipped in a Docker container.
+
+
+- [EPCSAC](https://github.com/TNanukem/EPCSAC): The EPCSAC (Extensible Platform
+  for Cloud Scheduling Algorithm Comparison) is an online open-source platform
+  developed to help researchers compare scheduling algorithms to allocate tasks
+  into virtual machines inside cloud infrastructures.
 
 - [Fogbed](https://github.com/fogbed/fogbed): Fogbed is a framework that extends
   the Mininet emulator to create fog testbeds in virtualized environments. Using
@@ -172,6 +188,11 @@ Software-Defined Wireless Networks.
   distributed service orchestrator designed for resource constrained
   multi-access edge computing environments.
 
+- [LEAF](https://github.com/dos-group/leaf-java): A simulator for Large
+  Energy-Aware Fog computing environments, based on CloudSim Plus. LEAF enables
+  energy consumption modeling of distributed, heterogeneous, and
+  resource-constrained infrastructure that executes complex application graphs.
+
 - [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source,
   component-based, modular and open-architecture simulation environment with
   strong GUI support and an embeddable simulation kernel. Its primary
@@ -213,6 +234,11 @@ Software-Defined Wireless Networks.
   the user such as bandwidth, resource consumption (CPU, memory, storage),
   network delay, energy consumption, active number of VMs, cache hits and cache
   misses.
+
+- [SatEdgeSim](https://github.com/wjy491156866/SatEdgeSim):  A Toolkit for
+  Modeling and Simulation of Performance Evaluation in Satellite Edge Computing
+  Environments, which uses CloudSim Plus and PureEdgeSim as the underlying
+  simulation framework.
 
 - [SUMO - ITS](https://sumo.dlr.de/docs/SUMO_at_a_Glance.html): "Simulation of
   Urban MObility", or "SUMO" for short, is an open source, microscopic,
