@@ -7,6 +7,7 @@
    * [Tools](#tools)
    * [Applications](#applications)
    * [Edge-AI frameworks](#edge-ai-frameworks)
+   * [Other awesome list](#other-awesome-list)
 # Awesome edge computing
 
 # Simulators
@@ -928,3 +929,7 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   pre-trained models and run the example apps below on a real device to see what
   TensorFlow Lite can do.
 
+
+# Other awesome list
+- [AI at the edge](https://github.com/crespum/edge-ai): A curated list of
+  resources for embedded AI.
