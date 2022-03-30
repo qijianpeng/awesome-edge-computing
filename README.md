@@ -11,6 +11,9 @@
 # Awesome edge computing
 
 # Simulators
+- [EnvisEdge](https://github.com/NimbleEdge/EnvisEdge): EnvisEdge allows users to simulate an edge computing environment to test their ideas and models before putting them in place on the edge. It takes care of all the complex stuff such as diversity across operating systems, computation power and communication mediums, allowing you to focus on the idea rather than the setup.EnvisEdge allows researchers, developers and data scientists to experiment and test their hypotheses, and produce production-ready code without having direct access to the edge devices. Creating a path for global research and growth in the domains of federated learning and edge computing.
+
+
 - [CloudSim](https://github.com/Cloudslab/cloudsim): CloudSim goal is to provide
   a generalized and extensible simulation framework that enables modeling,
   simulation, and experimentation of emerging Cloud computing infrastructures
