@@ -97,6 +97,14 @@ Plus.
   developed to help researchers compare scheduling algorithms to allocate tasks
   into virtual machines inside cloud infrastructures.
 
+- [faas-sim](https://github.com/edgerun/faas-sim): Faas-sim is a powerful
+  trace-driven simulation framework to simulate container-based
+  function-as-a-service platforms. It can be used to develop, and evaluate the
+  performance of operational strategies for such systems, like scheduling,
+  autoscaling, load balancing, and others. faas-sim was developed at the
+  Distributed Systems Group at TU Wien as part of a larger research effort
+  surrounding serverless edge computing systems.
+
 - [Fogbed](https://github.com/fogbed/fogbed): Fogbed is a framework that extends
   the Mininet emulator to create fog testbeds in virtualized environments. Using
   a desktop approach, Fogbed enables the deployment of virtual fog nodes as
@@ -265,6 +273,14 @@ Software-Defined Wireless Networks.
   is purely microscopic: each vehicle is modelled explicitly, has an own route,
   and moves individually through the network. Simulations are deterministic by
   default but there are various options for introducing randomness.
+
+- [SimFaaS](https://github.com/pacslab/simfaas): This is a project done in PACS
+  Lab aiming to develop a performance simulator for serverless computing
+  platforms. Using this simulator, we can calculate Quality of Service (QoS)
+  metrics like average response time, the average probability of cold start,
+  average running servers (directly reflecting average cost), a histogram of
+  different events, distribution of the number of servers throughout time, and
+  many other characteristics.
 
 - [SimFlex](https://parsa.epfl.ch/simflex/): SimFlex is proceeding along two
   synergistic fronts: (1) Flexus is a powerful and flexible simulator framework
