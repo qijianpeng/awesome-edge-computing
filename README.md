@@ -62,6 +62,12 @@ Plus.
   drawing topologies of lightweight virtual machines, and Python modules for
   scripting network emulation.
 
+- [DFaaS](https://github.com/UNIMIBInside/dfaas): A novel decentralized
+  FaaS-based architecture designed to automatically and autonomously balance the
+  traffic load across edge nodes belonging to federated Edge Computing
+  ecosystems. Its implementation relies on an overlay peer-to-peer network and a
+  distributed control algorithm that takes decisions on load redistribution.
+
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
   Environment for Performance Evaluation of Edge Computing Systems.
 
