@@ -804,6 +804,10 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   number of filters and dimensions required by each layer and reduces the
   redundancy of that layer. [src from: 10.1145/3469029](https://doi.org/10.1145/3469029)
 
+- [DeepStack](https://www.deepstack.cc/): DeepStack is an Open-Source AI API
+  engine that serves pre-built models and custom models on multiple edge devices
+  locally or on your private cloud.
+
 - [DeepThings](https://github.com/SLAM-Lab/DeepThings): A framework for locally
   distributed and adaptive CNN inference in resource-constrained IoT edge
   clusters. DeepThings mainly consists of: 1). A Fused Tile Partitioning (FTP)
