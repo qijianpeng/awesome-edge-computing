@@ -877,6 +877,15 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   marketing, equity distribution, security risk control. In addition, MNN is
   also used on embedded devices, such as IoT.
 
+- [MQBench](https://github.com/ModelTC/MQBench): MQBench is an open-source model
+  quantization toolkit based on PyTorch fx. The envision of MQBench is to
+  provide: 1) SOTA Algorithms. With MQBench, the hardware vendors and
+  researchers can benefit from the latest research progress in academia. 2)
+  Powerful Toolkits. With the toolkit, quantization node can be inserted to the
+  original PyTorch module automatically with respect to the specific hardware.
+  After training, the quantized model can be smoothly converted to the format
+  that can inference on the real device.
+
 - [ncnn](https://github.com/Tencent/ncnn): ncnn is a high-performance neural
   network inference computing framework optimized for mobile platforms. ncnn is
   deeply considerate about deployment and uses on mobile phones from the
