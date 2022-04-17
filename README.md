@@ -986,3 +986,7 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 # Other awesome list
 - [AI at the edge](https://github.com/crespum/edge-ai): A curated list of
   resources for embedded AI.
+- [Edge Computing & Internet Of
+  Things](https://github.com/yarncraft/awesome-edge): A qualitative compilation
+  of production-ready edge computing projects with a focus on IoT based Data
+  Engineering.
