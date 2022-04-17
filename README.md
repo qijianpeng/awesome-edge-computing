@@ -316,6 +316,14 @@ Software-Defined Wireless Networks.
   client, HTTP/s server, Modbus over TCP, BACnet/IP server, LoRa Gateway, LoRa
   Device.
 
+- [Simu5G](https://github.com/Unipisa/Simu5G): Simu5G is the evolution of the
+  popular [SimuLTE 4G network simulator](https://simulte.com/) that incorporates
+  5G New Radio access.
+
+- [SimuLTE](https://simulte.com/): SimuLTE is an innovative simulation tool
+  enabling complex system level performance-evaluation of LTE and LTE Advanced
+  networks (3GPP Release 8 and beyond) for the OMNeT++ framework.
+
 - [SLEIPNIR](https://github.com/vindem/sleipnir): SLEIPNIR is a DAG scheduling
 simulator focused on mobile cloud/edge/iot infrastructures.
 
