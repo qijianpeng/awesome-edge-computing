@@ -699,6 +699,14 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   power.
 
 # Tools
+- [ASSOLO](http://netlab-mn.unipv.it/assolo/): ASSOLO is a new active probing
+  tool for estimating available bandwidth based on the concept of "self-induced
+  congestion". ASSOLO features a new probing traffic profile called REACH
+  (Reflected ExponentiAl Chirp), which tests a wide range of rates being more
+  accurate in the center of the probing interval. Moreover, the tool runs inside
+  a real-time operating system and uses some de-noising techniques to improve
+  the measurement process.
+
 - [netem](https://wiki.linuxfoundation.org/networking/netem) : netem provides
   Network Emulation functionality for testing protocols by emulating the
   properties of wide area networks. The current version emulates variable delay,
@@ -706,6 +714,22 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 
 - [GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/): Mapping source
   IPv4 addresses to geo-graphical locations.
+
+- [Sigar](https://github.com/hyperic/sigar/wiki/overview): The Sigar API
+  provides a portable interface for gathering system information such as:
+
+  - System memory, swap, cpu, load average, uptime, logins
+  - Per-process memory, cpu, credential info, state, arguments, environment, open
+    files
+  - File system detection and metrics
+  - Network interface detection, configuration info and metrics
+  - TCP and UDP connection tables Network route table 
+  
+  This information is available in most operating systems, but each OS has their
+  own way(s) providing it. SIGAR provides developers with API to access this
+  information regardless of the underlying platform. one The core API is
+  implemented in pure C with bindings currently implemented for Java, Perl,
+  Ruby, Python, Erlang, PHP and C#.
 
 # Applications
 - [Edge Courier](https://github.com/bumoslab/EdgeCourier): An application for
