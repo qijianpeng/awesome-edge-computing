@@ -20,14 +20,13 @@
   the low level details related to Cloud-based infrastructures and services.
 
 - [CloudSim Plus
-Automation](https://github.com/manoelcampos/cloudsimplus-automation): CloudSim
-Plus Automation is a Java 17+ command line tool based on CloudSim Plus (and some
-CloudReports classes) which is able to read specifications of CloudSim Plus
-simulation scenarios from a YAML file, a very human-readable data format.
-Simulation scenarios can be written inside a YAML file and CloudSim Plus
-Automation reads these simulation scenarios, creates and runs them on CloudSim
-Plus.
-
+  Automation](https://github.com/manoelcampos/cloudsimplus-automation): CloudSim
+  Plus Automation is a Java 17+ command line tool based on CloudSim Plus (and some
+  CloudReports classes) which is able to read specifications of CloudSim Plus
+  simulation scenarios from a YAML file, a very human-readable data format.
+  Simulation scenarios can be written inside a YAML file and CloudSim Plus
+  Automation reads these simulation scenarios, creates and runs them on CloudSim
+  Plus.
 
 - [CloudSim+ - Py4j gateway](https://github.com/pkoperek/cloudsimplus-gateway):
   py4j gateway for Cloud Sim Plus framework.
@@ -236,6 +235,10 @@ Software-Defined Wireless Networks.
   Cisco routers and switches using a simulated command line interface. Packet
   Tracer makes use of a drag and drop user interface, allowing users to add and
   remove simulated network devices as they see fit.
+
+- [PeerSim](http://peersim.sourceforge.net/): PeerSim is a simulation
+  environment for P2P protocols in java. Its features include easy
+  configuration, extendability and high performance.
 
 - [pFogSim](https://github.com/jihall77/pFogSim): pFogSim (/p/-fôg-/sɪm/) is a
   play off iFogSim; A simulator made to handle large-scale FOG networks with the
