@@ -333,6 +333,9 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 - [Step-ONE](https://github.com/jaks6/step-one): Simulated Testbed for Edge-Fog
   Processes based on the Opportunistic Network Environment simulator.
 
+- [SVL Simulator](https://github.com/lgsvl/simulator): An end-to-end autonomous
+  vehicle simulation platform.
+
 - [Veins - ITS](https://github.com/sommer/veins): Veins is an open source
   framework for running vehicular network simulations. It is based on two
   well-established simulators: OMNeT++, an event-based network simulator, and
