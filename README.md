@@ -67,6 +67,11 @@
   ecosystems. Its implementation relies on an overlay peer-to-peer network and a
   distributed control algorithm that takes decisions on load redistribution.
 
+- [ECSNeT++](https://github.com/sedgecloud/ECSNeTpp): ECSNeT++ is a simulation
+  toolkit for simulating the execution of Distributed Stream Processing
+  applications on Edge anc Cloud Computing environments. ECSNeT++ is implemented
+  using the OMNeT++ and the INET framework.
+
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
   Environment for Performance Evaluation of Edge Computing Systems.
 
@@ -101,6 +106,12 @@
   for Cloud Scheduling Algorithm Comparison) is an online open-source platform
   developed to help researchers compare scheduling algorithms to allocate tasks
   into virtual machines inside cloud infrastructures.
+
+- [FAAP-Simulator](https://github.com/MSuter6/faap-simulator):  Application
+  allocation in the area of fog computing and targets fog networks in industrial
+  environments. With the simulator, it is possible to generate, run and evaluate
+  instances of the Fog Application Allocation Problem denoted as FAAP. The
+  simulator is completely implemented in the scala programming language.
 
 - [faas-sim](https://github.com/edgerun/faas-sim): Faas-sim is a powerful
   trace-driven simulation framework to simulate container-based
@@ -336,6 +347,16 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 - [SVL Simulator](https://github.com/lgsvl/simulator): An end-to-end autonomous
   vehicle simulation platform.
 
+- [The ONE](https://akeranen.github.io/the-one/): The ONE is a simulation
+  environment that is capable of: 1) generating node movement using different
+  movement models. 2) routing messages between nodes with various DTN routing
+  algorithms and sender and receiver types. 3) visualizing both mobility and
+  message passing in real time in its graphical user interface. ONE can import
+  mobility data from real-world traces or other mobility generators. It can
+  also produce a variety of reports from node movement to message passing and
+  general statistics.
+
+
 - [Veins - ITS](https://github.com/sommer/veins): Veins is an open source
   framework for running vehicular network simulations. It is based on two
   well-established simulators: OMNeT++, an event-based network simulator, and
@@ -457,6 +478,16 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   researchers. Insights from these data are helping scientists to better
   understand biology and providing new opportunities for developing
   therapeutics.
+
+- [FogAtlas](https://fogatlas.fbk.eu/): FogAtlas (evolution of the former Foggy
+  platform) is a software framework aiming to manage a geographically
+  distributed and decentralized Cloud Computing infrastructure that provides
+  computational, storage and network services close to the data sources and the
+  users, embracing the Fog Computing paradigm. FogAtlas is able to manage the so
+  called Cloud-to-Thing Continuum offering service-aware workload placement and
+  zero-touch deployment. It is an evolution of the well known paradigms of IaaS
+  and PaaS adding the concept of “locality” to the traditional Cloud Computing
+  model and easing the operations of a Fog Computing infrastructure.
 
 - [FogFlow](https://github.com/smartfog/fogflow): FogFlow is an IoT edge
   computing framework to automatically orchestrate dynamic data processing flows
