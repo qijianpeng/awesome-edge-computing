@@ -12,6 +12,13 @@
 
 # Simulators
 
+- [Artery](http://artery.v2x-research.eu/): Artery enables V2X simulations based
+  on ETSI ITS-G5 protocols like GeoNetworking and BTP. Single vehicles can be
+  equipped with multiple ITS-G5 services through Artery's middleware, which also
+  provides common Facilities for these services. Some basic services, such as
+  Cooperative Awareness (CAMs) and Decentralized Notification (DENMs), are
+  already included.
+
 - [CloudSim](https://github.com/Cloudslab/cloudsim): CloudSim goal is to provide
   a generalized and extensible simulation framework that enables modeling,
   simulation, and experimentation of emerging Cloud computing infrastructures
@@ -167,6 +174,10 @@
   computer-system architecture research, encompassing system-level architecture
   as well as processor microarchitecture.
 
+- [iFogSim](https://github.com/Cloudslab/iFogSim): The iFogSim Toolkit for
+  Modeling and Simulation of Resource Management Techniques in Internet of
+  Things, Edge and Fog Computing Environments.
+
 - [IoTSim-Edge](https://github.com/DNJha/IoTSim-Edge): IoTSim captures the
   behavior of heterogeneous IoT and edge computing infrastructure and allows
   users to test their infrastructure and framework in an easy and configurable
@@ -178,6 +189,23 @@
   computing applications. In particular, it enables a unified modelling and
   simulation of complex IoT applications over heterogeneous edge-cloud SDN-aware
   environments.[DOI:10.1016/j.sysarc.2020.101956](https://doi.org/10.1016/j.sysarc.2020.101956)
+
+- [iTETRIS](http://www.ict-itetris.eu/simulator/test_beds.htm): iTETRIS is
+  aligned with the communication architecture defined by ETSI for Intelligent
+  Transport Systems (ITS). The standard specifications concern a communication
+  system designed for various types of traffic applications which can use
+  several coexistent communication technologies. The architecture assumes three
+  different actors communicating in an ITS scenario, each representing a given
+  subsystem: vehicle, roadside and central subsystems.
+
+- [LEAF](https://github.com/dos-group/leaf-java): A simulator for Large
+  Energy-Aware Fog computing environments, based on CloudSim Plus. LEAF enables
+  energy consumption modeling of distributed, heterogeneous, and
+  resource-constrained infrastructure that executes complex application graphs.
+
+- [lightMANO](https://github.com/lightmano/lightmano-core): A lightweight
+  distributed service orchestrator designed for resource constrained
+  multi-access edge computing environments.
 
 - [MARSSx86](http://www.marss86.org/~marss86/index.php/Home): MARSSx86 (MARSS
   for short) is a tool for cycle accurate full system simulation of the x86-64
@@ -217,19 +245,6 @@ Software-Defined Wireless Networks.
 
 - [NFaaS](https://gitlab.com/mharnen/NFaaS): Enabling to migrate functions
   closer to the user in ICN environment without a global view of the network.
-
-- [iFogSim](https://github.com/Cloudslab/iFogSim): The iFogSim Toolkit for
-  Modeling and Simulation of Resource Management Techniques in Internet of
-  Things, Edge and Fog Computing Environments.
-
-- [lightMANO](https://github.com/lightmano/lightmano-core): A lightweight
-  distributed service orchestrator designed for resource constrained
-  multi-access edge computing environments.
-
-- [LEAF](https://github.com/dos-group/leaf-java): A simulator for Large
-  Energy-Aware Fog computing environments, based on CloudSim Plus. LEAF enables
-  energy consumption modeling of distributed, heterogeneous, and
-  resource-constrained infrastructure that executes complex application graphs.
 
 - [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source,
   component-based, modular and open-architecture simulation environment with
@@ -356,7 +371,6 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   also produce a variety of reports from node movement to message passing and
   general statistics.
 
-
 - [Veins - ITS](https://github.com/sommer/veins): Veins is an open source
   framework for running vehicular network simulations. It is based on two
   well-established simulators: OMNeT++, an event-based network simulator, and
@@ -367,12 +381,24 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   heterogeneous vehicular networks. It provides fine-grained simulation of
   vehicular networks based on IEEE 802.11p and TE.
 
+- [VENTOS](https://maniam.github.io/VENTOS/#about): VENTOS is an integrated C++
+  simulator for studying vehicular traffic flows, collaborative driving, and
+  interactions between vehicles and infrastructure through DSRC-enabled wireless
+  communication capability. 
+
 - [VirtFogSim](https://github.com/mscarpiniti/VirtFogSim): VirtFogSim is a
   MATLAB-supported software toolbox that allows the dynamic joint optimization
   and tracking of the energy and delay performance of Mobile-Fog-Cloud systems
   for the execution of applications described by general Directed Application
   Graphs (DAGs). Check the paper [link](https://doi.org/10.3390/app9061160) for
   more details.
+
+- [VNS](https://omnetpp.org/download-items/VNS.html): VNS is a simulation
+  framework that completely integrates the mobility and network components in a
+  transparent and efficient way, reducing the overhead of communication and
+  synchronization between different simulators. VNS provides bi-directionally
+  interaction between a microscopic mobility model and network simulators such
+  as OMNeT++.
 
 - [YAFS(Yet Another Fog Simulator)](https://github.com/acsicuib/YAFS): YAFS is a
   simulator tool based on Python of architectures such as: Fog Computing
