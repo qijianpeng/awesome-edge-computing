@@ -721,6 +721,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   Computing. All the data is in Australia region which contains edge server
   locations and user location.
 
+- [GT-ITM: Georgia Tech Internetwork Topology
+  Models](https://www.cc.gatech.edu/projects/gtitm/): This is a collection of
+  routines to generate and analyze graphs using a wide variety of models for
+  internetwork topology. The graphs are generated in Don Knuth's SGB format; a
+  routine is provided to convert to an alternative format that may be easier to
+  parse.
+
 - [MLPerf Inference Benchmark Suite](https://github.com/mlcommons/inference):
   MLPerf Inference is a benchmark suite for measuring how fast systems can run
   models in a variety of deployment scenarios.
