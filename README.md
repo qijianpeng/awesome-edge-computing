@@ -324,7 +324,12 @@ Software-Defined Wireless Networks.
   compile-time simulator optimization. (2) SMARTS applies rigorous statistical
   sampling the­ory to reduce simulation turnaround by several orders of
   magnitude, while achieving high accuracy and confidence in estimates.
-  
+
+- [SimGrid](https://github.com/simgrid/simgrid): SimGrid is a scientific
+  instrument to study the behavior of large-scale distributed systems such as
+  Grids, Clouds, HPC or P2P systems. It can be used to evaluate heuristics,
+  prototype applications or even assess legacy MPI applications.
+ 
 - [SimMobility](https://github.com/smart-fm/simmobility-prod): SimMobility is an
   integrated mobility simulation platform that comprehensively simulates Future
   Mobility scenarios by integrating long, medium, and short-term travel
