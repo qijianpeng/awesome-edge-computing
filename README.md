@@ -7,6 +7,7 @@
    * [Tools](#tools)
    * [Applications](#applications)
    * [Edge-AI frameworks](#edge-ai-frameworks)
+   * [Academic institution](#academic-institution)
    * [Other awesome list](#other-awesome-list)
 # Awesome edge computing
 
@@ -1087,6 +1088,18 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   pre-trained models and run the example apps below on a real device to see what
   TensorFlow Lite can do.
 
+
+# Academic institution
+- [Cloud Computing and Distributed Systems (CLOUDS)
+  Laboratory](http://www.cloudbus.org/intro.html): The Cloud Computing and
+  Distributed Systems (CLOUDS) Laboratory, formerly GRIDS Lab, is a software
+  research and development group within the School of Computing and Information
+  Systems at the University of Melbourne, Australia. The CLOUDS Lab is actively
+  engaged in the design and development of next-generation computing systems and
+  applications that aggregate or lease services of distributed resources
+  depending on their availability, capability, performance, cost , and users'
+  quality-of-service requirements. The lab is working towards realising this
+  vision through its two flagship projects: Gridbus and Cloudbus.
 
 # Other awesome list
 - [AI at the edge](https://github.com/crespum/edge-ai): A curated list of
