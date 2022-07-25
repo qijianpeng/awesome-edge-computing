@@ -467,6 +467,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   research using your computer. The BOINC app, running on your computer,
   downloads scientific computing jobs and runs them invisibly in the background.
 
+- [Chameleon](https://www.chameleoncloud.org/): Chameleon is a large-scale,
+  deeply reconfigurable experimental platform built to support Computer Sciences
+  systems research. Community projects range from systems research developing
+  new operating systems, virtualization methods, performance variability
+  studies, and power management research to projects in software defined
+  networking, artificial intelligence, and resource management. 
+
 - [Distributed Strom](http://matnar.github.io/uniroma2-storm/): Distributed
   Storm is an extension of Apache Storm that supports the execution of
   distributed, adaptive, and QoS-aware scheduling algorithms. It introduces some
@@ -1089,7 +1096,7 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   TensorFlow Lite can do.
 
 
-# Academic institution
+# Academic institutions
 - [Cloud Computing and Distributed Systems (CLOUDS)
   Laboratory](http://www.cloudbus.org/intro.html): The Cloud Computing and
   Distributed Systems (CLOUDS) Laboratory, formerly GRIDS Lab, is a software
