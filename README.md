@@ -834,6 +834,11 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   conditions.
 
 # Edge-AI frameworks
+- [Adlik](https://github.com/Adlik/Adlik): Adlik [ædlik] is an end-to-end
+  optimizing framework for deep learning models. The goal of Adlik is to
+  accelerate deep learning inference process both on cloud and embedded
+  environment.
+
 - [AI Model Efficiency Toolkit (AIMET)](https://github.com/quic/aimet):AIMET is
   a library that provides advanced model quantization and compression techniques
   for trained neural network models. It provides features that have been proven
