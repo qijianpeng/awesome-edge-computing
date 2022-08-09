@@ -175,6 +175,15 @@
   computer-system architecture research, encompassing system-level architecture
   as well as processor microarchitecture.
 
+- [Ianvs](https://github.com/kubeedge/ianvs): Ianvs is a distributed synergy AI
+  benchmarking project incubated in KubeEdge SIG AI. Ianvs aims to test the
+  performance of distributed synergy AI solutions following recognized
+  standards, in order to facilitate more efficient and effective development.
+  More detailedly, Ianvs prepares not only test cases with datasets and
+  corresponding algorithms, but also benchmarking tools including simulation and
+  hyper-parameter searching. Ianvs also reveals best practices for developers
+  and end users with presentation tools including leaderboards and test reports.
+
 - [iFogSim](https://github.com/Cloudslab/iFogSim): The iFogSim Toolkit for
   Modeling and Simulation of Resource Management Techniques in Internet of
   Things, Edge and Fog Computing Environments.
