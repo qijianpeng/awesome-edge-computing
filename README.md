@@ -310,6 +310,12 @@ Software-Defined Wireless Networks.
   Environments, which uses CloudSim Plus and PureEdgeSim as the underlying
   simulation framework.
 
+- [Shadow](https://github.com/shadow/shadow): Shadow is a discrete-event network
+  simulator that directly executes real application code, enabling you to
+  simulate distributed systems with thousands of network-connected processes in
+  realistic and scalable private network experiments using your laptop, desktop,
+  or server running Linux.
+
 - [SUMO - ITS](https://sumo.dlr.de/docs/SUMO_at_a_Glance.html): "Simulation of
   Urban MObility", or "SUMO" for short, is an open source, microscopic,
   multi-modal traffic simulation. It allows to simulate how a given traffic
