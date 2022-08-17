@@ -1048,6 +1048,8 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   kernels, i.e., the execution units of fused operators on a device, and conduct
   kernel-level prediction.
 
+- [ns3-ai](https://github.com/hust-diangroup/ns3-ai):This module does not provide any AI algorithms or rely on any frameworks   but instead is providing a Python module that enables AI interconnect, so the AI framework needs to be separately installed.   You only need to clone or download this work, then import the Python modules, you could use this work to exchange data         between ns-3 and your AI algorithms.
+
 - [ns3-gym](https://github.com/tkn-tub/ns3-gym): OpenAI Gym is a toolkit for
   reinforcement learning (RL) widely used in research. The network simulator
   ns–3 is the de-facto standard for academic and industry studies in the areas
