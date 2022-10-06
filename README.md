@@ -220,6 +220,10 @@
 - [MARSSx86](http://www.marss86.org/~marss86/index.php/Home): MARSSx86 (MARSS
   for short) is a tool for cycle accurate full system simulation of the x86-64
   architecture, specifically multicore implementations.
+  
+- [MaxiNet](https://github.com/MaxiNet/MaxiNet): MaxiNet extends the famous Mininet
+  emulation environment to span the emulation across several physical machines. 
+  This allows to emulate very large SDN networks.
 
 - [MobFogSim](https://github.com/diogomg/MobFogSim): An extension which can
   support for Mobility of __iFogSim__. MobFogSim can model more generalised
