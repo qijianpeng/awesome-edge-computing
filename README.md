@@ -838,6 +838,8 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   information regardless of the underlying platform. one The core API is
   implemented in pure C with bindings currently implemented for Java, Perl,
   Ruby, Python, Erlang, PHP and C#.
+  
+- [Explore Edge Computing](https://kandi.openweaver.com/explore/edge-computing) - Discover & find a curated list of popular & new libraries, top authors,       trending project kits, discussions, tutorials & learning resources on kandi.
 
 # Applications
 - [Edge Courier](https://github.com/bumoslab/EdgeCourier): An application for
