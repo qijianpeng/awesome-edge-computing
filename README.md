@@ -468,6 +468,8 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   and scaling using Docker containers so you can focus on building amazing and
   efficient applications.
 
+- [AREG SDK](https://github.com/aregtech/areg-sdk): **AREG SDK** is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services as if they act like thin distributed servers. The communication engine of AREG SDK is based on Object Remote Procedure Call (ORPC) protocol.
+
 - [Baetyl](https://github.com/baetyl/baetyl): Baetyl is an open edge computing
   framework of Linux Foundation Edge that extends cloud computing, data and
   service seamlessly to edge devices. It can provide temporary offline,
