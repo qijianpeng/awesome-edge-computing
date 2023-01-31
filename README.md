@@ -80,8 +80,8 @@
   applications on Edge anc Cloud Computing environments. ECSNeT++ is implemented
   using the OMNeT++ and the INET framework.
 
-- [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim: An 
-  Environment for Performance Evaluation of Edge Computing Systems.
+- [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim:
+  An Environment for Performance Evaluation of Edge Computing Systems.
 
 - [EdgeSim](https://github.com/XiaofeiTJU/SimEdgeIntel):An open-source simulator
   of edge computing and caching. This simulator system contains three models:
@@ -221,9 +221,9 @@
   for short) is a tool for cycle accurate full system simulation of the x86-64
   architecture, specifically multicore implementations.
   
-- [MaxiNet](https://github.com/MaxiNet/MaxiNet): MaxiNet extends the famous Mininet
-  emulation environment to span the emulation across several physical machines. 
-  This allows to emulate very large SDN networks.
+- [MaxiNet](https://github.com/MaxiNet/MaxiNet): MaxiNet extends the famous
+  Mininet emulation environment to span the emulation across several physical
+  machines. This allows to emulate very large SDN networks.
 
 - [MobFogSim](https://github.com/diogomg/MobFogSim): An extension which can
   support for Mobility of __iFogSim__. MobFogSim can model more generalised
@@ -468,7 +468,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   and scaling using Docker containers so you can focus on building amazing and
   efficient applications.
 
-- [AREG SDK](https://github.com/aregtech/areg-sdk): **AREG SDK** is an interface-centric real-time asynchronous communication engine to enable distributed- and [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing, where connected Things interact and provide services as if they act like thin distributed servers. The communication engine of AREG SDK is based on Object Remote Procedure Call (ORPC) protocol.
+- [AREG SDK](https://github.com/aregtech/areg-sdk): **AREG SDK** is an
+  interface-centric real-time asynchronous communication engine to enable
+  distributed- and
+  [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing,
+  where connected Things interact and provide services as if they act like thin
+  distributed servers. The communication engine of AREG SDK is based on Object
+  Remote Procedure Call (ORPC) protocol.
 
 - [Baetyl](https://github.com/baetyl/baetyl): Baetyl is an open edge computing
   framework of Linux Foundation Edge that extends cloud computing, data and
@@ -520,7 +526,6 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   standardize open network capabilities (especially for 5G networks), and
   generalize the lifecycle-management process of MEC application development
   (testing, migration, and operation).
-
 
 - [EdgeMesh](https://github.com/kubeedge/edgemesh):EdgeMesh is a part of
   KubeEdge, and provides a simple network solution for the inter-communications
@@ -608,6 +613,10 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   management, region-aware deployment and so on. OpenYurt preserves intact
   Kubernetes API compatibility, is vendor agnostic, and more importantly, is
   SIMPLE to use.
+
+- [PhoneSploit Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro): An
+  all-in-one hacking tool to remotely exploit Android devices using ADB and
+  Metasploit-Framework to get a Meterpreter session.
 
 - [SuperEdge](https://github.com/superedge/superedge): SuperEdge is an open
   source container management system for edge computing to manage compute
