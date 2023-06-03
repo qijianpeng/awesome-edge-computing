@@ -260,6 +260,11 @@ Software-Defined Wireless Networks.
 - [NFaaS](https://gitlab.com/mharnen/NFaaS): Enabling to migrate functions
   closer to the user in ICN environment without a global view of the network.
 
+- [NS-3](https://www.nsnam.org): ns-3 is a discrete-event network simulator for
+  Internet systems, targeted primarily for research and educational use. ns-3 is
+  free, open-source software, licensed under the GNU GPLv2 license, and
+  maintained by a worldwide community.
+
 - [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source,
   component-based, modular and open-architecture simulation environment with
   strong GUI support and an embeddable simulation kernel. Its primary
@@ -771,6 +776,11 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   routine is provided to convert to an alternative format that may be easier to
   parse.
 
+- [Huawei - Dataset for Network AI Scheduling Technology
+  Research (in Chinese)](https://res-static.hc-cdn.cn/cloudbu-site/china/zh-cn/6gana/1681784385302642219.zip):
+  Modeling computational service scenarios for Network AI, providing users with
+  strategy algorithms for task scheduling research.
+
 - [MLPerf Inference Benchmark Suite](https://github.com/mlcommons/inference):
   MLPerf Inference is a benchmark suite for measuring how fast systems can run
   models in a variety of deployment scenarios.
@@ -810,6 +820,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   microcontrollers, DSPs, and tiny NN accelerators. These devices typically run
   at between 10MHz and 250MHz, and can perform inference using less then 50mW of
   power.
+
+- vivo —— Dataset for Wireless Resource Scheduling in Cell-Free Scenarios  (in
+  Chinese) : Aims to research AI-based scheduling strategies for Cell-Free
+  systems. 
+  - Dataset: https://commonbox.vivo.xyz/s/rUeNxBRZfKL 
+  - Codes: https://commonbox.vivo.xyz/s/dHMSmyouTeC
 
 # Tools
 - [ASSOLO](http://netlab-mn.unipv.it/assolo/): ASSOLO is a new active probing
