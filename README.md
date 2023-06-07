@@ -1040,6 +1040,17 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   cup, water glass, remote controller, and computer mouse successfully. [src
   from: 10.1145/3469029](https://doi.org/10.1145/3469029)
 
+- [MLC LLM](https://github.com/mlc-ai/mlc-llm): In recent years, there has been
+  remarkable progress in generative artificial intelligence (AI) and large
+  language models (LLMs), which are becoming increasingly prevalent. Thanks to
+  open-source initiatives, it is now possible to develop personal AI assistants
+  using open-sourced models. However, LLMs tend to be resource-intensive and
+  computationally demanding. To create a scalable service, developers may need
+  to rely on powerful clusters and expensive hardware to run model inference.
+  Additionally, deploying LLMs presents several challenges, such as their
+  ever-evolving model innovation, memory constraints, and the need for potential
+  optimization techniques.
+
 - [MNN](https://github.com/alibaba/MNN): MNN is a highly efficient and
   lightweight deep learning framework. It supports inference and training of
   deep learning models, and has industry leading performance for inference and
