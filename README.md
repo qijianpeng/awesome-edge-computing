@@ -399,6 +399,12 @@ Software-Defined Wireless Networks.
 - [SLEIPNIR](https://github.com/vindem/sleipnir): SLEIPNIR is a DAG scheduling
 simulator focused on mobile cloud/edge/iot infrastructures.
 
+- [StarryNet](https://github.com/SpaceNetLab/StarryNet): A novel experimentation
+  framework that enables researchers to conveniently build credible and flexible
+  experimental network environments (ENE) mimicking satellite dynamics and
+  network behaviors of large-scale integrated space and terrestrial networks
+  (ISTNs) [paper](https://www.usenix.org/conference/nsdi23/presentation/lai-zeqi).
+
 - [Step-ONE](https://github.com/jaks6/step-one): Simulated Testbed for Edge-Fog
   Processes based on the Opportunistic Network Environment simulator.
 
