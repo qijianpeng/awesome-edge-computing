@@ -1029,6 +1029,14 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   device in the network (systems heterogeneity), and (2) non-identically
   distributed data across the network (statistical heterogeneity).
 
+- [GNN-RL pipleline](https://gnn-rl.readthedocs.io/en/latest/): GNN-RL pipleline is a
+  toolkit to help users extract topology information through reinforcement
+  learning task (e.g., topology-aware neural network compression and job
+  scheduling). GNN-RL contains two major part -- graph neural network (GNN) and
+  reinforcement learning (RL). It requires your research object is a graph or
+  been modeled as a graph, the reinforcement learning take the graph as
+  environment states and produces actions by using a GNN-based policy network.
+
 - [KitNET](https://github.com/ymirsky/KitNET-py): KitNET is an online,
   unsupervised, and efficient anomaly detector. A Kitsune, in Japanese folklore,
   is a mythical fox-like creature that has a number of tails, can mimic
