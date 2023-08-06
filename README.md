@@ -266,6 +266,15 @@ Software-Defined Wireless Networks.
   emulator that can run a user-created routing or dissemination algorithm on a
   desired mobility trace or synthetic model.
 
+- [NDN4IVC](https://github.com/insert-lab/ndn4ivc): An open-source
+  simulator/framework that facilitates testing of more realistic VANET
+  applications via the NDN stack. This project utilizes two popular simulators
+  for VANET simulation: the NS3 network simulator with the ndnSIM module and
+  SUMO, a simulator of urban mobility. NDN4IVC allows real-time bidirectional
+  communication between SUMO and NS3 to support more data about road traffic and
+  vehicular mobility. The framework can model the impact of vehicular networks
+  on road traffic and investigate complex interactions between the two domains.
+
 - [ndnSIM](https://ndnsim.net/): The ndnSIM 2.0 is NS-3 module that implements
   Named Data Networking (NDN) communication model, the clean slate Internet
   design.
@@ -284,6 +293,13 @@ Software-Defined Wireless Networks.
   application area is the simulation of communication networks, but it has been
   successfully used in other areas like the simulation of IT systems, queueing
   networks, hardware architectures and business processes as well.
+
+- [Open-Simulator](https://github.com/alibaba/open-simulator): Open-simulator is
+  a cluster simulator for Kubernetes. With the simulation capability of
+  Open-Simulator, users can create a fake Kubernetes cluster and deploy
+  workloads on it. Open-Simulator will simulate the kube-controller-manager to
+  create pods for the workloads, and simulate the kube-scheduler to assign pods
+  to the appropriate nodes.
 
 - [Packet
   Tracer](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer):
