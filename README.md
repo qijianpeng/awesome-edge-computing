@@ -1104,6 +1104,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   marketing, equity distribution, security risk control. In addition, MNN is
   also used on embedded devices, such as IoT.
 
+- [Model Compression Toolkit (MCT)](https://github.com/sony/model_optimization):
+  Model Compression Toolkit (MCT) is an open source project for neural network
+  model optimization under efficient, constrained hardware. This project
+  provides researchers, developers, and engineers advanced quantization and
+  compression tools for deploying state-of-the-art neural networks.
+
 - [MQBench](https://github.com/ModelTC/MQBench): MQBench is an open-source model
   quantization toolkit based on PyTorch fx. The envision of MQBench is to
   provide: 1) SOTA Algorithms. With MQBench, the hardware vendors and
