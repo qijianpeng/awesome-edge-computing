@@ -1140,7 +1140,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   kernels, i.e., the execution units of fused operators on a device, and conduct
   kernel-level prediction.
 
-- [ns3-ai](https://github.com/hust-diangroup/ns3-ai):This module does not provide any AI algorithms or rely on any frameworks   but instead is providing a Python module that enables AI interconnect, so the AI framework needs to be separately installed.   You only need to clone or download this work, then import the Python modules, you could use this work to exchange data         between ns-3 and your AI algorithms.
+- [ns3-ai](https://github.com/hust-diangroup/ns3-ai):This module does not
+  provide any AI algorithms or rely on any frameworks   but instead is providing
+  a Python module that enables AI interconnect, so the AI framework needs to be
+  separately installed.   You only need to clone or download this work, then
+  import the Python modules, you could use this work to exchange data
+  between ns-3 and your AI algorithms.
 
 - [ns3-gym](https://github.com/tkn-tub/ns3-gym): OpenAI Gym is a toolkit for
   reinforcement learning (RL) widely used in research. The network simulator
@@ -1165,6 +1170,15 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   etc. ONNX Runtime is compatible with different hardware, drivers, and
   operating systems, and provides optimal performance by leveraging hardware
   accelerators where applicable alongside graph optimizations and transforms.
+
+- [OpenVINO](): OpenVINO™ is an open-source toolkit for optimizing and deploying
+  AI inference.
+  - Boost deep learning performance in computer vision, automatic speech
+    recognition, natural language processing and other common tasks
+  - Use models trained with popular frameworks like TensorFlow, PyTorch and more
+  - Reduce resource demands and efficiently deploy on a range of Intel®
+    platforms from edge to cloud
+
 
 - [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite): Paddle Lite is an
   updated version of Paddle-Mobile, an open-open source deep learning framework
