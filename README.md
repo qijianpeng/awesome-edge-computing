@@ -719,6 +719,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   JGN-X, Germany’s G-Lab, and PlanetLab Europe. It is a modern distributed edge
   cloud, incorporating advances in Cloud technologies over the past few years.
 
+- [Komondor](https://github.com/wn-upf/Komondor): Komondor is a wireless network
+  simulator that includes novel mechanisms for next-generation WLANs, such as
+  dynamic channel bonding or enhanced spatial reuse. One of the main purposes of
+  Komondor is to simulate the behavior of IEEE 802.11ax-2019 networks, an
+  amendment designed to boost spectral efficiency in dense deployments.
+
 - [Mosquitto](http://mosquitto.org/): Eclipse Mosquitto is an open source
   (EPL/EDL licensed) message broker that implements the MQTT protocol versions
   5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all
