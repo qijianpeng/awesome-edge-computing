@@ -1186,6 +1186,16 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   devices. It is compatible with PaddlePaddle and pre-trained models from other
   sources.
 
+- [Pocket](https://github.com/GTkernel/Pocket): A new approach for serving ML
+  applications in settings like the edge, based on a shared ML runtime backend
+  as a service and lightweight ML application pocket containers. Key to
+  realizing Pocket is use of lightweight IPC, support for cross-client
+  isolation, and a novel resource amplification method which inlines resource
+  reallocation with IPC. The latter ensures just-in-time assignment of the
+  limited edge resources where they're most needed, thereby reducing contention
+  effects and boosting overall performance and efficiency. [Pocket: ML Serving
+  from the Edge](https://dl.acm.org/doi/10.1145/3552326.3587459)
+
 - [PyTorch Mobile](https://pytorch.org/mobile/home/): The PyTorch Mobile runtime
   beta release allows you to seamlessly go from training a model to deploying
   it, while staying entirely within the PyTorch ecosystem. It provides an
