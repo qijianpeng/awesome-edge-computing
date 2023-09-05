@@ -975,6 +975,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   of efficient neural network kernels developed to maximize the performance and
   minimize the memory footprint on Cortex-M processor cores.
 
+- [Communication-Aware DNN Pruning (CaP)](https://github.com/neu-spiral/CaP): A
+  novel distributed inference framework for distributing DNN computations across
+  a physical network. Departing from conventional pruning methods, CaP takes the
+  physical network topology into consideration and produces DNNs that are
+  communication-aware, designed for both accurate and fast execution over such a
+  distributed deployment.
+
 - [Compute Library](https://github.com/ARM-software/ComputeLibrary): The Compute
   Library is a collection of low-level machine learning functions optimized for
   Arm® Cortex®-A and Arm® Mali™ GPUs architectures.
