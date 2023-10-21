@@ -9,6 +9,7 @@
    * [Edge-AI frameworks](#edge-ai-frameworks)
    * [Academic institution](#academic-institution)
    * [Other awesome list](#other-awesome-list)
+   * [Star History](#star-history)
 # Awesome edge computing
 
 # Simulators
@@ -1269,3 +1270,9 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 - [Explore Edge Computing](https://kandi.openweaver.com/explore/edge-computing):
   Discover & find a curated list of popular & new libraries, top authors,
   trending project kits, discussions, tutorials & learning resources on kandi.
+
+# Star History
+
+<a href="https://github.com/qijianpeng/awesome-edge-computing/stargazers">
+        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=qijianpeng/awesome-edge-computing&type=Date">
+</a>
