@@ -1217,6 +1217,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   mobile devices. In addition, it paves the way for privacy-preserving features
   via federated learning techniques.
 
+- [SparseML](https://github.com/neuralmagic/sparseml): SparseML is an
+  open-source model optimization toolkit that enables you to create
+  inference-optimized sparse models using pruning, quantization, and
+  distillation algorithms. Models optimized with SparseML can then be exported
+  to the ONNX and deployed with DeepSparse for GPU-class performance on CPU
+  hardware.
+
 - [SparseZoo](https://github.com/neuralmagic/sparsezoo): SparseZoo is a
   constantly-growing repository of sparsified (pruned and pruned-quantized)
   models with matching sparsification recipes for neural networks. It simplifies
