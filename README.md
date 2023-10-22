@@ -1217,6 +1217,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   mobile devices. In addition, it paves the way for privacy-preserving features
   via federated learning techniques.
 
+- [SparseZoo](https://github.com/neuralmagic/sparsezoo): SparseZoo is a
+  constantly-growing repository of sparsified (pruned and pruned-quantized)
+  models with matching sparsification recipes for neural networks. It simplifies
+  and accelerates your time-to-value in building performant deep learning models
+  with a collection of inference-optimized models and recipes to prototype from.
+
 - [SNPE](https://developer.qualcomm.com/sites/default/files/docs/snpe/index.html):
   The Snapdragon Neural Processing Engine (SNPE) is a Qualcomm Snapdragon
   software accelerated runtime for the execution of deep neural networks. With
