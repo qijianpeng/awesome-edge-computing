@@ -41,6 +41,13 @@
   design issues that they want to investigate, without getting concerned about
   the low level details related to Cloud-based infrastructures and services.
 
+- [CloudSim Express](https://github.com/Cloudslab/cloudsim-express):
+  CloudSim Express introduces a human-readable scripting approach to define
+  simulation scenarios, a standard way of writing extensions, and a simplified
+  deployment approach. The script-based approach significantly reduces
+  code-based implementations. In the cases of simple examples, it completely
+  eliminates the need to implement Java code.
+
 - [CloudSim Plus
   Automation](https://github.com/manoelcampos/cloudsimplus-automation): CloudSim
   Plus Automation is a Java 17+ command line tool based on CloudSim Plus (and some
