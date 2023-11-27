@@ -96,6 +96,11 @@
   ecosystems. Its implementation relies on an overlay peer-to-peer network and a
   distributed control algorithm that takes decisions on load redistribution.
 
+- [EasiEI](https://gitlab.com/Mirrola/ns-3-dev): EasiEI simulates various
+  computing, communication, and storage resources in edge computing, and
+  provides basic task scheduling algorithms to support the simulation of edge
+  computing scenarios.
+
 - [ECSNeT++](https://github.com/sedgecloud/ECSNeTpp): ECSNeT++ is a simulation
   toolkit for simulating the execution of Distributed Stream Processing
   applications on Edge anc Cloud Computing environments. ECSNeT++ is implemented
