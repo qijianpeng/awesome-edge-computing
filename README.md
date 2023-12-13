@@ -795,6 +795,10 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   operation.
 
 # Test (data, benchmark)
+- [aBeacon Data](https://people.cs.rutgers.edu/~dz220/Data.html): A large-scale
+  repository composed of BLE sensing, location trace, and manual report data,
+  including 31,131 couriers at 2,466 merchant locations in one month.
+
 - [AI Benchmark](https://ai-benchmark.com/): The performance and comparison of
   all chipsets from Qualcomm, HiSilicon, Samsung, MediaTek and Unisoc that are
   providing hardware acceleration for AI inference. 
