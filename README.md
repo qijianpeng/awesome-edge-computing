@@ -234,6 +234,12 @@
   different actors communicating in an ITS scenario, each representing a given
   subsystem: vehicle, roadside and central subsystems.
 
+- [Kathará](https://github.com/KatharaFramework/Kathara): Kathará (from the
+  Greek Καθαρά, purely) is a lightweight network emulation system based on
+  Docker containers. It can be really helpful in showing interactive
+  demos/lessons, testing production networks in a sandbox environment, or
+  developing new network protocols.
+
 - [LEAF](https://github.com/dos-group/leaf-java): A simulator for Large
   Energy-Aware Fog computing environments, based on CloudSim Plus. LEAF enables
   energy consumption modeling of distributed, heterogeneous, and
