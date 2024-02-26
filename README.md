@@ -1282,6 +1282,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   pre-trained models and run the example apps below on a real device to see what
   TensorFlow Lite can do.
 
+- [uTensor](https://github.com/uTensor/uTensor): uTensor is an extremely
+  light-weight machine learning inference framework built on Tensorflow and
+  optimized for Arm targets. It consists of a runtime library and an offline
+  tool that handles most of the model translation work. This repo holds the core
+  runtime and some example implementations of operators, memory
+  managers/schedulers, and more, and the size of the core runtime is only ~2KB!
 
 # Academic institutions
 - [Cloud Computing and Distributed Systems (CLOUDS)
