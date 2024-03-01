@@ -961,6 +961,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   It aims to enable machine learning engineers to optimize and run computations
   efficiently on any hardware backend.
 
+- [AutoDiCE](https://github.com/parrotsky/AutoDiCE): A tool featuring automated
+  splitting of a CNN model into a set of submodels and automated code generation
+  for distributed and collaborative execution of these submodels on multiple,
+  possibly heterogeneous, edge devices. AutoDiCE is the first fully automated
+  tool for distributed CNN inference over multiple resource-constrained devices
+  at the Edge. 
+
 - [BerryNet](https://github.com/DT42/BerryNet): This project turns edge devices
   such as Raspberry Pi into an intelligent gateway with deep learning running on
   it. No internet connection is required, everything is done locally on the edge
