@@ -306,6 +306,13 @@ Software-Defined Wireless Networks.
   free, open-source software, licensed under the GNU GPLv2 license, and
   maintained by a worldwide community.
 
+- [NoSSim](https://github.com/zoranzhao/NoSSim): Network-of-Systems Simulator
+  (NoSSim) is a network/system co-simulation framework that combines a fast and
+  accurate host-compiled full system simulator with a standard, reconfigurable
+  OMNeT++ network simulation backplane. Detailed models of network interfaces
+  and protocol stacks (lwIP) are integrated into host-compiled system and OS
+  models to allow accurately capturing network and system interactions.
+
 - [OMNeT++](https://github.com/omnetpp/omnetpp): OMNeT++ is a public-source,
   component-based, modular and open-architecture simulation environment with
   strong GUI support and an embeddable simulation kernel. Its primary
