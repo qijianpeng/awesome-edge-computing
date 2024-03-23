@@ -126,16 +126,6 @@
   thresholds or resource constraints. Applications for clients and fog nodes can
   be anything shipped in a Docker container.
 
-- [EnvisEdge](https://github.com/NimbleEdge/EnvisEdge): EnvisEdge allows users
-  to simulate an edge computing environment to test their ideas and models
-  before putting them in place on the edge. It takes care of all the complex
-  stuff such as diversity across operating systems, computation power and
-  communication mediums, allowing you to focus on the idea rather than the
-  setup. EnvisEdge allows researchers, developers and data scientists to
-  experiment and test their hypotheses, and produce production-ready code
-  without having direct access to the edge devices. Creating a path for global
-  research and growth in the domains of federated learning and edge computing.
-
 - [EPCSAC](https://github.com/TNanukem/EPCSAC): The EPCSAC (Extensible Platform
   for Cloud Scheduling Algorithm Comparison) is an online open-source platform
   developed to help researchers compare scheduling algorithms to allocate tasks
