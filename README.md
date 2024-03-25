@@ -191,15 +191,6 @@
   computer-system architecture research, encompassing system-level architecture
   as well as processor microarchitecture.
 
-- [Ianvs](https://github.com/kubeedge/ianvs): Ianvs is a distributed synergy AI
-  benchmarking project incubated in KubeEdge SIG AI. Ianvs aims to test the
-  performance of distributed synergy AI solutions following recognized
-  standards, in order to facilitate more efficient and effective development.
-  More detailedly, Ianvs prepares not only test cases with datasets and
-  corresponding algorithms, but also benchmarking tools including simulation and
-  hyper-parameter searching. Ianvs also reveals best practices for developers
-  and end users with presentation tools including leaderboards and test reports.
-
 - [iFogSim](https://github.com/Cloudslab/iFogSim): The iFogSim Toolkit for
   Modeling and Simulation of Resource Management Techniques in Internet of
   Things, Edge and Fog Computing Environments.
@@ -1092,6 +1083,15 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   reinforcement learning (RL). It requires your research object is a graph or
   been modeled as a graph, the reinforcement learning take the graph as
   environment states and produces actions by using a GNN-based policy network.
+
+- [Ianvs](https://github.com/kubeedge/ianvs): Ianvs is a distributed synergy AI
+  benchmarking project incubated in KubeEdge SIG AI. Ianvs aims to test the
+  performance of distributed synergy AI solutions following recognized
+  standards, in order to facilitate more efficient and effective development.
+  More detailedly, Ianvs prepares not only test cases with datasets and
+  corresponding algorithms, but also benchmarking tools including simulation and
+  hyper-parameter searching. Ianvs also reveals best practices for developers
+  and end users with presentation tools including leaderboards and test reports.
 
 - [KitNET](https://github.com/ymirsky/KitNET-py): KitNET is an online,
   unsupervised, and efficient anomaly detector. A Kitsune, in Japanese folklore,
