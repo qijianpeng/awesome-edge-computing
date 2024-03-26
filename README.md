@@ -48,6 +48,14 @@
   code-based implementations. In the cases of simple examples, it completely
   eliminates the need to implement Java code.
 
+- [CloudSim Plus](https://github.com/cloudsimplus/cloudsimplus): A modern,
+  up-to-date, full-featured and fully documented Java 17 simulation framework.
+  It's easy to use and extend, enabling modeling, simulation, and
+  experimentation of Cloud computing infrastructures and application services.
+  It allows developers to focus on specific system design issues to be
+  investigated, without concerning the low-level details related to Cloud-based
+  infrastructures and services.
+
 - [CloudSim Plus
   Automation](https://github.com/manoelcampos/cloudsimplus-automation): CloudSim
   Plus Automation is a Java 17+ command line tool based on CloudSim Plus (and some
@@ -84,7 +92,7 @@
   Simulator is a network simulator specifically designed for Wireless Sensor
   Networks.
 
-- [CORE](https://github.com/coreemu/core):The Common Open Research Emulator
+- [CORE](https://github.com/coreemu/core): The Common Open Research Emulator
   (CORE) is a tool for emulating networks on one or more machines. You can
   connect these emulated networks to live networks. CORE consists of a GUI for
   drawing topologies of lightweight virtual machines, and Python modules for
