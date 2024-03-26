@@ -233,6 +233,7 @@
   Energy-Aware Fog computing environments, based on CloudSim Plus. LEAF enables
   energy consumption modeling of distributed, heterogeneous, and
   resource-constrained infrastructure that executes complex application graphs.
+  [Its Python version](https://github.com/dos-group/leaf).
 
 - [lightMANO](https://github.com/lightmano/lightmano-core): A lightweight
   distributed service orchestrator designed for resource constrained
