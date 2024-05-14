@@ -424,7 +424,7 @@ Software-Defined Wireless Networks.
   popular [SimuLTE 4G network simulator](https://simulte.com/) that incorporates
   5G New Radio access.
 
-- [SimuLTE](https://simulte.com/): SimuLTE is an innovative simulation tool
+- [SimuLTE](https://simulte.omnetpp.org/): SimuLTE is an innovative simulation tool
   enabling complex system level performance-evaluation of LTE and LTE Advanced
   networks (3GPP Release 8 and beyond) for the OMNeT++ framework.
 
