@@ -1189,6 +1189,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   kernels, i.e., the execution units of fused operators on a device, and conduct
   kernel-level prediction.
 
+- [nndeploy](https://github.com/nndeploy/nndeploy/blob/main/README_EN.md):
+  nndeploy is an end-to-end deployment framework for models. Centered around
+  multi-end inference and model deployment based on directed acyclic graph, it
+  is committed to providing users with a cross-platform, simple, easy-to-use,
+  and high-performance model deployment experience.
+
 - [ns3-ai](https://github.com/hust-diangroup/ns3-ai):This module does not
   provide any AI algorithms or rely on any frameworks   but instead is providing
   a Python module that enables AI interconnect, so the AI framework needs to be
