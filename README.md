@@ -1301,6 +1301,21 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   pre-trained models and run the example apps below on a real device to see what
   TensorFlow Lite can do.
 
+- [TNN](https://github.com/Tencent/TNN): TNN: A high-performance, lightweight
+  neural network inference framework open sourced by Tencent Youtu Lab. It also
+  has many outstanding advantages such as cross-platform, high performance,
+  model compression, and code tailoring. The TNN framework further strengthens
+  the support and performance optimization of mobile devices on the basis of the
+  original Rapidnet and ncnn frameworks. At the same time, it refers to the high
+  performance and good scalability characteristics of the industry's mainstream
+  open source frameworks, and expands the support for X86 and NV GPUs. On the
+  mobile phone, TNN has been used by many applications such as mobile QQ,
+  weishi, and Pitu. As a basic acceleration framework for Tencent Cloud AI, TNN
+  has provided acceleration support for the implementation of many businesses.
+  Everyone is welcome to participate in the collaborative construction to
+  promote the further improvement of the TNN inference framework.
+
+
 - [uTensor](https://github.com/uTensor/uTensor): uTensor is an extremely
   light-weight machine learning inference framework built on Tensorflow and
   optimized for Arm targets. It consists of a runtime library and an offline
