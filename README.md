@@ -12,6 +12,10 @@
    * [Star History](#star-history)
 # Awesome edge computing
 
+```java
+// All artifacts are arranged in alphabetical order.
+```
+
 # Simulators
 
 - [Artery](http://artery.v2x-research.eu/): Artery enables V2X simulations based
@@ -108,6 +112,12 @@
   computing, communication, and storage resources in edge computing, and
   provides basic task scheduling algorithms to support the simulation of edge
   computing scenarios.
+
+- [ECHOES](https://github.com/TadavomnisT/ECHOES): ECHOES stands for "Edge and
+  Cloud Hybrid Optimization Environment Simulator", which is a free and
+  open-source tool to simulate an Edge/Cloud-Hybrid network topology,
+  in order to optimise and test methods for offloading Tasks from user's device
+  to edge-server or cloud-server.
 
 - [ECSNeT++](https://github.com/sedgecloud/ECSNeTpp): ECSNeT++ is a simulation
   toolkit for simulating the execution of Distributed Stream Processing
@@ -496,12 +506,6 @@ simulator focused on mobile cloud/edge/iot infrastructures.
     algorithms can obtain more valuable indicators from topological features.
   - The results are stored in a raw format in a nosql database. The simpler the
     format, the easier it is to perform any type of statistics.
-
-- [ECHOES](https://github.com/TadavomnisT/ECHOES): ECHOES stands for "Edge and
-  Cloud Hybrid Optimization Environment Simulator", which is a free and
-  open-source tool to simulate an Edge/Cloud-Hybrid network topology,
-  in order to optimise and test methods for offloading Tasks from user's device
-  to edge-server or cloud-server.
 
 # Frameworks
 
