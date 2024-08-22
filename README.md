@@ -497,6 +497,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   - The results are stored in a raw format in a nosql database. The simpler the
     format, the easier it is to perform any type of statistics.
 
+- [ECHOES](https://github.com/TadavomnisT/ECHOES): ECHOES stands for "Edge and
+  Cloud Hybrid Optimization Environment Simulator", which is a free and
+  open-source tool to simulate an Edge/Cloud-Hybrid network topology,
+  in order to optimise and test methods for offloading Tasks from user's device
+  to edge-server or cloud-server.
+
 # Frameworks
 
 ## Engine
