@@ -131,6 +131,13 @@
   of edge computing and caching. This simulator system contains three models:
   Content, Base Station and User.
 
+- [EmuEdge](https://github.com/emuedge/emuedge): EmuEdge is a scalable, Hi-Fi,
+  highly-automated real-world network emulator based on Xen/Linux Netns/OvS,
+  supporting edge computing prototyping and general network emulation with both
+  container/vm and can be hybridly combined with existing physical
+  infrastructures. 
+
+
 - [EmuFog](https://github.com/emufog/emufog): EmuFog helps to test fog computing
   applications more efficiently. Instead of actual deploying large network
   topologies with your application to test, EmuFog helps to generate networks
