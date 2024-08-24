@@ -131,6 +131,20 @@
   of edge computing and caching. This simulator system contains three models:
   Content, Base Station and User.
 
+- [Emu5GNet](https://github.com/tsylla/5grail-emu5gnet): This emulation
+  environment has been created to allow researchers/industrials to develop and
+  deploy applications in complex 5G network architecture (SA and NSA) for
+  enabling both emulations of the network and data processing in realistic E2E
+  scenarios. Emu5GNet allows the execution of 5G RAN and Core using Mininet-Wifi
+  environment and [containernet](https://containernet.github.io/). The 5G RAN
+  and Core can be packed inside docker containers. Emu5GNet also allows the
+  integration of full ETSI NFV compliant infrastructure based on [vim-emu]
+  (https://github.com/containernet/vim-emu) platform. This last integration of
+  an enhancement of **vim-emu** enables the interconnection of Mininet-Wifi
+  Access points and vim-emu datacenters and, allows the network functions
+  migration across edge datacenters.
+
+
 - [EmuEdge](https://github.com/emuedge/emuedge): EmuEdge is a scalable, Hi-Fi,
   highly-automated real-world network emulator based on Xen/Linux Netns/OvS,
   supporting edge computing prototyping and general network emulation with both
