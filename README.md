@@ -12,9 +12,9 @@
    * [Star History](#star-history)
 # Awesome edge computing
 
-```java
-// All artifacts are arranged in alphabetical order.
-```
+
+⚠️Notice: All artifacts are arranged in **alphabetical order**.
+
 
 # Simulators
 
@@ -131,6 +131,13 @@
   of edge computing and caching. This simulator system contains three models:
   Content, Base Station and User.
 
+- [EdgeSimPy](https://github.com/EdgeSimPy/EdgeSimPy): EdgeSimPy models the
+  lifecycle of containerized applications through several functional
+  abstractions that replicate the behavior of container runtimes like Docker. In
+  addition, EdgeSimPy features a flexible input format that allows users to
+  define custom parameters for simulated entities out-of-the-box, extending the
+  simulator’s built-in capabilities without modifying its core features.
+
 - [Emu5GNet](https://github.com/tsylla/5grail-emu5gnet): This emulation
   environment has been created to allow researchers/industrials to develop and
   deploy applications in complex 5G network architecture (SA and NSA) for
@@ -144,13 +151,11 @@
   Access points and vim-emu datacenters and, allows the network functions
   migration across edge datacenters.
 
-
 - [EmuEdge](https://github.com/emuedge/emuedge): EmuEdge is a scalable, Hi-Fi,
   highly-automated real-world network emulator based on Xen/Linux Netns/OvS,
   supporting edge computing prototyping and general network emulation with both
   container/vm and can be hybridly combined with existing physical
   infrastructures. 
-
 
 - [EmuFog](https://github.com/emufog/emufog): EmuFog helps to test fog computing
   applications more efficiently. Instead of actual deploying large network
