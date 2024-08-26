@@ -397,6 +397,13 @@ Software-Defined Wireless Networks.
   (IoT), connected vehicles/VANETs/MANET, Mist computing environments (peer-to
   peer networks such as mobile devices Cloud), and mobile Edge computing.
 
+- [RaSim](http://snslab.kangwon.ac.kr/v2/RaSim/index.html): RaSim (Raspberry-Pi
+	Simulator) is a software that simulates the motion and interaction of the edge
+	things in the IoT environment. The purpose of RaSim is to test through virtual
+	things before physically constructing things at the edge. Through simulations,
+	it identifies information on structural problems, defects, pros/cons of
+	strategies, resources usage to things of clusters built in edge computing. 
+
 - [RECAP-DES](https://bitbucket.org/RECAP-DES/recap-des/src/master/): RECAP
   Discrete Event Simulation Framework an extension for CloudSimPlus
 
