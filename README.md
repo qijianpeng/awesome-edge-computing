@@ -324,6 +324,11 @@
 - [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi): Emulator for 
 Software-Defined Wireless Networks.
 
+- [MintEDGE](https://github.com/blasf1/MintEDGE): MintEDGE is a flexible edge
+  computing simulation framework that allows the configuration of various
+  aspects of the infrastructure and enables researchers to test novel energy
+  optimization strategies. 
+
 - [MobEmu](https://github.com/raduciobanu/mobemu): An opportunistic network
   emulator that can run a user-created routing or dissemination algorithm on a
   desired mobility trace or synthetic model.
@@ -1416,7 +1421,7 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   Provides information very much related to the work of the ETSI ISG MEC
   Deployment and ECOsystem DEvelopment (DECODE) Working Group, whose aim is to
   accelerate the development of the MEC ecosystem
-  
+
 # Star History
 
 <a href="https://github.com/qijianpeng/awesome-edge-computing/stargazers">
