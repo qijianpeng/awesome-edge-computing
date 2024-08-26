@@ -293,6 +293,13 @@
   Mininet emulation environment to span the emulation across several physical
   machines. This allows to emulate very large SDN networks.
 
+- [MEC-simulator](https://github.com/telematics-dev/MEC-simulator): An extension
+  of the network simulator ns-3, implementing entities (e.g., base stations, MEC
+  Hosts, etc.), interactions, and functionalities (e.g., orchestration of MEC
+  resources, distribution of tasks, etc.) standardized in the context of
+  ETSI-MEC, while supporting multi-cell scenarios with mobile users and
+  different user load generator models.
+
 - [MobFogSim](https://github.com/diogomg/MobFogSim): An extension which can
   support for Mobility of __iFogSim__. MobFogSim can model more generalised
   aspects related to device mobility and VM/container migration in the fog,
