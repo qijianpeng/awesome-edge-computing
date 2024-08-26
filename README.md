@@ -341,6 +341,12 @@ Software-Defined Wireless Networks.
   Named Data Networking (NDN) communication model, the clean slate Internet
   design.
 
+- [NextGSim](https://github.com/6G-Future-Lab-Bavaria/NextGSim): NextGSim
+  provides a simulation environment focusing on resource management aspects in
+  mobile edge computing scenarios. It consists of mainly two parts: Radio
+  Network simulation and Edge Computing simulation. These two simulations are
+  loosely connected to enable both independent and joint use.
+
 - [NFaaS](https://gitlab.com/mharnen/NFaaS): Enabling to migrate functions
   closer to the user in ICN environment without a global view of the network.
 
@@ -1406,6 +1412,11 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   Discover & find a curated list of popular & new libraries, top authors,
   trending project kits, discussions, tutorials & learning resources on kandi.
 
+- [MEC Ecosystem](https://mecwiki.etsi.org/index.php?title=MEC_Ecosystem):
+  Provides information very much related to the work of the ETSI ISG MEC
+  Deployment and ECOsystem DEvelopment (DECODE) Working Group, whose aim is to
+  accelerate the development of the MEC ecosystem
+  
 # Star History
 
 <a href="https://github.com/qijianpeng/awesome-edge-computing/stargazers">
