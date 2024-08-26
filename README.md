@@ -124,6 +124,16 @@
   applications on Edge anc Cloud Computing environments. ECSNeT++ is implemented
   using the OMNeT++ and the INET framework.
 
+- [EdgeAISim](https://github.com/MuhammedGolec/EdgeAISim): A Python-based
+  toolkit for simulating and modelling AI models in edge computing environments.
+  EdgeAISim extends [EdgeSimPy](https://github.com/EdgeSimPy/EdgeSimPy) and
+  incorporates AI models like Multi-Armed Bandit and Deep Q-Networks to optimise
+  power usage and task migration. The toolkit outperforms baseline worst-fit
+  algorithms, showcasing its potential in sustainable edge computing by
+  significantly reducing power consumption and enhancing task management for
+  various large-scale scenarios.
+
+
 - [EdgeCloudSim](https://github.com/CagataySonmez/EdgeCloudSim): EdgeCloudSim:
   An Environment for Performance Evaluation of Edge Computing Systems.
 
