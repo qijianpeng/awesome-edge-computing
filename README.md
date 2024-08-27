@@ -552,6 +552,11 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   interaction between a microscopic mobility model and network simulators such
   as OMNeT++.
 
+- [WoTemu](https://github.com/agmangas/wotemu): An emulator for Python
+  applications to help in the design of IoT deployments based on the edge
+  computing model. It is focused on the Web of Things paradigm by offering
+  extended support for applications programmed with WoTPy.
+
 - [YAFS(Yet Another Fog Simulator)](https://github.com/acsicuib/YAFS): YAFS is a
   simulator tool based on Python of architectures such as: Fog Computing
   ecosystems for several analysis regarding with the placement of resources,
