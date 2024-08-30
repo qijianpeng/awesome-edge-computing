@@ -1391,6 +1391,23 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   Everyone is welcome to participate in the collaborative construction to
   promote the further improvement of the TNN inference framework.
 
+- [Torch-Pruning (TP)](https://github.com/VainF/Torch-Pruning): TP enables
+  structural pruning for a wide range of deep neural networks, including [Large
+  Language Models
+  (LLMs)](https://github.com/VainF/Torch-Pruning/tree/master/examples/LLMs),
+  [Segment Anything Model (SAM)](https://github.com/czg1225/SlimSAM), [Diffusion
+  Models](https://github.com/VainF/Diff-Pruning), [Vision
+  Transformers](https://github.com/VainF/Isomorphic-Pruning),
+  [ConvNext](https://github.com/VainF/Isomorphic-Pruning),
+  [Yolov7](examples/yolov7/), [yolov8](examples/yolov8/),  [Swin
+  Transformers](examples/transformers#swin-transformers-from-hf-transformers),
+  [BERT](examples/transformers#bert-from-hf-transformers), FasterRCNN, SSD,
+  ResNe(X)t, DenseNet, RegNet, DeepLab, etc. Different from
+  [torch.nn.utils.prune](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)
+  that zeroizes parameters through masking, Torch-Pruning deploys an algorithm
+  called
+  **[DepGraph](https://openaccess.thecvf.com/content/CVPR2023/html/Fang_DepGraph_Towards_Any_Structural_Pruning_CVPR_2023_paper.html)**
+  to remove parameters physically. 
 
 - [uTensor](https://github.com/uTensor/uTensor): uTensor is an extremely
   light-weight machine learning inference framework built on Tensorflow and
