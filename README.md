@@ -538,6 +538,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   interactions between vehicles and infrastructure through DSRC-enabled wireless
   communication capability. 
 
+- [Vessim](https://github.com/dos-group/vessim) A co-simulation testbed for
+  carbon-aware applications, applicable in edge computing environments. Vessim
+  builds on the Mosaik framework, offering a high-level Python API to integrate
+  renewable energy system simulators with real hardware and
+  software-in-the-loop capabilities.
+
 - [VirtFogSim](https://github.com/mscarpiniti/VirtFogSim): VirtFogSim is a
   MATLAB-supported software toolbox that allows the dynamic joint optimization
   and tracking of the energy and delay performance of Mobile-Fog-Cloud systems
