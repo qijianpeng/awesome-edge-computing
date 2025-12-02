@@ -950,6 +950,17 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   NetworkX ideal for representing networks found in many different scientific
   fields.
 
+- [Network Modeling
+  Datasets](https://github.com/BNN-UPC/NetworkModelingDatasets): This repository
+  provides datasets generated using a custom OMNeT++ simulator, covering diverse
+  network topologies, routing configurations and traffic patterns. Each sample
+  includes precise end-to-end performance metrics, such as
+  per-source–destination packet-level delay, jitter and loss, with detailed
+  instructions available in each dataset’s root directory. These datasets are
+  intended to facilitate the design, training and evaluation of ML-based network
+  models and to support fair benchmarking against prior state-of-the-art
+  approaches on a common dataset.
+
 - [Neural Network Accelerator
   Comparison](http://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/):
   A comparison of AI hardware accelerators among different platform.
