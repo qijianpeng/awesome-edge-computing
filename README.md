@@ -1347,7 +1347,7 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   to the ONNX and deployed with DeepSparse for GPU-class performance on CPU
   hardware.
 
-- [Shimmy](https://github.com/ptsochantaris/shimmy): Self-hosted AI inference
+- [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy): Self-hosted AI inference
   server with OpenAI API compatibility, designed for edge deployment. Supports
   multiple model formats (GGUF, Core ML, etc.) with built-in streaming and
   multimodal capabilities. Lightweight and fast for resource-constrained edge
