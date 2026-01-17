@@ -595,6 +595,11 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 # Frameworks
 
 ## Engine
+- [AimDB](https://github.com/aimdb/aimdb): An async, in-memory data bridge that 
+  syncs records across microcontrollers, edge gateways and cloud instances. Define 
+  once, stream and sync everywhere. Same API from MCU to cloud with Tokio and 
+  Embassy support for no_std/embedded environments.
+
 - [Akraino Edge Stack](https://www.lfedge.org/projects/akraino/): Akraino is a
   set of open infrastructures and application blueprints for the Edge, spanning
   a broad variety of use cases, including 5G, AI, Edge IaaS/PaaS, IoT, for both
