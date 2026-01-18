@@ -595,7 +595,7 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 # Frameworks
 
 ## Engine
-- [AimDB](https://github.com/aimdb/aimdb): An async, in-memory data bridge that 
+- [AimDB](https://github.com/aimdb-dev/aimdb): An async, in-memory data bridge that 
   syncs records across microcontrollers, edge gateways and cloud instances. Define 
   once, stream and sync everywhere. Same API from MCU to cloud with Tokio and 
   Embassy support for no_std/embedded environments.
