@@ -594,6 +594,9 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 
 # Frameworks
 
+## Edge AI Hardware Products
+- [ClawBox](https://dedicated-ai-hardware.com) - Pre-configured edge AI assistant box powered by NVIDIA Jetson Orin Nano (67 TOPS, 15W). Runs [OpenClaw](https://github.com/openclaw/openclaw) for always-on, privacy-first AI with multi-platform messaging support.
+
 ## Engine
 - [AimDB](https://github.com/aimdb-dev/aimdb): An async, in-memory data bridge that 
   syncs records across microcontrollers, edge gateways and cloud instances. Define 
