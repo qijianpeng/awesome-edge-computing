@@ -914,6 +914,10 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   been selected based on their popularity in today’s datacenters. The benchmarks
   are based on real-world software stacks and represent real-world setups.
 
+- [ClusterData](https://github.com/alibaba/clusterdata): Alibaba ClusterData is
+  a collection of production cluster traces for cloud scheduling, resource
+  management, and data center systems research.
+
 - [DeFog](https://github.com/qub-blesson/DeFog): DeFog, a first Fog benchmarking
   suite to: (i) alleviate the burden of Fog benchmarking by using a standard
   methodology, and (ii) facilitate the understanding of the target platform by
