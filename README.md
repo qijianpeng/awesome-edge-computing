@@ -29,6 +29,7 @@ languages, and other aspects, please refer to our paper: https://arxiv.org/abs/2
       url={https://arxiv.org/abs/2505.09995}, 
 }
 ```
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for edge computing workflow orchestration, automated distributed system management, and multi-agent coordination. MIT licensed.
 # Simulators
 
 - [Artery](http://artery.v2x-research.eu/): Artery enables V2X simulations based
