@@ -744,6 +744,13 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   developers to author custom logic and enable resource constrained device
   communication at the Edge. KubeEdge consists of a cloud part and an edge part.
 
+- [KubeStellar Console](https://github.com/kubestellar/console): Open source AI-powered
+  multi-cluster Kubernetes dashboard for hybrid edge and cloud environments. Provides
+  real-time observability across edge and cloud clusters with 20+ CNCF integrations
+  (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco, OPA/Gatekeeper), AI-guided
+  cluster operations, and unified management of distributed edge workloads. CNCF Sandbox
+  project (Apache 2.0).
+
 - [OCI](https://github.com/marckoerner/oci):  a framework that enables network
   operators with the ability to open up their edge facilities to Application
   Service Providers, by offering edge computing. As an example, consider a
