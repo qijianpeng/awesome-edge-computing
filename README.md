@@ -1210,6 +1210,8 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   device in the network (systems heterogeneity), and (2) non-identically
   distributed data across the network (statistical heterogeneity).
 
+
+- [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) - CPU-only neural network for edge deployment. Cascade MoE with 18ms inference, 3.5GB model, no GPU required. Ideal for edge AI applications.
 - [GNN-RL pipleline](https://gnn-rl.readthedocs.io/en/latest/): GNN-RL pipleline is a
   toolkit to help users extract topology information through reinforcement
   learning task (e.g., topology-aware neural network compression and job
