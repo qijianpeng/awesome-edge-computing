@@ -677,6 +677,7 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   for partitioning a cloud server and offloading it to edge nodes for improving
   the overall QoS of the application.
 
+- [ForestHub edge-agents](https://github.com/ForestHubAI/edge-agents): The ~30 MB open-source edge AI agent runtime from [ForestHub](https://foresthub.ai). Runs offline on Linux edge devices (Raspberry Pi, Jetson, industrial gateways), with GPIO/UART/MQTT as first-class nodes and local SLMs alongside cloud LLMs. Engine ships as a distroless container; visual builder included.
 - [EdgeGallery (Documents maintained in
   Chinese)](https://gitee.com/edgegallery): EdgeGallery is a 5G edge computing
   open source project supported by device vendors, operators, vertical industry
