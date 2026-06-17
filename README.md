@@ -1033,6 +1033,8 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   properties of wide area networks. The current version emulates variable delay,
   loss, duplication and re-ordering.
 
+- [GCF-bridge](https://github.com/shijiuzhang/GCF-bridge): A lightweight, efficient bridge tool designed for the Cloudflare ecosystem.
+
 - [nmon](http://nmon.sourceforge.net/pmwiki.php): This systems administrator,
   tuner, benchmark tool gives you a huge amount of important performance
   information in one go. Many helpful tools for data analysis can be also found
