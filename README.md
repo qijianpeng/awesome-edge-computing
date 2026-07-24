@@ -840,6 +840,9 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   In other words, WSO2–IoT server provides the FEC computing capability to
   outer-edge devices.
 
+- [Xybrid](https://github.com/xybrid-ai/xybrid): An open-source, local-first
+  runtime for running LLMs, ASR, and TTS natively in apps and games.
+
 
 ## Networks
 - [Awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools):A
