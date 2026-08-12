@@ -1513,5 +1513,5 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 # Star History
 
 <a href="https://github.com/qijianpeng/awesome-edge-computing/stargazers">
-        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=qijianpeng/awesome-edge-computing&type=Date">
+        <img width="500" alt="Star History Chart" src="https://star-history.dera.page/svg?repos=qijianpeng/awesome-edge-computing&type=Date">
 </a>
