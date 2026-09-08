@@ -18,17 +18,8 @@
 For detailed comparisons across platforms, inheritance relationships, programming
 languages, and other aspects, please refer to our paper: https://arxiv.org/abs/2505.09995
 
-```tex
-@misc{qi2025surveyopensourceedgecomputing,
-      title={A Survey on Open-Source Edge Computing Simulators and Emulators: The Computing and Networking Convergence Perspective}, 
-      author={Jianpeng Qi and Chao Liu and Xiao Zhang and Lei Wang and Rui Wang and Junyu Dong and Yanwei Yu},
-      year={2025},
-      eprint={2505.09995},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI},
-      url={https://arxiv.org/abs/2505.09995}, 
-}
-```
+Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) for a more detailed, interactive introduction to this repository and its tools. 🚀
+
 # Simulators
 
 - [Artery](http://artery.v2x-research.eu/): Artery enables V2X simulations based
