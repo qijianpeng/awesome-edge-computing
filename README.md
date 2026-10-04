@@ -589,6 +589,11 @@ simulator focused on mobile cloud/edge/iot infrastructures.
 - [ClawBox](https://dedicated-ai-hardware.com) - Pre-configured edge AI assistant box powered by NVIDIA Jetson Orin Nano (67 TOPS, 15W). Runs [OpenClaw](https://github.com/openclaw/openclaw) for always-on, privacy-first AI with multi-platform messaging support.
 
 ## Engine
+- [Acurast](https://acurast.com/): A decentralized compute network built on
+  smartphones. Developers deploy Node.js or native Linux workloads to phones
+  around the world, and the phones' Trusted Execution Environments make the
+  execution verifiable and confidential.
+
 - [AimDB](https://github.com/aimdb-dev/aimdb): An async, in-memory data bridge that 
   syncs records across microcontrollers, edge gateways and cloud instances. Define 
   once, stream and sync everywhere. Same API from MCU to cloud with Tokio and 
