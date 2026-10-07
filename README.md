@@ -594,10 +594,10 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   around the world, and the phones' Trusted Execution Environments make the
   execution verifiable and confidential.
 
-- [AimDB](https://github.com/aimdb-dev/aimdb): An async, in-memory data bridge that 
-  syncs records across microcontrollers, edge gateways and cloud instances. Define 
-  once, stream and sync everywhere. Same API from MCU to cloud with Tokio and 
-  Embassy support for no_std/embedded environments.
+- [AimDB](https://github.com/aimdb-dev/aimdb): Data ingestion layer for
+  distributed systems with typed contracts, safe schema evolution and one place
+  to see and manage every node, from microcontroller to cloud. Runs on `no_std`
+  microcontrollers (Embassy) and Tokio.
 
 - [Akraino Edge Stack](https://www.lfedge.org/projects/akraino/): Akraino is a
   set of open infrastructures and application blueprints for the Edge, spanning
