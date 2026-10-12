@@ -786,6 +786,12 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   all-in-one hacking tool to remotely exploit Android devices using ADB and
   Metasploit-Framework to get a Meterpreter session.
 
+- [Spinifex](https://github.com/mulgadc/spinifex): An open-source,
+  AWS-compatible cloud for bare-metal, edge and on-premises deployments. It
+  runs EC2, EBS, S3, VPC and IAM on KVM with no external control plane, keeps
+  running through network disconnection, and works with the existing AWS CLI,
+  SDKs and Terraform. [Docs](https://docs.mulgadc.com)
+
 - [SuperEdge](https://github.com/superedge/superedge): SuperEdge is an open
   source container management system for edge computing to manage compute
   resources and container applications in multiple edge regions. These resources
