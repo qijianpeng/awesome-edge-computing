@@ -967,6 +967,8 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   Modeling computational service scenarios for Network AI, providing users with
   strategy algorithms for task scheduling research.
 
+- [rk-bench](https://github.com/anguoyang/rk-bench): A standardized benchmark leaderboard for public models on Rockchip boards (RK3588), measuring latency (p50/p95) with the NPU runtime's own hardware counters and reporting per-operator CPU fallback from PERF_DETAIL; includes FP/INT8 comparisons and core-mask studies.
+
 - [MLPerf Inference Benchmark Suite](https://github.com/mlcommons/inference):
   MLPerf Inference is a benchmark suite for measuring how fast systems can run
   models in a variety of deployment scenarios.
