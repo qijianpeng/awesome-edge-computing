@@ -1221,6 +1221,9 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   device in the network (systems heterogeneity), and (2) non-identically
   distributed data across the network (statistical heterogeneity).
 
+- [FRACTAL](https://github.com/AhmadHassan-BTed/FractalWorkspace): A decentralized
+  framework for federated learning, distributed edge computing, and training models
+  directly on Android and edge devices.
 
 - [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) - CPU-only neural network for edge deployment. Cascade MoE with 18ms inference, 3.5GB model, no GPU required. Ideal for edge AI applications.
 - [GNN-RL pipleline](https://gnn-rl.readthedocs.io/en/latest/): GNN-RL pipleline is a
