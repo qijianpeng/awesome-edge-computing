@@ -123,6 +123,11 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   in order to optimise and test methods for offloading Tasks from user's device
   to edge-server or cloud-server.
 
+- [ECLYPSE](https://github.com/eclypse-org/eclypse): A Python framework for
+  simulating and emulating service-based applications in the cloud-edge
+  continuum. Supports custom placement strategies, evolving infrastructure
+  resources and topology, and metrics collection.
+
 - [ECSNeT++](https://github.com/sedgecloud/ECSNeTpp): ECSNeT++ is a simulation
   toolkit for simulating the execution of Distributed Stream Processing
   applications on Edge anc Cloud Computing environments. ECSNeT++ is implemented
