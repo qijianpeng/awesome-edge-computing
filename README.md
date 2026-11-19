@@ -946,6 +946,10 @@ simulator focused on mobile cloud/edge/iot infrastructures.
   methodology, and (ii) facilitate the understanding of the target platform by
   collecting a catalogue of relevant metrics for a set of benchmarks.
 
+- [EC²-Bench](https://github.com/OpenBMB/EC2-Bench): A benchmark for edge–cloud
+  collaboration in LLM agents, with 128 executable digital workspace tasks and
+  metrics for task performance, resource usage, and privacy exposure.
+
 - [Edge AIBench](https://www.benchcouncil.org/EdgeAIBench/index.html): Edge
   AIBench is a benchmark suite for end-to-end edge computing including four
   typical application scenarios: ICU Patient Monitor, Surveillance Camera, Smart
